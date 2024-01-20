@@ -70,21 +70,24 @@ var OpenStreetMap_DE = L.tileLayer(
   }
 );
 
-var satellite = L.tileLayer(
+/*var satellite = L.tileLayer(
   "https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}",
   {
     attribution:
       "Tiles &copy; Esri &mdash; Source: Esri, i-cubed, USDA, USGS, AEX, GeoEye, Getmapping, Aerogrid, IGN, IGP, UPR-EGP, and the GIS User Community",
   }
-);
+);*/
 
 //leaflet layer control
 var baseMaps = {
   "Open Topo Map": OpenTopoMap,
   "Open Street Map": OpenStreetMap_DE,
-  Satellite: satellite,
+  //Satellite: satellite,
 };
 
+L.control.layers(baseMaps).addTo(map);
+
+/*
 // Create an overlay layers object
 var overlays = {
   "City Labels": cityLabels,
@@ -100,6 +103,7 @@ map.on("baselayerchange", function (eventLayer) {
     map.removeLayer(cityLabels);
   }
 });
+*/
 
 var marker = [];
 var markerLayer = L.layerGroup();

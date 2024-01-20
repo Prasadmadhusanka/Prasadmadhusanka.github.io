@@ -1,6 +1,6 @@
 #model1 {
   display: none;
-  height: 70vh;
+  height: 80vh;
 }
 
 #model2 {
@@ -10,7 +10,7 @@
 
 #model3 {
   display: none;
-  height: 100vh;
+  height: 80vh;
 }
 
 #warningModal {
@@ -20,7 +20,7 @@
 
 #aboutModal {
   display: none;
-  height: 100vh;
+  height: 80vh;
 }
 
 #warningModal .modal-header {
