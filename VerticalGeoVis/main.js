@@ -71,10 +71,10 @@ var OpenStreetMap_DE = L.tileLayer(
 );
 
 var satellite = L.tileLayer(
-  "https://api.maptiler.com/maps/satellite/{z}/{x}/{y}.jpg?key=j44CDnWpdQElQVPjWTS8",
+  "https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}",
   {
     attribution:
-      '<a href="https://www.maptiler.com/copyright/" target="_blank">&copy; MapTiler</a> <a href="https://www.openstreetmap.org/copyright" target="_blank">&copy; OpenStreetMap contributors</a>',
+      "Tiles &copy; Esri &mdash; Source: Esri, i-cubed, USDA, USGS, AEX, GeoEye, Getmapping, Aerogrid, IGN, IGP, UPR-EGP, and the GIS User Community",
   }
 );
 
@@ -536,12 +536,19 @@ function inject_d3_approach(data, jsonurl) {
         return d.parent === root ? "inline" : "none";
       })
       .text(function (d) {
-        if (d.data.station && d.data.attribute_value || d.data.attribute_value==0) {
-          var fullName = d.data.station + " ---> " + d.data.name + " : " + d.data.attribute_value;
-        } else if(d.data.attribute_value || d.data.attribute_value==0){
+        if (
+          (d.data.station && d.data.attribute_value) ||
+          d.data.attribute_value == 0
+        ) {
+          var fullName =
+            d.data.station +
+            " ---> " +
+            d.data.name +
+            " : " +
+            d.data.attribute_value;
+        } else if (d.data.attribute_value || d.data.attribute_value == 0) {
           var fullName = d.data.name + " : " + d.data.attribute_value;
-        }
-        else {
+        } else {
           var fullName = d.data.name;
         }
         return fullName;
