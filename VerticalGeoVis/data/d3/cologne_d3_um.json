@@ -1,0 +1,1520 @@
+{
+  "name": "Cologne",
+  "children": [
+    {
+      "name": "Fine dust (PM10)",
+      "children": [
+        {
+          "name": "January",
+          "children": [
+            {
+              "name": "Cologne Clevischer Ring",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Cologne Clevischer Ring",
+                  "attribute_value": 19.419354838709676,
+                  "value": 7689
+                }
+              ]
+            },
+            {
+              "name": "Cologne Turiner Straße",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Cologne Turiner Straße",
+                  "attribute_value": 19.466666666666665,
+                  "value": 9639
+                }
+              ]
+            },
+            {
+              "name": "Cologne-Chorweiler",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Cologne-Chorweiler",
+                  "attribute_value": 18.451612903225808,
+                  "value": 5663
+                }
+              ]
+            },
+            {
+              "name": "Cologne-Rodenkirchen",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Cologne-Rodenkirchen",
+                  "attribute_value": 15.483870967741936,
+                  "value": 8176
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "February",
+          "children": [
+            {
+              "name": "Cologne Clevischer Ring",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Cologne Clevischer Ring",
+                  "attribute_value": 13.714285714285714,
+                  "value": 7220
+                }
+              ]
+            },
+            {
+              "name": "Cologne Turiner Straße",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Cologne Turiner Straße",
+                  "attribute_value": 13.857142857142858,
+                  "value": 10617
+                }
+              ]
+            },
+            {
+              "name": "Cologne-Chorweiler",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Cologne-Chorweiler",
+                  "attribute_value": 12.821428571428571,
+                  "value": 3870
+                }
+              ]
+            },
+            {
+              "name": "Cologne-Rodenkirchen",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Cologne-Rodenkirchen",
+                  "attribute_value": 10.857142857142858,
+                  "value": 4633
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "March",
+          "children": [
+            {
+              "name": "Cologne Clevischer Ring",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Cologne Clevischer Ring",
+                  "attribute_value": 28.419354838709676,
+                  "value": 1487
+                }
+              ]
+            },
+            {
+              "name": "Cologne Turiner Straße",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Cologne Turiner Straße",
+                  "attribute_value": 24.806451612903224,
+                  "value": 12752
+                }
+              ]
+            },
+            {
+              "name": "Cologne-Chorweiler",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Cologne-Chorweiler",
+                  "attribute_value": 24,
+                  "value": 1250
+                }
+              ]
+            },
+            {
+              "name": "Cologne-Rodenkirchen",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Cologne-Rodenkirchen",
+                  "attribute_value": 21.870967741935484,
+                  "value": 6098
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "April",
+          "children": [
+            {
+              "name": "Cologne Clevischer Ring",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Cologne Clevischer Ring",
+                  "attribute_value": 16.133333333333333,
+                  "value": 13678
+                }
+              ]
+            },
+            {
+              "name": "Cologne Turiner Straße",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Cologne Turiner Straße",
+                  "attribute_value": 16.133333333333333,
+                  "value": 1072
+                }
+              ]
+            },
+            {
+              "name": "Cologne-Chorweiler",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Cologne-Chorweiler",
+                  "attribute_value": 14.3,
+                  "value": 12459
+                }
+              ]
+            },
+            {
+              "name": "Cologne-Rodenkirchen",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Cologne-Rodenkirchen",
+                  "attribute_value": 12.433333333333334,
+                  "value": 7034
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "May",
+          "children": [
+            {
+              "name": "Cologne Clevischer Ring",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Cologne Clevischer Ring",
+                  "attribute_value": 19.5,
+                  "value": 7486
+                }
+              ]
+            },
+            {
+              "name": "Cologne Turiner Straße",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Cologne Turiner Straße",
+                  "attribute_value": 19.032258064516128,
+                  "value": 6163
+                }
+              ]
+            },
+            {
+              "name": "Cologne-Chorweiler",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Cologne-Chorweiler",
+                  "attribute_value": 18.392857142857142,
+                  "value": 1109
+                }
+              ]
+            },
+            {
+              "name": "Cologne-Rodenkirchen",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Cologne-Rodenkirchen",
+                  "attribute_value": 16.7,
+                  "value": 725
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "June",
+          "children": [
+            {
+              "name": "Cologne Clevischer Ring",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Cologne Clevischer Ring",
+                  "attribute_value": 15.666666666666666,
+                  "value": 5344
+                }
+              ]
+            },
+            {
+              "name": "Cologne Turiner Straße",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Cologne Turiner Straße",
+                  "attribute_value": 16,
+                  "value": 1221
+                }
+              ]
+            },
+            {
+              "name": "Cologne-Chorweiler",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Cologne-Chorweiler",
+                  "attribute_value": 15.793103448275861,
+                  "value": 6005
+                }
+              ]
+            },
+            {
+              "name": "Cologne-Rodenkirchen",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Cologne-Rodenkirchen",
+                  "attribute_value": 15,
+                  "value": 5938
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "July",
+          "children": [
+            {
+              "name": "Cologne Clevischer Ring",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Cologne Clevischer Ring",
+                  "attribute_value": 15.483870967741936,
+                  "value": 12154
+                }
+              ]
+            },
+            {
+              "name": "Cologne Turiner Straße",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Cologne Turiner Straße",
+                  "attribute_value": 16,
+                  "value": 5455
+                }
+              ]
+            },
+            {
+              "name": "Cologne-Chorweiler",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Cologne-Chorweiler",
+                  "attribute_value": 17.06451612903226,
+                  "value": 13271
+                }
+              ]
+            },
+            {
+              "name": "Cologne-Rodenkirchen",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Cologne-Rodenkirchen",
+                  "attribute_value": 15.67741935483871,
+                  "value": 6519
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "August",
+          "children": [
+            {
+              "name": "Cologne Clevischer Ring",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Cologne Clevischer Ring",
+                  "attribute_value": 19.333333333333332,
+                  "value": 9759
+                }
+              ]
+            },
+            {
+              "name": "Cologne Turiner Straße",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Cologne Turiner Straße",
+                  "attribute_value": 18,
+                  "value": 14457
+                }
+              ]
+            },
+            {
+              "name": "Cologne-Chorweiler",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Cologne-Chorweiler",
+                  "attribute_value": 19.3,
+                  "value": 8338
+                }
+              ]
+            },
+            {
+              "name": "Cologne-Rodenkirchen",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Cologne-Rodenkirchen",
+                  "attribute_value": 19.285714285714285,
+                  "value": 10983
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "September",
+          "children": [
+            {
+              "name": "Cologne Clevischer Ring",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Cologne Clevischer Ring",
+                  "attribute_value": 13.733333333333333,
+                  "value": 14180
+                }
+              ]
+            },
+            {
+              "name": "Cologne Turiner Straße",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Cologne Turiner Straße",
+                  "attribute_value": 13.666666666666666,
+                  "value": 4975
+                }
+              ]
+            },
+            {
+              "name": "Cologne-Chorweiler",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Cologne-Chorweiler",
+                  "attribute_value": 13.366666666666667,
+                  "value": 13566
+                }
+              ]
+            },
+            {
+              "name": "Cologne-Rodenkirchen",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Cologne-Rodenkirchen",
+                  "attribute_value": 12.733333333333333,
+                  "value": 4687
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "October",
+          "children": [
+            {
+              "name": "Cologne Clevischer Ring",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Cologne Clevischer Ring",
+                  "attribute_value": 19.3,
+                  "value": 11807
+                }
+              ]
+            },
+            {
+              "name": "Cologne Turiner Straße",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Cologne Turiner Straße",
+                  "attribute_value": 17.451612903225808,
+                  "value": 13310
+                }
+              ]
+            },
+            {
+              "name": "Cologne-Chorweiler",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Cologne-Chorweiler",
+                  "attribute_value": 18.967741935483872,
+                  "value": 8300
+                }
+              ]
+            },
+            {
+              "name": "Cologne-Rodenkirchen",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Cologne-Rodenkirchen",
+                  "attribute_value": 18,
+                  "value": 6997
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "November",
+          "children": [
+            {
+              "name": "Cologne Clevischer Ring",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Cologne Clevischer Ring",
+                  "attribute_value": 15.4,
+                  "value": 10136
+                }
+              ]
+            },
+            {
+              "name": "Cologne Turiner Straße",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Cologne Turiner Straße",
+                  "attribute_value": 14.033333333333333,
+                  "value": 9228
+                }
+              ]
+            },
+            {
+              "name": "Cologne-Chorweiler",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Cologne-Chorweiler",
+                  "attribute_value": 14.517241379310345,
+                  "value": 14825
+                }
+              ]
+            },
+            {
+              "name": "Cologne-Rodenkirchen",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Cologne-Rodenkirchen",
+                  "attribute_value": 12,
+                  "value": 12858
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "December",
+          "children": [
+            {
+              "name": "Cologne Clevischer Ring",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Cologne Clevischer Ring",
+                  "attribute_value": 21,
+                  "value": 7170
+                }
+              ]
+            },
+            {
+              "name": "Cologne Turiner Straße",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Cologne Turiner Straße",
+                  "attribute_value": 19.774193548387096,
+                  "value": 8193
+                }
+              ]
+            },
+            {
+              "name": "Cologne-Chorweiler",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Cologne-Chorweiler",
+                  "attribute_value": 20.193548387096776,
+                  "value": 12726
+                }
+              ]
+            },
+            {
+              "name": "Cologne-Rodenkirchen",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Cologne-Rodenkirchen",
+                  "attribute_value": 16.666666666666668,
+                  "value": 6484
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Nitrogen dioxide (NO2)",
+      "children": [
+        {
+          "name": "January",
+          "children": [
+            {
+              "name": "Cologne Clevischer Ring",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Cologne Clevischer Ring",
+                  "attribute_value": 82,
+                  "value": 1843
+                }
+              ]
+            },
+            {
+              "name": "Cologne Turiner Straße",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Cologne Turiner Straße",
+                  "attribute_value": 73,
+                  "value": 2956
+                }
+              ]
+            },
+            {
+              "name": "Cologne-Chorweiler",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Cologne-Chorweiler",
+                  "attribute_value": 69,
+                  "value": 9613
+                }
+              ]
+            },
+            {
+              "name": "Cologne-Rodenkirchen",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Cologne-Rodenkirchen",
+                  "attribute_value": 64,
+                  "value": 14499
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "February",
+          "children": [
+            {
+              "name": "Cologne Clevischer Ring",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Cologne Clevischer Ring",
+                  "attribute_value": 86,
+                  "value": 14152
+                }
+              ]
+            },
+            {
+              "name": "Cologne Turiner Straße",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Cologne Turiner Straße",
+                  "attribute_value": 78,
+                  "value": 11826
+                }
+              ]
+            },
+            {
+              "name": "Cologne-Chorweiler",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Cologne-Chorweiler",
+                  "attribute_value": 66,
+                  "value": 2904
+                }
+              ]
+            },
+            {
+              "name": "Cologne-Rodenkirchen",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Cologne-Rodenkirchen",
+                  "attribute_value": 66,
+                  "value": 14861
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "March",
+          "children": [
+            {
+              "name": "Cologne Clevischer Ring",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Cologne Clevischer Ring",
+                  "attribute_value": 133,
+                  "value": 6543
+                }
+              ]
+            },
+            {
+              "name": "Cologne Turiner Straße",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Cologne Turiner Straße",
+                  "attribute_value": 120,
+                  "value": 14090
+                }
+              ]
+            },
+            {
+              "name": "Cologne-Chorweiler",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Cologne-Chorweiler",
+                  "attribute_value": 83,
+                  "value": 7092
+                }
+              ]
+            },
+            {
+              "name": "Cologne-Rodenkirchen",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Cologne-Rodenkirchen",
+                  "attribute_value": 124,
+                  "value": 12295
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "April",
+          "children": [
+            {
+              "name": "Cologne Clevischer Ring",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Cologne Clevischer Ring",
+                  "attribute_value": 93,
+                  "value": 3843
+                }
+              ]
+            },
+            {
+              "name": "Cologne Turiner Straße",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Cologne Turiner Straße",
+                  "attribute_value": 95,
+                  "value": 6524
+                }
+              ]
+            },
+            {
+              "name": "Cologne-Chorweiler",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Cologne-Chorweiler",
+                  "attribute_value": 68,
+                  "value": 8698
+                }
+              ]
+            },
+            {
+              "name": "Cologne-Rodenkirchen",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Cologne-Rodenkirchen",
+                  "attribute_value": 75,
+                  "value": 5297
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "May",
+          "children": [
+            {
+              "name": "Cologne Clevischer Ring",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Cologne Clevischer Ring",
+                  "attribute_value": 96,
+                  "value": 2675
+                }
+              ]
+            },
+            {
+              "name": "Cologne Turiner Straße",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Cologne Turiner Straße",
+                  "attribute_value": 99,
+                  "value": 730
+                }
+              ]
+            },
+            {
+              "name": "Cologne-Chorweiler",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Cologne-Chorweiler",
+                  "attribute_value": 66,
+                  "value": 511
+                }
+              ]
+            },
+            {
+              "name": "Cologne-Rodenkirchen",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Cologne-Rodenkirchen",
+                  "attribute_value": 89,
+                  "value": 13180
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "June",
+          "children": [
+            {
+              "name": "Cologne Clevischer Ring",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Cologne Clevischer Ring",
+                  "attribute_value": 100,
+                  "value": 13192
+                }
+              ]
+            },
+            {
+              "name": "Cologne Turiner Straße",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Cologne Turiner Straße",
+                  "attribute_value": 106,
+                  "value": 13860
+                }
+              ]
+            },
+            {
+              "name": "Cologne-Chorweiler",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Cologne-Chorweiler",
+                  "attribute_value": 74,
+                  "value": 13198
+                }
+              ]
+            },
+            {
+              "name": "Cologne-Rodenkirchen",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Cologne-Rodenkirchen",
+                  "attribute_value": 88,
+                  "value": 9037
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "July",
+          "children": [
+            {
+              "name": "Cologne Clevischer Ring",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Cologne Clevischer Ring",
+                  "attribute_value": 95,
+                  "value": 12386
+                }
+              ]
+            },
+            {
+              "name": "Cologne Turiner Straße",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Cologne Turiner Straße",
+                  "attribute_value": 156,
+                  "value": 2502
+                }
+              ]
+            },
+            {
+              "name": "Cologne-Chorweiler",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Cologne-Chorweiler",
+                  "attribute_value": 69,
+                  "value": 5102
+                }
+              ]
+            },
+            {
+              "name": "Cologne-Rodenkirchen",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Cologne-Rodenkirchen",
+                  "attribute_value": 83,
+                  "value": 6300
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "August",
+          "children": [
+            {
+              "name": "Cologne Clevischer Ring",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Cologne Clevischer Ring",
+                  "attribute_value": 112,
+                  "value": 3816
+                }
+              ]
+            },
+            {
+              "name": "Cologne Turiner Straße",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Cologne Turiner Straße",
+                  "attribute_value": 107,
+                  "value": 5542
+                }
+              ]
+            },
+            {
+              "name": "Cologne-Chorweiler",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Cologne-Chorweiler",
+                  "attribute_value": 60,
+                  "value": 1233
+                }
+              ]
+            },
+            {
+              "name": "Cologne-Rodenkirchen",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Cologne-Rodenkirchen",
+                  "attribute_value": 104,
+                  "value": 10747
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "September",
+          "children": [
+            {
+              "name": "Cologne Clevischer Ring",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Cologne Clevischer Ring",
+                  "attribute_value": 118,
+                  "value": 8225
+                }
+              ]
+            },
+            {
+              "name": "Cologne Turiner Straße",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Cologne Turiner Straße",
+                  "attribute_value": 97,
+                  "value": 2505
+                }
+              ]
+            },
+            {
+              "name": "Cologne-Chorweiler",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Cologne-Chorweiler",
+                  "attribute_value": 68,
+                  "value": 8985
+                }
+              ]
+            },
+            {
+              "name": "Cologne-Rodenkirchen",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Cologne-Rodenkirchen",
+                  "attribute_value": 95,
+                  "value": 12397
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "October",
+          "children": [
+            {
+              "name": "Cologne Clevischer Ring",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Cologne Clevischer Ring",
+                  "attribute_value": 93,
+                  "value": 9471
+                }
+              ]
+            },
+            {
+              "name": "Cologne Turiner Straße",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Cologne Turiner Straße",
+                  "attribute_value": 69,
+                  "value": 5622
+                }
+              ]
+            },
+            {
+              "name": "Cologne-Chorweiler",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Cologne-Chorweiler",
+                  "attribute_value": 57,
+                  "value": 11883
+                }
+              ]
+            },
+            {
+              "name": "Cologne-Rodenkirchen",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Cologne-Rodenkirchen",
+                  "attribute_value": 57,
+                  "value": 10314
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "November",
+          "children": [
+            {
+              "name": "Cologne Clevischer Ring",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Cologne Clevischer Ring",
+                  "attribute_value": 99,
+                  "value": 11310
+                }
+              ]
+            },
+            {
+              "name": "Cologne Turiner Straße",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Cologne Turiner Straße",
+                  "attribute_value": 81,
+                  "value": 2368
+                }
+              ]
+            },
+            {
+              "name": "Cologne-Chorweiler",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Cologne-Chorweiler",
+                  "attribute_value": 57,
+                  "value": 11511
+                }
+              ]
+            },
+            {
+              "name": "Cologne-Rodenkirchen",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Cologne-Rodenkirchen",
+                  "attribute_value": 56,
+                  "value": 4927
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "December",
+          "children": [
+            {
+              "name": "Cologne Clevischer Ring",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Cologne Clevischer Ring",
+                  "attribute_value": 81,
+                  "value": 4277
+                }
+              ]
+            },
+            {
+              "name": "Cologne Turiner Straße",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Cologne Turiner Straße",
+                  "attribute_value": 75,
+                  "value": 3462
+                }
+              ]
+            },
+            {
+              "name": "Cologne-Chorweiler",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Cologne-Chorweiler",
+                  "attribute_value": 66,
+                  "value": 5847
+                }
+              ]
+            },
+            {
+              "name": "Cologne-Rodenkirchen",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Cologne-Rodenkirchen",
+                  "attribute_value": 62,
+                  "value": 8183
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ozone (O3)",
+      "children": [
+        {
+          "name": "January",
+          "children": [
+            {
+              "name": "Cologne-Chorweiler",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Cologne-Chorweiler",
+                  "attribute_value": 78,
+                  "value": 13619
+                }
+              ]
+            },
+            {
+              "name": "Cologne-Rodenkirchen",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Cologne-Rodenkirchen",
+                  "attribute_value": 74,
+                  "value": 10356
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "February",
+          "children": [
+            {
+              "name": "Cologne-Chorweiler",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Cologne-Chorweiler",
+                  "attribute_value": 78,
+                  "value": 7192
+                }
+              ]
+            },
+            {
+              "name": "Cologne-Rodenkirchen",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Cologne-Rodenkirchen",
+                  "attribute_value": 83,
+                  "value": 10777
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "March",
+          "children": [
+            {
+              "name": "Cologne-Chorweiler",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Cologne-Chorweiler",
+                  "attribute_value": 121,
+                  "value": 2523
+                }
+              ]
+            },
+            {
+              "name": "Cologne-Rodenkirchen",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Cologne-Rodenkirchen",
+                  "attribute_value": 115,
+                  "value": 9720
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "April",
+          "children": [
+            {
+              "name": "Cologne-Chorweiler",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Cologne-Chorweiler",
+                  "attribute_value": 112,
+                  "value": 6911
+                }
+              ]
+            },
+            {
+              "name": "Cologne-Rodenkirchen",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Cologne-Rodenkirchen",
+                  "attribute_value": 106,
+                  "value": 1077
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "May",
+          "children": [
+            {
+              "name": "Cologne-Chorweiler",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Cologne-Chorweiler",
+                  "attribute_value": 188,
+                  "value": 2122
+                }
+              ]
+            },
+            {
+              "name": "Cologne-Rodenkirchen",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Cologne-Rodenkirchen",
+                  "attribute_value": 164,
+                  "value": 10618
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "June",
+          "children": [
+            {
+              "name": "Cologne-Chorweiler",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Cologne-Chorweiler",
+                  "attribute_value": 173,
+                  "value": 14969
+                }
+              ]
+            },
+            {
+              "name": "Cologne-Rodenkirchen",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Cologne-Rodenkirchen",
+                  "attribute_value": 168,
+                  "value": 12603
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "July",
+          "children": [
+            {
+              "name": "Cologne-Chorweiler",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Cologne-Chorweiler",
+                  "attribute_value": 183,
+                  "value": 10015
+                }
+              ]
+            },
+            {
+              "name": "Cologne-Rodenkirchen",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Cologne-Rodenkirchen",
+                  "attribute_value": 197,
+                  "value": 5853
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "August",
+          "children": [
+            {
+              "name": "Cologne-Chorweiler",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Cologne-Chorweiler",
+                  "attribute_value": 152,
+                  "value": 13144
+                }
+              ]
+            },
+            {
+              "name": "Cologne-Rodenkirchen",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Cologne-Rodenkirchen",
+                  "attribute_value": 189,
+                  "value": 9096
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "September",
+          "children": [
+            {
+              "name": "Cologne-Chorweiler",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Cologne-Chorweiler",
+                  "attribute_value": 133,
+                  "value": 13145
+                }
+              ]
+            },
+            {
+              "name": "Cologne-Rodenkirchen",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Cologne-Rodenkirchen",
+                  "attribute_value": 136,
+                  "value": 5532
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "October",
+          "children": [
+            {
+              "name": "Cologne-Chorweiler",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Cologne-Chorweiler",
+                  "attribute_value": 79,
+                  "value": 14766
+                }
+              ]
+            },
+            {
+              "name": "Cologne-Rodenkirchen",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Cologne-Rodenkirchen",
+                  "attribute_value": 87,
+                  "value": 3663
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "November",
+          "children": [
+            {
+              "name": "Cologne-Chorweiler",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Cologne-Chorweiler",
+                  "attribute_value": 73,
+                  "value": 2124
+                }
+              ]
+            },
+            {
+              "name": "Cologne-Rodenkirchen",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Cologne-Rodenkirchen",
+                  "attribute_value": 70,
+                  "value": 574
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "December",
+          "children": [
+            {
+              "name": "Cologne-Chorweiler",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Cologne-Chorweiler",
+                  "attribute_value": 77,
+                  "value": 9384
+                }
+              ]
+            },
+            {
+              "name": "Cologne-Rodenkirchen",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Cologne-Rodenkirchen",
+                  "attribute_value": 72,
+                  "value": 3866
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

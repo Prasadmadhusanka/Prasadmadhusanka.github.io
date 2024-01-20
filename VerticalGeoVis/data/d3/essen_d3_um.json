@@ -1,0 +1,1585 @@
+{
+  "name": "Essen",
+  "children": [
+    {
+      "name": "Fine dust (PM10)",
+      "children": [
+        {
+          "name": "January",
+          "children": [
+            {
+              "name": "Essen Gladbecker Straße",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Essen Gladbecker Straße",
+                  "attribute_value": 28.70967741935484,
+                  "value": 4754
+                }
+              ]
+            },
+            {
+              "name": "Essen-Ost Steeler Straße",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Essen-Ost Steeler Straße",
+                  "attribute_value": 20.2,
+                  "value": 6606
+                }
+              ]
+            },
+            {
+              "name": "Essen-Schuir (LANUV)",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Essen-Schuir (LANUV)",
+                  "attribute_value": 16.9,
+                  "value": 13749
+                }
+              ]
+            },
+            {
+              "name": "Essen-Vogelheim",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Essen-Vogelheim",
+                  "attribute_value": 22.29032258064516,
+                  "value": 12599
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "February",
+          "children": [
+            {
+              "name": "Essen Gladbecker Straße",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Essen Gladbecker Straße",
+                  "attribute_value": 21.666666666666668,
+                  "value": 2749
+                }
+              ]
+            },
+            {
+              "name": "Essen-Ost Steeler Straße",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Essen-Ost Steeler Straße",
+                  "attribute_value": 14.185185185185185,
+                  "value": 1167
+                }
+              ]
+            },
+            {
+              "name": "Essen-Schuir (LANUV)",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Essen-Schuir (LANUV)",
+                  "attribute_value": 10.678571428571429,
+                  "value": 1338
+                }
+              ]
+            },
+            {
+              "name": "Essen-Vogelheim",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Essen-Vogelheim",
+                  "attribute_value": 14.892857142857142,
+                  "value": 7756
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "March",
+          "children": [
+            {
+              "name": "Essen Gladbecker Straße",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Essen Gladbecker Straße",
+                  "attribute_value": 44.67741935483871,
+                  "value": 10834
+                }
+              ]
+            },
+            {
+              "name": "Essen-Ost Steeler Straße",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Essen-Ost Steeler Straße",
+                  "attribute_value": 26.903225806451612,
+                  "value": 11547
+                }
+              ]
+            },
+            {
+              "name": "Essen-Schuir (LANUV)",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Essen-Schuir (LANUV)",
+                  "attribute_value": 22.483870967741936,
+                  "value": 8473
+                }
+              ]
+            },
+            {
+              "name": "Essen-Vogelheim",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Essen-Vogelheim",
+                  "attribute_value": 32.38709677419355,
+                  "value": 6851
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "April",
+          "children": [
+            {
+              "name": "Essen Gladbecker Straße",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Essen Gladbecker Straße",
+                  "attribute_value": 25.333333333333332,
+                  "value": 2302
+                }
+              ]
+            },
+            {
+              "name": "Essen-Ost Steeler Straße",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Essen-Ost Steeler Straße",
+                  "attribute_value": 15.166666666666666,
+                  "value": 14465
+                }
+              ]
+            },
+            {
+              "name": "Essen-Schuir (LANUV)",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Essen-Schuir (LANUV)",
+                  "attribute_value": 13.7,
+                  "value": 6530
+                }
+              ]
+            },
+            {
+              "name": "Essen-Vogelheim",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Essen-Vogelheim",
+                  "attribute_value": 16.833333333333332,
+                  "value": 4375
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "May",
+          "children": [
+            {
+              "name": "Essen Gladbecker Straße",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Essen Gladbecker Straße",
+                  "attribute_value": 26.866666666666667,
+                  "value": 4651
+                }
+              ]
+            },
+            {
+              "name": "Essen-Ost Steeler Straße",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Essen-Ost Steeler Straße",
+                  "attribute_value": 18.75862068965517,
+                  "value": 14369
+                }
+              ]
+            },
+            {
+              "name": "Essen-Schuir (LANUV)",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Essen-Schuir (LANUV)",
+                  "attribute_value": 15.928571428571429,
+                  "value": 13930
+                }
+              ]
+            },
+            {
+              "name": "Essen-Vogelheim",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Essen-Vogelheim",
+                  "attribute_value": 19.724137931034484,
+                  "value": 999
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "June",
+          "children": [
+            {
+              "name": "Essen Gladbecker Straße",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Essen Gladbecker Straße",
+                  "attribute_value": 22.866666666666667,
+                  "value": 5402
+                }
+              ]
+            },
+            {
+              "name": "Essen-Ost Steeler Straße",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Essen-Ost Steeler Straße",
+                  "attribute_value": 16.733333333333334,
+                  "value": 8092
+                }
+              ]
+            },
+            {
+              "name": "Essen-Schuir (LANUV)",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Essen-Schuir (LANUV)",
+                  "attribute_value": 12.23076923076923,
+                  "value": 6887
+                }
+              ]
+            },
+            {
+              "name": "Essen-Vogelheim",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Essen-Vogelheim",
+                  "attribute_value": 15.533333333333333,
+                  "value": 8867
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "July",
+          "children": [
+            {
+              "name": "Essen Gladbecker Straße",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Essen Gladbecker Straße",
+                  "attribute_value": 22.70967741935484,
+                  "value": 3416
+                }
+              ]
+            },
+            {
+              "name": "Essen-Ost Steeler Straße",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Essen-Ost Steeler Straße",
+                  "attribute_value": 16.033333333333335,
+                  "value": 4589
+                }
+              ]
+            },
+            {
+              "name": "Essen-Schuir (LANUV)",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Essen-Schuir (LANUV)",
+                  "attribute_value": 13.806451612903226,
+                  "value": 13370
+                }
+              ]
+            },
+            {
+              "name": "Essen-Vogelheim",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Essen-Vogelheim",
+                  "attribute_value": 15.580645161290322,
+                  "value": 14708
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "August",
+          "children": [
+            {
+              "name": "Essen Gladbecker Straße",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Essen Gladbecker Straße",
+                  "attribute_value": 26.774193548387096,
+                  "value": 10027
+                }
+              ]
+            },
+            {
+              "name": "Essen-Ost Steeler Straße",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Essen-Ost Steeler Straße",
+                  "attribute_value": 20.70967741935484,
+                  "value": 2733
+                }
+              ]
+            },
+            {
+              "name": "Essen-Schuir (LANUV)",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Essen-Schuir (LANUV)",
+                  "attribute_value": 16.033333333333335,
+                  "value": 10461
+                }
+              ]
+            },
+            {
+              "name": "Essen-Vogelheim",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Essen-Vogelheim",
+                  "attribute_value": 19.322580645161292,
+                  "value": 7091
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "September",
+          "children": [
+            {
+              "name": "Essen Gladbecker Straße",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Essen Gladbecker Straße",
+                  "attribute_value": 22.133333333333333,
+                  "value": 13359
+                }
+              ]
+            },
+            {
+              "name": "Essen-Ost Steeler Straße",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Essen-Ost Steeler Straße",
+                  "attribute_value": 16.366666666666667,
+                  "value": 1033
+                }
+              ]
+            },
+            {
+              "name": "Essen-Schuir (LANUV)",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Essen-Schuir (LANUV)",
+                  "attribute_value": 11.766666666666667,
+                  "value": 14790
+                }
+              ]
+            },
+            {
+              "name": "Essen-Vogelheim",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Essen-Vogelheim",
+                  "attribute_value": 15.6,
+                  "value": 9059
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "October",
+          "children": [
+            {
+              "name": "Essen Gladbecker Straße",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Essen Gladbecker Straße",
+                  "attribute_value": 24.774193548387096,
+                  "value": 13062
+                }
+              ]
+            },
+            {
+              "name": "Essen-Ost Steeler Straße",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Essen-Ost Steeler Straße",
+                  "attribute_value": 19.258064516129032,
+                  "value": 2140
+                }
+              ]
+            },
+            {
+              "name": "Essen-Schuir (LANUV)",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Essen-Schuir (LANUV)",
+                  "attribute_value": 14.931034482758621,
+                  "value": 11203
+                }
+              ]
+            },
+            {
+              "name": "Essen-Vogelheim",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Essen-Vogelheim",
+                  "attribute_value": 17.233333333333334,
+                  "value": 1677
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "November",
+          "children": [
+            {
+              "name": "Essen Gladbecker Straße",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Essen Gladbecker Straße",
+                  "attribute_value": 23.620689655172413,
+                  "value": 2882
+                }
+              ]
+            },
+            {
+              "name": "Essen-Ost Steeler Straße",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Essen-Ost Steeler Straße",
+                  "attribute_value": 16.448275862068964,
+                  "value": 9444
+                }
+              ]
+            },
+            {
+              "name": "Essen-Schuir (LANUV)",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Essen-Schuir (LANUV)",
+                  "attribute_value": 10.7,
+                  "value": 2533
+                }
+              ]
+            },
+            {
+              "name": "Essen-Vogelheim",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Essen-Vogelheim",
+                  "attribute_value": 14.1,
+                  "value": 4794
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "December",
+          "children": [
+            {
+              "name": "Essen Gladbecker Straße",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Essen Gladbecker Straße",
+                  "attribute_value": 33.774193548387096,
+                  "value": 12319
+                }
+              ]
+            },
+            {
+              "name": "Essen-Ost Steeler Straße",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Essen-Ost Steeler Straße",
+                  "attribute_value": 23.419354838709676,
+                  "value": 8587
+                }
+              ]
+            },
+            {
+              "name": "Essen-Schuir (LANUV)",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Essen-Schuir (LANUV)",
+                  "attribute_value": 16.741935483870968,
+                  "value": 1298
+                }
+              ]
+            },
+            {
+              "name": "Essen-Vogelheim",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Essen-Vogelheim",
+                  "attribute_value": 22.387096774193548,
+                  "value": 4643
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Nitrogen dioxide (NO2)",
+      "children": [
+        {
+          "name": "January",
+          "children": [
+            {
+              "name": "Essen Gladbecker Straße",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Essen Gladbecker Straße",
+                  "attribute_value": 80,
+                  "value": 3994
+                }
+              ]
+            },
+            {
+              "name": "Essen-Ost Steeler Straße",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Essen-Ost Steeler Straße",
+                  "attribute_value": 87,
+                  "value": 11440
+                }
+              ]
+            },
+            {
+              "name": "Essen-Schuir (LANUV)",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Essen-Schuir (LANUV)",
+                  "attribute_value": 75,
+                  "value": 11285
+                }
+              ]
+            },
+            {
+              "name": "Essen-Vogelheim",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Essen-Vogelheim",
+                  "attribute_value": 74,
+                  "value": 4212
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "February",
+          "children": [
+            {
+              "name": "Essen Gladbecker Straße",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Essen Gladbecker Straße",
+                  "attribute_value": 83,
+                  "value": 14213
+                }
+              ]
+            },
+            {
+              "name": "Essen-Ost Steeler Straße",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Essen-Ost Steeler Straße",
+                  "attribute_value": 79,
+                  "value": 5633
+                }
+              ]
+            },
+            {
+              "name": "Essen-Schuir (LANUV)",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Essen-Schuir (LANUV)",
+                  "attribute_value": 82,
+                  "value": 4442
+                }
+              ]
+            },
+            {
+              "name": "Essen-Vogelheim",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Essen-Vogelheim",
+                  "attribute_value": 73,
+                  "value": 5772
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "March",
+          "children": [
+            {
+              "name": "Essen Gladbecker Straße",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Essen Gladbecker Straße",
+                  "attribute_value": 115,
+                  "value": 10270
+                }
+              ]
+            },
+            {
+              "name": "Essen-Ost Steeler Straße",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Essen-Ost Steeler Straße",
+                  "attribute_value": 119,
+                  "value": 14776
+                }
+              ]
+            },
+            {
+              "name": "Essen-Schuir (LANUV)",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Essen-Schuir (LANUV)",
+                  "attribute_value": 112,
+                  "value": 9913
+                }
+              ]
+            },
+            {
+              "name": "Essen-Vogelheim",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Essen-Vogelheim",
+                  "attribute_value": 108,
+                  "value": 7461
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "April",
+          "children": [
+            {
+              "name": "Essen Gladbecker Straße",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Essen Gladbecker Straße",
+                  "attribute_value": 78,
+                  "value": 8982
+                }
+              ]
+            },
+            {
+              "name": "Essen-Ost Steeler Straße",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Essen-Ost Steeler Straße",
+                  "attribute_value": 71,
+                  "value": 2285
+                }
+              ]
+            },
+            {
+              "name": "Essen-Schuir (LANUV)",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Essen-Schuir (LANUV)",
+                  "attribute_value": 76,
+                  "value": 4796
+                }
+              ]
+            },
+            {
+              "name": "Essen-Vogelheim",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Essen-Vogelheim",
+                  "attribute_value": 75,
+                  "value": 872
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "May",
+          "children": [
+            {
+              "name": "Essen Gladbecker Straße",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Essen Gladbecker Straße",
+                  "attribute_value": 91,
+                  "value": 4827
+                }
+              ]
+            },
+            {
+              "name": "Essen-Ost Steeler Straße",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Essen-Ost Steeler Straße",
+                  "attribute_value": 90,
+                  "value": 11759
+                }
+              ]
+            },
+            {
+              "name": "Essen-Schuir (LANUV)",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Essen-Schuir (LANUV)",
+                  "attribute_value": 89,
+                  "value": 7490
+                }
+              ]
+            },
+            {
+              "name": "Essen-Vogelheim",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Essen-Vogelheim",
+                  "attribute_value": 77,
+                  "value": 12751
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "June",
+          "children": [
+            {
+              "name": "Essen Gladbecker Straße",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Essen Gladbecker Straße",
+                  "attribute_value": 99,
+                  "value": 6553
+                }
+              ]
+            },
+            {
+              "name": "Essen-Ost Steeler Straße",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Essen-Ost Steeler Straße",
+                  "attribute_value": 63,
+                  "value": 4173
+                }
+              ]
+            },
+            {
+              "name": "Essen-Schuir (LANUV)",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Essen-Schuir (LANUV)",
+                  "attribute_value": 68,
+                  "value": 2897
+                }
+              ]
+            },
+            {
+              "name": "Essen-Vogelheim",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Essen-Vogelheim",
+                  "attribute_value": 61,
+                  "value": 11793
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "July",
+          "children": [
+            {
+              "name": "Essen Gladbecker Straße",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Essen Gladbecker Straße",
+                  "attribute_value": 99,
+                  "value": 3047
+                }
+              ]
+            },
+            {
+              "name": "Essen-Ost Steeler Straße",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Essen-Ost Steeler Straße",
+                  "attribute_value": 78,
+                  "value": 6315
+                }
+              ]
+            },
+            {
+              "name": "Essen-Schuir (LANUV)",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Essen-Schuir (LANUV)",
+                  "attribute_value": 66,
+                  "value": 11448
+                }
+              ]
+            },
+            {
+              "name": "Essen-Vogelheim",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Essen-Vogelheim",
+                  "attribute_value": 88,
+                  "value": 7182
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "August",
+          "children": [
+            {
+              "name": "Essen Gladbecker Straße",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Essen Gladbecker Straße",
+                  "attribute_value": 104,
+                  "value": 5503
+                }
+              ]
+            },
+            {
+              "name": "Essen-Ost Steeler Straße",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Essen-Ost Steeler Straße",
+                  "attribute_value": 76,
+                  "value": 4427
+                }
+              ]
+            },
+            {
+              "name": "Essen-Schuir (LANUV)",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Essen-Schuir (LANUV)",
+                  "attribute_value": 69,
+                  "value": 11698
+                }
+              ]
+            },
+            {
+              "name": "Essen-Vogelheim",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Essen-Vogelheim",
+                  "attribute_value": 90,
+                  "value": 8315
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "September",
+          "children": [
+            {
+              "name": "Essen Gladbecker Straße",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Essen Gladbecker Straße",
+                  "attribute_value": 106,
+                  "value": 12110
+                }
+              ]
+            },
+            {
+              "name": "Essen-Ost Steeler Straße",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Essen-Ost Steeler Straße",
+                  "attribute_value": 85,
+                  "value": 8263
+                }
+              ]
+            },
+            {
+              "name": "Essen-Schuir (LANUV)",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Essen-Schuir (LANUV)",
+                  "attribute_value": 69,
+                  "value": 12077
+                }
+              ]
+            },
+            {
+              "name": "Essen-Vogelheim",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Essen-Vogelheim",
+                  "attribute_value": 79,
+                  "value": 9432
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "October",
+          "children": [
+            {
+              "name": "Essen Gladbecker Straße",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Essen Gladbecker Straße",
+                  "attribute_value": 78,
+                  "value": 947
+                }
+              ]
+            },
+            {
+              "name": "Essen-Ost Steeler Straße",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Essen-Ost Steeler Straße",
+                  "attribute_value": 75,
+                  "value": 8823
+                }
+              ]
+            },
+            {
+              "name": "Essen-Schuir (LANUV)",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Essen-Schuir (LANUV)",
+                  "attribute_value": 78,
+                  "value": 4420
+                }
+              ]
+            },
+            {
+              "name": "Essen-Vogelheim",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Essen-Vogelheim",
+                  "attribute_value": 58,
+                  "value": 4719
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "November",
+          "children": [
+            {
+              "name": "Essen Gladbecker Straße",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Essen Gladbecker Straße",
+                  "attribute_value": 87,
+                  "value": 11344
+                }
+              ]
+            },
+            {
+              "name": "Essen-Ost Steeler Straße",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Essen-Ost Steeler Straße",
+                  "attribute_value": 74,
+                  "value": 5760
+                }
+              ]
+            },
+            {
+              "name": "Essen-Schuir (LANUV)",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Essen-Schuir (LANUV)",
+                  "attribute_value": 61,
+                  "value": 9283
+                }
+              ]
+            },
+            {
+              "name": "Essen-Vogelheim",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Essen-Vogelheim",
+                  "attribute_value": 66,
+                  "value": 4675
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "December",
+          "children": [
+            {
+              "name": "Essen Gladbecker Straße",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Essen Gladbecker Straße",
+                  "attribute_value": 76,
+                  "value": 3288
+                }
+              ]
+            },
+            {
+              "name": "Essen-Ost Steeler Straße",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Essen-Ost Steeler Straße",
+                  "attribute_value": 74,
+                  "value": 6811
+                }
+              ]
+            },
+            {
+              "name": "Essen-Schuir (LANUV)",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Essen-Schuir (LANUV)",
+                  "attribute_value": 75,
+                  "value": 5861
+                }
+              ]
+            },
+            {
+              "name": "Essen-Vogelheim",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Essen-Vogelheim",
+                  "attribute_value": 71,
+                  "value": 1838
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ozone (O3)",
+      "children": [
+        {
+          "name": "January",
+          "children": [
+            {
+              "name": "Essen-Schuir (LANUV)",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Essen-Schuir (LANUV)",
+                  "attribute_value": 74,
+                  "value": 2283
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "February",
+          "children": [
+            {
+              "name": "Essen-Schuir (LANUV)",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Essen-Schuir (LANUV)",
+                  "attribute_value": 87,
+                  "value": 4795
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "March",
+          "children": [
+            {
+              "name": "Essen-Schuir (LANUV)",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Essen-Schuir (LANUV)",
+                  "attribute_value": 116,
+                  "value": 8756
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "April",
+          "children": [
+            {
+              "name": "Essen-Schuir (LANUV)",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Essen-Schuir (LANUV)",
+                  "attribute_value": 108,
+                  "value": 2406
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "May",
+          "children": [
+            {
+              "name": "Essen-Schuir (LANUV)",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Essen-Schuir (LANUV)",
+                  "attribute_value": 139,
+                  "value": 12331
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "June",
+          "children": [
+            {
+              "name": "Essen-Schuir (LANUV)",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Essen-Schuir (LANUV)",
+                  "attribute_value": 166,
+                  "value": 11036
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "July",
+          "children": [
+            {
+              "name": "Essen-Schuir (LANUV)",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Essen-Schuir (LANUV)",
+                  "attribute_value": 179,
+                  "value": 7918
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "August",
+          "children": [
+            {
+              "name": "Essen-Schuir (LANUV)",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Essen-Schuir (LANUV)",
+                  "attribute_value": 177,
+                  "value": 11832
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "September",
+          "children": [
+            {
+              "name": "Essen-Schuir (LANUV)",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Essen-Schuir (LANUV)",
+                  "attribute_value": 135,
+                  "value": 13912
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "October",
+          "children": [
+            {
+              "name": "Essen-Schuir (LANUV)",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Essen-Schuir (LANUV)",
+                  "attribute_value": 73,
+                  "value": 10041
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "November",
+          "children": [
+            {
+              "name": "Essen-Schuir (LANUV)",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Essen-Schuir (LANUV)",
+                  "attribute_value": 69,
+                  "value": 10907
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "December",
+          "children": [
+            {
+              "name": "Essen-Schuir (LANUV)",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Essen-Schuir (LANUV)",
+                  "attribute_value": 69,
+                  "value": 13639
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sulfur dioxide (SO2)",
+      "children": [
+        {
+          "name": "January",
+          "children": [
+            {
+              "name": "Essen-Vogelheim",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Essen-Vogelheim",
+                  "attribute_value": 22,
+                  "value": 8947
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "February",
+          "children": [
+            {
+              "name": "Essen-Vogelheim",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Essen-Vogelheim",
+                  "attribute_value": 22,
+                  "value": 4769
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "March",
+          "children": [
+            {
+              "name": "Essen-Vogelheim",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Essen-Vogelheim",
+                  "attribute_value": 45,
+                  "value": 12388
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "April",
+          "children": [
+            {
+              "name": "Essen-Vogelheim",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Essen-Vogelheim",
+                  "attribute_value": 36,
+                  "value": 12431
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "May",
+          "children": [
+            {
+              "name": "Essen-Vogelheim",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Essen-Vogelheim",
+                  "attribute_value": 30,
+                  "value": 767
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "June",
+          "children": [
+            {
+              "name": "Essen-Vogelheim",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Essen-Vogelheim",
+                  "attribute_value": 22,
+                  "value": 2102
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "July",
+          "children": [
+            {
+              "name": "Essen-Vogelheim",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Essen-Vogelheim",
+                  "attribute_value": 50,
+                  "value": 9513
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "August",
+          "children": [
+            {
+              "name": "Essen-Vogelheim",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Essen-Vogelheim",
+                  "attribute_value": 21,
+                  "value": 6811
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "September",
+          "children": [
+            {
+              "name": "Essen-Vogelheim",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Essen-Vogelheim",
+                  "attribute_value": 25,
+                  "value": 2334
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "October",
+          "children": [
+            {
+              "name": "Essen-Vogelheim",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Essen-Vogelheim",
+                  "attribute_value": 16,
+                  "value": 8704
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "November",
+          "children": [
+            {
+              "name": "Essen-Vogelheim",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Essen-Vogelheim",
+                  "attribute_value": 23,
+                  "value": 12059
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "December",
+          "children": [
+            {
+              "name": "Essen-Vogelheim",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Essen-Vogelheim",
+                  "attribute_value": 54,
+                  "value": 12287
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

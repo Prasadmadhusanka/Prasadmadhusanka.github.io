@@ -1,0 +1,860 @@
+{
+  "name": "Dortmund",
+  "children": [
+    {
+      "name": "Fine dust (PM10)",
+      "children": [
+        {
+          "name": "January",
+          "children": [
+            {
+              "name": "Dortmund Brackeler Straße",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Dortmund Brackeler Straße",
+                  "attribute_value": 19.838709677419356,
+                  "value": 6811
+                }
+              ]
+            },
+            {
+              "name": "Dortmund-Eving",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Dortmund-Eving",
+                  "attribute_value": 21.032258064516128,
+                  "value": 6499
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "February",
+          "children": [
+            {
+              "name": "Dortmund Brackeler Straße",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Dortmund Brackeler Straße",
+                  "attribute_value": 12.357142857142858,
+                  "value": 11170
+                }
+              ]
+            },
+            {
+              "name": "Dortmund-Eving",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Dortmund-Eving",
+                  "attribute_value": 15.037037037037036,
+                  "value": 12102
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "March",
+          "children": [
+            {
+              "name": "Dortmund Brackeler Straße",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Dortmund Brackeler Straße",
+                  "attribute_value": 30.225806451612904,
+                  "value": 12840
+                }
+              ]
+            },
+            {
+              "name": "Dortmund-Eving",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Dortmund-Eving",
+                  "attribute_value": 29.516129032258064,
+                  "value": 3654
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "April",
+          "children": [
+            {
+              "name": "Dortmund Brackeler Straße",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Dortmund Brackeler Straße",
+                  "attribute_value": 16.266666666666666,
+                  "value": 8164
+                }
+              ]
+            },
+            {
+              "name": "Dortmund-Eving",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Dortmund-Eving",
+                  "attribute_value": 16.666666666666668,
+                  "value": 12980
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "May",
+          "children": [
+            {
+              "name": "Dortmund Brackeler Straße",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Dortmund Brackeler Straße",
+                  "attribute_value": 18,
+                  "value": 5276
+                }
+              ]
+            },
+            {
+              "name": "Dortmund-Eving",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Dortmund-Eving",
+                  "attribute_value": 17.838709677419356,
+                  "value": 10569
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "June",
+          "children": [
+            {
+              "name": "Dortmund Brackeler Straße",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Dortmund Brackeler Straße",
+                  "attribute_value": 14.241379310344827,
+                  "value": 3752
+                }
+              ]
+            },
+            {
+              "name": "Dortmund-Eving",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Dortmund-Eving",
+                  "attribute_value": 13.275862068965518,
+                  "value": 14940
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "July",
+          "children": [
+            {
+              "name": "Dortmund Brackeler Straße",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Dortmund Brackeler Straße",
+                  "attribute_value": 14.225806451612904,
+                  "value": 3603
+                }
+              ]
+            },
+            {
+              "name": "Dortmund-Eving",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Dortmund-Eving",
+                  "attribute_value": 13.741935483870968,
+                  "value": 6751
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "August",
+          "children": [
+            {
+              "name": "Dortmund Brackeler Straße",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Dortmund Brackeler Straße",
+                  "attribute_value": 19.225806451612904,
+                  "value": 11461
+                }
+              ]
+            },
+            {
+              "name": "Dortmund-Eving",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Dortmund-Eving",
+                  "attribute_value": 17.483870967741936,
+                  "value": 6777
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "September",
+          "children": [
+            {
+              "name": "Dortmund Brackeler Straße",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Dortmund Brackeler Straße",
+                  "attribute_value": 14.068965517241379,
+                  "value": 7687
+                }
+              ]
+            },
+            {
+              "name": "Dortmund-Eving",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Dortmund-Eving",
+                  "attribute_value": 12.928571428571429,
+                  "value": 818
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "October",
+          "children": [
+            {
+              "name": "Dortmund Brackeler Straße",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Dortmund Brackeler Straße",
+                  "attribute_value": 17.677419354838708,
+                  "value": 9113
+                }
+              ]
+            },
+            {
+              "name": "Dortmund-Eving",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Dortmund-Eving",
+                  "attribute_value": 16.70967741935484,
+                  "value": 11078
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "November",
+          "children": [
+            {
+              "name": "Dortmund Brackeler Straße",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Dortmund Brackeler Straße",
+                  "attribute_value": 13.689655172413794,
+                  "value": 4932
+                }
+              ]
+            },
+            {
+              "name": "Dortmund-Eving",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Dortmund-Eving",
+                  "attribute_value": 15.344827586206897,
+                  "value": 5841
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "December",
+          "children": [
+            {
+              "name": "Dortmund Brackeler Straße",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Dortmund Brackeler Straße",
+                  "attribute_value": 21.838709677419356,
+                  "value": 3750
+                }
+              ]
+            },
+            {
+              "name": "Dortmund-Eving",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Dortmund-Eving",
+                  "attribute_value": 25.93548387096774,
+                  "value": 3213
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Nitrogen dioxide (NO2)",
+      "children": [
+        {
+          "name": "January",
+          "children": [
+            {
+              "name": "Dortmund Brackeler Straße",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Dortmund Brackeler Straße",
+                  "attribute_value": 96,
+                  "value": 12860
+                }
+              ]
+            },
+            {
+              "name": "Dortmund-Eving",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Dortmund-Eving",
+                  "attribute_value": 66,
+                  "value": 3713
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "February",
+          "children": [
+            {
+              "name": "Dortmund Brackeler Straße",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Dortmund Brackeler Straße",
+                  "attribute_value": 90,
+                  "value": 11721
+                }
+              ]
+            },
+            {
+              "name": "Dortmund-Eving",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Dortmund-Eving",
+                  "attribute_value": 64,
+                  "value": 10362
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "March",
+          "children": [
+            {
+              "name": "Dortmund Brackeler Straße",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Dortmund Brackeler Straße",
+                  "attribute_value": 122,
+                  "value": 11229
+                }
+              ]
+            },
+            {
+              "name": "Dortmund-Eving",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Dortmund-Eving",
+                  "attribute_value": 84,
+                  "value": 12993
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "April",
+          "children": [
+            {
+              "name": "Dortmund Brackeler Straße",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Dortmund Brackeler Straße",
+                  "attribute_value": 92,
+                  "value": 854
+                }
+              ]
+            },
+            {
+              "name": "Dortmund-Eving",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Dortmund-Eving",
+                  "attribute_value": 68,
+                  "value": 9990
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "May",
+          "children": [
+            {
+              "name": "Dortmund Brackeler Straße",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Dortmund Brackeler Straße",
+                  "attribute_value": 97,
+                  "value": 1294
+                }
+              ]
+            },
+            {
+              "name": "Dortmund-Eving",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Dortmund-Eving",
+                  "attribute_value": 64,
+                  "value": 9699
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "June",
+          "children": [
+            {
+              "name": "Dortmund Brackeler Straße",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Dortmund Brackeler Straße",
+                  "attribute_value": 81,
+                  "value": 11677
+                }
+              ]
+            },
+            {
+              "name": "Dortmund-Eving",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Dortmund-Eving",
+                  "attribute_value": 76,
+                  "value": 14218
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "July",
+          "children": [
+            {
+              "name": "Dortmund Brackeler Straße",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Dortmund Brackeler Straße",
+                  "attribute_value": 141,
+                  "value": 956
+                }
+              ]
+            },
+            {
+              "name": "Dortmund-Eving",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Dortmund-Eving",
+                  "attribute_value": 90,
+                  "value": 14405
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "August",
+          "children": [
+            {
+              "name": "Dortmund Brackeler Straße",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Dortmund Brackeler Straße",
+                  "attribute_value": 107,
+                  "value": 3969
+                }
+              ]
+            },
+            {
+              "name": "Dortmund-Eving",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Dortmund-Eving",
+                  "attribute_value": 64,
+                  "value": 2275
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "September",
+          "children": [
+            {
+              "name": "Dortmund Brackeler Straße",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Dortmund Brackeler Straße",
+                  "attribute_value": 131,
+                  "value": 9960
+                }
+              ]
+            },
+            {
+              "name": "Dortmund-Eving",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Dortmund-Eving",
+                  "attribute_value": 79,
+                  "value": 10846
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "October",
+          "children": [
+            {
+              "name": "Dortmund Brackeler Straße",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Dortmund Brackeler Straße",
+                  "attribute_value": 75,
+                  "value": 2296
+                }
+              ]
+            },
+            {
+              "name": "Dortmund-Eving",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Dortmund-Eving",
+                  "attribute_value": 66,
+                  "value": 3561
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "November",
+          "children": [
+            {
+              "name": "Dortmund Brackeler Straße",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Dortmund Brackeler Straße",
+                  "attribute_value": 86,
+                  "value": 9263
+                }
+              ]
+            },
+            {
+              "name": "Dortmund-Eving",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Dortmund-Eving",
+                  "attribute_value": 58,
+                  "value": 4836
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "December",
+          "children": [
+            {
+              "name": "Dortmund Brackeler Straße",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Dortmund Brackeler Straße",
+                  "attribute_value": 98,
+                  "value": 10045
+                }
+              ]
+            },
+            {
+              "name": "Dortmund-Eving",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Dortmund-Eving",
+                  "attribute_value": 69,
+                  "value": 10613
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ozone (O3)",
+      "children": [
+        {
+          "name": "January",
+          "children": [
+            {
+              "name": "Dortmund-Eving",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Dortmund-Eving",
+                  "attribute_value": 77,
+                  "value": 11518
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "February",
+          "children": [
+            {
+              "name": "Dortmund-Eving",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Dortmund-Eving",
+                  "attribute_value": 88,
+                  "value": 13108
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "March",
+          "children": [
+            {
+              "name": "Dortmund-Eving",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Dortmund-Eving",
+                  "attribute_value": 132,
+                  "value": 2271
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "April",
+          "children": [
+            {
+              "name": "Dortmund-Eving",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Dortmund-Eving",
+                  "attribute_value": 107,
+                  "value": 14935
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "May",
+          "children": [
+            {
+              "name": "Dortmund-Eving",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Dortmund-Eving",
+                  "attribute_value": 121,
+                  "value": 12686
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "June",
+          "children": [
+            {
+              "name": "Dortmund-Eving",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Dortmund-Eving",
+                  "attribute_value": 174,
+                  "value": 2045
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "July",
+          "children": [
+            {
+              "name": "Dortmund-Eving",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Dortmund-Eving",
+                  "attribute_value": 172,
+                  "value": 14301
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "August",
+          "children": [
+            {
+              "name": "Dortmund-Eving",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Dortmund-Eving",
+                  "attribute_value": 167,
+                  "value": 5154
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "September",
+          "children": [
+            {
+              "name": "Dortmund-Eving",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Dortmund-Eving",
+                  "attribute_value": 132,
+                  "value": 13986
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "October",
+          "children": [
+            {
+              "name": "Dortmund-Eving",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Dortmund-Eving",
+                  "attribute_value": 72,
+                  "value": 6571
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "November",
+          "children": [
+            {
+              "name": "Dortmund-Eving",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Dortmund-Eving",
+                  "attribute_value": 74,
+                  "value": 10820
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "December",
+          "children": [
+            {
+              "name": "Dortmund-Eving",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Dortmund-Eving",
+                  "attribute_value": 72,
+                  "value": 7394
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

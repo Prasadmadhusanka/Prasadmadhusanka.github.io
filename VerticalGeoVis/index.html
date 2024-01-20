@@ -1,0 +1,436 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Web App Demo</title>
+
+    <!-- Bootstrap CSS -->
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN"
+      crossorigin="anonymous"
+    />
+
+    <!-- My Custom CSS -->
+    <link rel="stylesheet" href="style.css" />
+
+    <!-- Leaflet CSS -->
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+      integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+      crossorigin=""
+    />
+
+    <!-- Leaflet JavaScript -->
+    <script
+      src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+      integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+      crossorigin=""
+    ></script>
+
+    <!-- Leaflet-search CSS -->
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/leaflet-search/dist/leaflet-search.min.css"
+    />
+
+    <!-- Leaflet-search JavaScript -->
+    <script src="https://unpkg.com/leaflet-search/dist/leaflet-search.min.js"></script>
+  </head>
+
+  <body>
+    <!-- D3 JavaScript -->
+    <script src="https://d3js.org/d3.v4.min.js"></script>
+
+    <div class="container-fluid">
+      <!-- Header -->
+      <div class="container-fluid header py-2">
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+          <div class="container-fluid">
+            <a class="navbar-brand" href="#" onclick="refreshPage()">
+              <img
+                src="./data/icon/navbar_icon.png"
+                style="height: 32px; width: 32px"
+                alt="Folder Icon"
+                class="icon-img"
+              />
+              VerticalGeoVis</a
+            >
+            <button
+              class="navbar-toggler"
+              type="button"
+              data-bs-toggle="collapse"
+              data-bs-target="#navbarSupportedContent"
+              aria-controls="navbarSupportedContent"
+              aria-expanded="false"
+              aria-label="Toggle navigation"
+            >
+              <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+              <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                <li class="nav-item dropdown mx-5">
+                  <a
+                    class="nav-link dropdown-toggle"
+                    id="navbarTitle1"
+                    role="button"
+                    data-bs-toggle="dropdown"
+                    aria-expanded="false"
+                    data-toggle="tooltip"
+                    title="Click to change the Dataset"
+                  >
+                    Dataset
+                  </a>
+                  <ul class="dropdown-menu">
+                    <li>
+                      <a
+                        class="dropdown-item"
+                        href="#"
+                        onclick="changeNavbarTitle('DBpedia','navbarTitle1')"
+                        >DBpedia</a
+                      >
+                    </li>
+                    <li>
+                      <hr class="dropdown-divider" />
+                    </li>
+                    <li>
+                      <a
+                        class="dropdown-item"
+                        href="#"
+                        onclick="changeNavbarTitle('UmweltBundesamt','navbarTitle1')"
+                        >UmweltBundesamt</a
+                      >
+                    </li>
+                  </ul>
+                </li>
+                <li class="nav-item dropdown mx-1">
+                  <a
+                    class="nav-link dropdown-toggle"
+                    id="navbarTitle2"
+                    href="#"
+                    role="button"
+                    data-bs-toggle="dropdown"
+                    aria-expanded="false"
+                    data-toggle="tooltip"
+                    title="Click to change the Visualization Approach"
+                  >
+                    Visualisation Approach
+                  </a>
+                  <ul class="dropdown-menu">
+                    <li>
+                      <a
+                        class="dropdown-item"
+                        href="#"
+                        onclick="changeNavbarTitle('Scrolling Approach','navbarTitle2')"
+                        >Scrolling Approach</a
+                      >
+                    </li>
+                    <li>
+                      <hr class="dropdown-divider" />
+                    </li>
+                    <li>
+                      <a
+                        class="dropdown-item"
+                        href="#"
+                        onclick="changeNavbarTitle('Spiral Leaflet Markers Approach','navbarTitle2')"
+                        >Spiral Leaflet Markers Approach</a
+                      >
+                    </li>
+                    <li>
+                      <hr class="dropdown-divider" />
+                    </li>
+                    <li>
+                      <a
+                        class="dropdown-item"
+                        href="#"
+                        onclick="changeNavbarTitle('D3 Zoomable Circle Packing Approach','navbarTitle2')"
+                        >D3 Zoomable Circle Packing Approach</a
+                      >
+                    </li>
+                  </ul>
+                </li>
+                <li class="nav-item mx-5">
+                  <a
+                    class="nav-link"
+                    href="#"
+                    data-toggle="tooltip"
+                    title="Click to learn more about this Web Application"
+                    onclick="about()"
+                    >About</a
+                  >
+                </li>
+              </ul>
+            </div>
+          </div>
+        </nav>
+      </div>
+
+      <!-- Middle content -->
+      <div class="container-fluid middle-part" id="leaflet-map"></div>
+      <HelloWorld></HelloWorld>
+
+      <!-- Footer -->
+      <div
+        class="container-fluid footer bg-body-tertiary text-black text-center py-1"
+      >
+        <p>&copy; 2024 VerticalGeoVis-D.L.P.M.Dauglas. All rights reserved.</p>
+      </div>
+    </div>
+
+    <div class="modal" tabindex="-1" role="dialog" id="model1">
+      <div class="modal-dialog custom-model-dialog" role="document">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title">
+              Scrolling Approach - <span id="city_name1"></span>
+            </h5>
+            <button
+              id="btnClose1"
+              type="button"
+              class="close"
+              onclick="popupClose('model1')"
+              data-dismiss="modal"
+              aria-label="Close"
+            >
+              <span aria-hidden="true">&times;</span>
+            </button>
+          </div>
+          <div class="modal-body table-container">
+            <table class="table">
+              <thead>
+                <tr>
+                  <th scope="col">#</th>
+                  <th scope="col">Attribute Name</th>
+                  <th scope="col">Attribute Value</th>
+                  <th scope="col">Attribute Category</th>
+                </tr>
+              </thead>
+              <tbody></tbody>
+            </table>
+          </div>
+          <div class="modal-footer"></div>
+        </div>
+      </div>
+    </div>
+
+    <div class="modal" tabindex="-1" role="dialog" id="model2">
+      <div class="modal-dialog custom-model-dialog" role="document">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title">
+              Spiral Leaflet Markers Approach - <span id="city_name2"></span>
+            </h5>
+            <button
+              id="btnClose2"
+              onclick="popupClose('model2')"
+              type="button"
+              class="close"
+              data-dismiss="modal"
+              aria-label="Close"
+            >
+              <span aria-hidden="true">&times;</span>
+            </button>
+          </div>
+          <div class="modal-body">
+            <div id="spiral_map"></div>
+          </div>
+          <div class="modal-footer"></div>
+        </div>
+      </div>
+    </div>
+
+    <div class="modal" tabindex="-1" role="dialog" id="model3">
+      <div class="modal-dialog custom-model-dialog1" role="document">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title">
+              D3 Zoomable circle packing Approach -
+              <span id="city_name3"></span>
+            </h5>
+            <button
+              id="btnClose3"
+              onclick="popupClose('model3')"
+              type="button"
+              class="close"
+              data-dismiss="modal"
+              aria-label="Close"
+            >
+              <span aria-hidden="true">&times;</span>
+            </button>
+          </div>
+          <div class="modal-body" id="d3_svg"></div>
+          <div class="modal-footer"></div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Warning Message Modal -->
+    <div class="modal" tabindex="-1" role="dialog" id="warningModal">
+      <div class="modal-dialog" role="document">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title">Warning!</h5>
+            <button
+              type="button"
+              class="close"
+              data-dismiss="modal"
+              aria-label="Close"
+              id="btnClose4"
+              onclick="popupClose('warningModal')"
+            >
+              <span aria-hidden="true">&times;</span>
+            </button>
+          </div>
+          <div class="modal-body">
+            <p id="warningMessage"></p>
+          </div>
+          <div class="modal-footer"></div>
+        </div>
+      </div>
+    </div>
+
+    <!-- About Modal -->
+    <div class="modal" tabindex="-1" role="dialog" id="aboutModal">
+      <div class="modal-dialog custom-model-dialog1" role="document">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title">About ...</h5>
+            <button
+              id="btnClose3"
+              onclick="popupClose('aboutModal')"
+              type="button"
+              class="close"
+              data-dismiss="modal"
+              aria-label="Close"
+            >
+              <span aria-hidden="true">&times;</span>
+            </button>
+          </div>
+          <div class="modal-body table-container">
+            <h5>Frequently Asked Questions</h5>
+            <br />
+            <p>
+              <span style="font-weight: bold">1. </span>
+              <a
+                data-bs-toggle="collapse"
+                href="#collapseExample1"
+                role="button"
+                aria-expanded="false"
+                aria-controls="collapseExample1"
+                class="text-decoration-none"
+              >
+                How can you view the name of marker [City name] on the map?
+              </a>
+            </p>
+            <div class="collapse" id="collapseExample1">
+              <div class="card card-body">
+                To view the name of a marker on the map, you have two options:
+                <br />
+                1. Move the mouse over the marker, and a tooltip displaying the
+                city name will appear. <br />
+                2. Click on the marker, and a popup will display, showing the
+                city name.
+              </div>
+            </div>
+
+            <p>
+              <span style="font-weight: bold">2. </span>
+              <a
+                data-bs-toggle="collapse"
+                href="#collapseExample2"
+                role="button"
+                aria-expanded="false"
+                aria-controls="collapseExample2"
+                class="text-decoration-none"
+              >
+                When can you expect to see warning messages?
+              </a>
+            </p>
+            <div class="collapse" id="collapseExample2">
+              <div class="card card-body">
+                If you encounter a warning message while using the web
+                application, it is likely due to the absence of a selected
+                [Dataset] or [Visualization approach]. The system requires both
+                a [Dataset] and a chosen [Visualization approach] for optimal
+                functionality. To resolve this, please ensure you have selected
+                a [Visualization approach] and specified a [Visualization
+                approach] in the top navigation bar to proceed without
+                encountering any warnings
+              </div>
+            </div>
+            <p>
+              <span style="font-weight: bold">3. </span>
+              <a
+                data-bs-toggle="collapse"
+                href="#collapseExample3"
+                role="button"
+                aria-expanded="false"
+                aria-controls="collapseExample3"
+                class="text-decoration-none"
+              >
+                How can you search the marker for a specific city on the map?
+              </a>
+            </p>
+            <div class="collapse" id="collapseExample3">
+              <div class="card card-body">
+                To locate the marker for a wanted city on the map, you have two
+                options: <br />
+                1. Zoom and pan the map to the desired location, then either
+                click directly on the map or hover your mouse over the markers
+                to find the specific marker. <br />
+                2. Utilize the search bar with automatic suggestions. Click on
+                the search icon located on the top left, type the city name, and
+                the system will provide relevant suggestions for you to choose
+                from. <br />
+
+                These options offer flexible ways to quickly find and navigate
+                to the marker associated with your desired city.
+              </div>
+            </div>
+            <p>
+              <span style="font-weight: bold">4. </span>
+              <a
+                data-bs-toggle="collapse"
+                href="#collapseExample4"
+                role="button"
+                aria-expanded="false"
+                aria-controls="collapseExample4"
+                class="text-decoration-none"
+              >
+              How do you use scrolling, spiral Leaflet markers, and D3 zoomable circle packing approaches? 
+              </a>
+            </p>
+            <div class="collapse" id="collapseExample4">
+              <div class="card card-body">Answer 4</div>
+            </div>
+            
+            <hr />
+            <h5>Contact Me for Enhanced Support</h5>
+            <p>If you need further assistance or have any inquiries, please feel free to reach out to me at: Email: <a href="mailto:prasad.dambure@uni-muenster.de" onclick="alert('Please use your default email client to send an email to prasad.dambure@uni-muenster.de')">prasad.dambure@uni-muenster.de</a></p>
+        
+            </p>
+          </div>
+          <div class="modal-footer"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+
+  <script
+    src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js"
+    integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r"
+    crossorigin="anonymous"
+  ></script>
+
+  <!-- Bootstrap JavaScript -->
+  <script
+    src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.min.js"
+    integrity="sha384-BBtl+eGJRgqQAUMxJ7pMwbEyER4l1g+O15P+16Ep7Q9Q+zqX6gSbd85u4mG4QzX+"
+    crossorigin="anonymous"
+  ></script>
+
+  <script src="main.js"></script>
+</html>

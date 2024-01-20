@@ -1,0 +1,2574 @@
+{
+  "name": "Hamburg",
+  "children": [
+    {
+      "name": "Carbon monoxide (CO)",
+      "children": [
+        {
+          "name": "January",
+          "children": [
+            {
+              "name": "Hamburg Habichtstrasse",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Habichtstrasse",
+                  "attribute_value": 0,
+                  "value": 4160
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Max-Brauer-Allee II (Straße)",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Max-Brauer-Allee II (Straße)",
+                  "attribute_value": 0,
+                  "value": 12303
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "February",
+          "children": [
+            {
+              "name": "Hamburg Habichtstrasse",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Habichtstrasse",
+                  "attribute_value": 0,
+                  "value": 5766
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Max-Brauer-Allee II (Straße)",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Max-Brauer-Allee II (Straße)",
+                  "attribute_value": 0,
+                  "value": 6656
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "March",
+          "children": [
+            {
+              "name": "Hamburg Habichtstrasse",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Habichtstrasse",
+                  "attribute_value": 0,
+                  "value": 10963
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Max-Brauer-Allee II (Straße)",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Max-Brauer-Allee II (Straße)",
+                  "attribute_value": 0,
+                  "value": 4362
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "April",
+          "children": [
+            {
+              "name": "Hamburg Habichtstrasse",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Habichtstrasse",
+                  "attribute_value": 0,
+                  "value": 11081
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Max-Brauer-Allee II (Straße)",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Max-Brauer-Allee II (Straße)",
+                  "attribute_value": 0,
+                  "value": 11257
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "May",
+          "children": [
+            {
+              "name": "Hamburg Habichtstrasse",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Habichtstrasse",
+                  "attribute_value": 0,
+                  "value": 3131
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Max-Brauer-Allee II (Straße)",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Max-Brauer-Allee II (Straße)",
+                  "attribute_value": 0,
+                  "value": 2721
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "June",
+          "children": [
+            {
+              "name": "Hamburg Habichtstrasse",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Habichtstrasse",
+                  "attribute_value": 0,
+                  "value": 1215
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Max-Brauer-Allee II (Straße)",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Max-Brauer-Allee II (Straße)",
+                  "attribute_value": 0,
+                  "value": 9809
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "July",
+          "children": [
+            {
+              "name": "Hamburg Habichtstrasse",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Habichtstrasse",
+                  "attribute_value": 0,
+                  "value": 2442
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Max-Brauer-Allee II (Straße)",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Max-Brauer-Allee II (Straße)",
+                  "attribute_value": 0,
+                  "value": 6856
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "August",
+          "children": [
+            {
+              "name": "Hamburg Habichtstrasse",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Habichtstrasse",
+                  "attribute_value": 0,
+                  "value": 1802
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Max-Brauer-Allee II (Straße)",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Max-Brauer-Allee II (Straße)",
+                  "attribute_value": 0,
+                  "value": 12997
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "September",
+          "children": [
+            {
+              "name": "Hamburg Habichtstrasse",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Habichtstrasse",
+                  "attribute_value": 0,
+                  "value": 13747
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Max-Brauer-Allee II (Straße)",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Max-Brauer-Allee II (Straße)",
+                  "attribute_value": 0,
+                  "value": 7974
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "October",
+          "children": [
+            {
+              "name": "Hamburg Habichtstrasse",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Habichtstrasse",
+                  "attribute_value": 1,
+                  "value": 7699
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Max-Brauer-Allee II (Straße)",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Max-Brauer-Allee II (Straße)",
+                  "attribute_value": 1,
+                  "value": 13145
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "November",
+          "children": [
+            {
+              "name": "Hamburg Habichtstrasse",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Habichtstrasse",
+                  "attribute_value": 1,
+                  "value": 6926
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Max-Brauer-Allee II (Straße)",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Max-Brauer-Allee II (Straße)",
+                  "attribute_value": 0,
+                  "value": 3892
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "December",
+          "children": [
+            {
+              "name": "Hamburg Habichtstrasse",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Habichtstrasse",
+                  "attribute_value": 1,
+                  "value": 3216
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Max-Brauer-Allee II (Straße)",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Max-Brauer-Allee II (Straße)",
+                  "attribute_value": 0,
+                  "value": 11211
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Fine dust (PM10)",
+      "children": [
+        {
+          "name": "January",
+          "children": [
+            {
+              "name": "Hamburg Altona Elbhang",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Hamburg Altona Elbhang",
+                  "attribute_value": 18.928571428571427,
+                  "value": 3038
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Billbrook",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Hamburg Billbrook",
+                  "attribute_value": 14.533333333333333,
+                  "value": 5963
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Habichtstrasse",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Hamburg Habichtstrasse",
+                  "attribute_value": 23.724137931034484,
+                  "value": 14729
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Max-Brauer-Allee II (Straße)",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Hamburg Max-Brauer-Allee II (Straße)",
+                  "attribute_value": 18.548387096774192,
+                  "value": 6287
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Sternschanze",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Hamburg Sternschanze",
+                  "attribute_value": 17.3,
+                  "value": 4922
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "February",
+          "children": [
+            {
+              "name": "Hamburg Altona Elbhang",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Hamburg Altona Elbhang",
+                  "attribute_value": 13.964285714285714,
+                  "value": 3649
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Billbrook",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Hamburg Billbrook",
+                  "attribute_value": 10.037037037037036,
+                  "value": 5847
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Habichtstrasse",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Hamburg Habichtstrasse",
+                  "attribute_value": 18.96,
+                  "value": 1059
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Max-Brauer-Allee II (Straße)",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Hamburg Max-Brauer-Allee II (Straße)",
+                  "attribute_value": 13.571428571428571,
+                  "value": 1815
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Sternschanze",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Hamburg Sternschanze",
+                  "attribute_value": 12.518518518518519,
+                  "value": 6615
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "March",
+          "children": [
+            {
+              "name": "Hamburg Altona Elbhang",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Hamburg Altona Elbhang",
+                  "attribute_value": 25.129032258064516,
+                  "value": 9954
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Billbrook",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Hamburg Billbrook",
+                  "attribute_value": 21.733333333333334,
+                  "value": 7548
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Habichtstrasse",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Hamburg Habichtstrasse",
+                  "attribute_value": 28.466666666666665,
+                  "value": 10278
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Max-Brauer-Allee II (Straße)",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Hamburg Max-Brauer-Allee II (Straße)",
+                  "attribute_value": 28.032258064516128,
+                  "value": 13362
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Sternschanze",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Hamburg Sternschanze",
+                  "attribute_value": 22.75862068965517,
+                  "value": 6596
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "April",
+          "children": [
+            {
+              "name": "Hamburg Altona Elbhang",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Hamburg Altona Elbhang",
+                  "attribute_value": 13.8,
+                  "value": 5867
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Billbrook",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Hamburg Billbrook",
+                  "attribute_value": 12.5,
+                  "value": 5493
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Habichtstrasse",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Hamburg Habichtstrasse",
+                  "attribute_value": 16.2,
+                  "value": 7134
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Max-Brauer-Allee II (Straße)",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Hamburg Max-Brauer-Allee II (Straße)",
+                  "attribute_value": 15.137931034482758,
+                  "value": 4577
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Sternschanze",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Hamburg Sternschanze",
+                  "attribute_value": 12.466666666666667,
+                  "value": 7133
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "May",
+          "children": [
+            {
+              "name": "Hamburg Altona Elbhang",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Hamburg Altona Elbhang",
+                  "attribute_value": 15.516129032258064,
+                  "value": 14721
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Billbrook",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Hamburg Billbrook",
+                  "attribute_value": 15.782608695652174,
+                  "value": 6468
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Habichtstrasse",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Hamburg Habichtstrasse",
+                  "attribute_value": 20.620689655172413,
+                  "value": 4316
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Max-Brauer-Allee II (Straße)",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Hamburg Max-Brauer-Allee II (Straße)",
+                  "attribute_value": 17.64516129032258,
+                  "value": 6453
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Sternschanze",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Hamburg Sternschanze",
+                  "attribute_value": 13.466666666666667,
+                  "value": 1858
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "June",
+          "children": [
+            {
+              "name": "Hamburg Altona Elbhang",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Hamburg Altona Elbhang",
+                  "attribute_value": 13.933333333333334,
+                  "value": 13649
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Billbrook",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Hamburg Billbrook",
+                  "attribute_value": 11.133333333333333,
+                  "value": 602
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Habichtstrasse",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Hamburg Habichtstrasse",
+                  "attribute_value": 17.178571428571427,
+                  "value": 5228
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Max-Brauer-Allee II (Straße)",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Hamburg Max-Brauer-Allee II (Straße)",
+                  "attribute_value": 16.233333333333334,
+                  "value": 12330
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Sternschanze",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Hamburg Sternschanze",
+                  "attribute_value": 12.655172413793103,
+                  "value": 9614
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "July",
+          "children": [
+            {
+              "name": "Hamburg Altona Elbhang",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Hamburg Altona Elbhang",
+                  "attribute_value": 13.32258064516129,
+                  "value": 14496
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Billbrook",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Hamburg Billbrook",
+                  "attribute_value": 11.35483870967742,
+                  "value": 7281
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Habichtstrasse",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Hamburg Habichtstrasse",
+                  "attribute_value": 17.444444444444443,
+                  "value": 982
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Max-Brauer-Allee II (Straße)",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Hamburg Max-Brauer-Allee II (Straße)",
+                  "attribute_value": 15.548387096774194,
+                  "value": 4660
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Sternschanze",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Hamburg Sternschanze",
+                  "attribute_value": 13.129032258064516,
+                  "value": 784
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "August",
+          "children": [
+            {
+              "name": "Hamburg Altona Elbhang",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Hamburg Altona Elbhang",
+                  "attribute_value": 17.774193548387096,
+                  "value": 9834
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Billbrook",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Hamburg Billbrook",
+                  "attribute_value": 15.129032258064516,
+                  "value": 787
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Habichtstrasse",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Hamburg Habichtstrasse",
+                  "attribute_value": 20.137931034482758,
+                  "value": 13546
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Max-Brauer-Allee II (Straße)",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Hamburg Max-Brauer-Allee II (Straße)",
+                  "attribute_value": 20.93548387096774,
+                  "value": 3325
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Sternschanze",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Hamburg Sternschanze",
+                  "attribute_value": 15.571428571428571,
+                  "value": 11161
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "September",
+          "children": [
+            {
+              "name": "Hamburg Altona Elbhang",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Hamburg Altona Elbhang",
+                  "attribute_value": 13.533333333333333,
+                  "value": 12517
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Billbrook",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Hamburg Billbrook",
+                  "attribute_value": 10.793103448275861,
+                  "value": 697
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Habichtstrasse",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Hamburg Habichtstrasse",
+                  "attribute_value": 18.16,
+                  "value": 5125
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Max-Brauer-Allee II (Straße)",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Hamburg Max-Brauer-Allee II (Straße)",
+                  "attribute_value": 16.033333333333335,
+                  "value": 1087
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Sternschanze",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Hamburg Sternschanze",
+                  "attribute_value": 12.724137931034482,
+                  "value": 5363
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "October",
+          "children": [
+            {
+              "name": "Hamburg Altona Elbhang",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Hamburg Altona Elbhang",
+                  "attribute_value": 17.29032258064516,
+                  "value": 2057
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Billbrook",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Hamburg Billbrook",
+                  "attribute_value": 14.225806451612904,
+                  "value": 13009
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Habichtstrasse",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Hamburg Habichtstrasse",
+                  "attribute_value": 23.862068965517242,
+                  "value": 5577
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Max-Brauer-Allee II (Straße)",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Hamburg Max-Brauer-Allee II (Straße)",
+                  "attribute_value": 20.774193548387096,
+                  "value": 10856
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Sternschanze",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Hamburg Sternschanze",
+                  "attribute_value": 18.642857142857142,
+                  "value": 7644
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "November",
+          "children": [
+            {
+              "name": "Hamburg Altona Elbhang",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Hamburg Altona Elbhang",
+                  "attribute_value": 17.3,
+                  "value": 667
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Billbrook",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Hamburg Billbrook",
+                  "attribute_value": 17.11111111111111,
+                  "value": 2536
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Habichtstrasse",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Hamburg Habichtstrasse",
+                  "attribute_value": 23.26923076923077,
+                  "value": 4869
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Max-Brauer-Allee II (Straße)",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Hamburg Max-Brauer-Allee II (Straße)",
+                  "attribute_value": 19.833333333333332,
+                  "value": 5653
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Sternschanze",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Hamburg Sternschanze",
+                  "attribute_value": 17.1,
+                  "value": 6494
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "December",
+          "children": [
+            {
+              "name": "Hamburg Altona Elbhang",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Hamburg Altona Elbhang",
+                  "attribute_value": 18.741935483870968,
+                  "value": 6399
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Billbrook",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Hamburg Billbrook",
+                  "attribute_value": 16.25,
+                  "value": 11411
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Habichtstrasse",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Hamburg Habichtstrasse",
+                  "attribute_value": 23.862068965517242,
+                  "value": 10652
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Max-Brauer-Allee II (Straße)",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Hamburg Max-Brauer-Allee II (Straße)",
+                  "attribute_value": 21.483870967741936,
+                  "value": 3860
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Sternschanze",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Hamburg Sternschanze",
+                  "attribute_value": 19.633333333333333,
+                  "value": 1983
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Nitrogen dioxide (NO2)",
+      "children": [
+        {
+          "name": "January",
+          "children": [
+            {
+              "name": "Hamburg Altona Elbhang",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Altona Elbhang",
+                  "attribute_value": 66,
+                  "value": 4911
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Billbrook",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Billbrook",
+                  "attribute_value": 75,
+                  "value": 10466
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Habichtstrasse",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Habichtstrasse",
+                  "attribute_value": 96,
+                  "value": 5983
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Max-Brauer-Allee II (Straße)",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Max-Brauer-Allee II (Straße)",
+                  "attribute_value": 69,
+                  "value": 6489
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Sternschanze",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Sternschanze",
+                  "attribute_value": 64,
+                  "value": 12898
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "February",
+          "children": [
+            {
+              "name": "Hamburg Altona Elbhang",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Altona Elbhang",
+                  "attribute_value": 76,
+                  "value": 11002
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Billbrook",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Billbrook",
+                  "attribute_value": 64,
+                  "value": 5986
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Habichtstrasse",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Habichtstrasse",
+                  "attribute_value": 92,
+                  "value": 584
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Max-Brauer-Allee II (Straße)",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Max-Brauer-Allee II (Straße)",
+                  "attribute_value": 70,
+                  "value": 8065
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Sternschanze",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Sternschanze",
+                  "attribute_value": 64,
+                  "value": 10014
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "March",
+          "children": [
+            {
+              "name": "Hamburg Altona Elbhang",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Altona Elbhang",
+                  "attribute_value": 106,
+                  "value": 13471
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Billbrook",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Billbrook",
+                  "attribute_value": 91,
+                  "value": 10141
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Habichtstrasse",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Habichtstrasse",
+                  "attribute_value": 112,
+                  "value": 2807
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Max-Brauer-Allee II (Straße)",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Max-Brauer-Allee II (Straße)",
+                  "attribute_value": 120,
+                  "value": 10400
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Sternschanze",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Sternschanze",
+                  "attribute_value": 87,
+                  "value": 6177
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "April",
+          "children": [
+            {
+              "name": "Hamburg Altona Elbhang",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Altona Elbhang",
+                  "attribute_value": 71,
+                  "value": 8879
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Billbrook",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Billbrook",
+                  "attribute_value": 77,
+                  "value": 11724
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Habichtstrasse",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Habichtstrasse",
+                  "attribute_value": 96,
+                  "value": 9359
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Max-Brauer-Allee II (Straße)",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Max-Brauer-Allee II (Straße)",
+                  "attribute_value": 74,
+                  "value": 10263
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Sternschanze",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Sternschanze",
+                  "attribute_value": 74,
+                  "value": 14359
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "May",
+          "children": [
+            {
+              "name": "Hamburg Altona Elbhang",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Altona Elbhang",
+                  "attribute_value": 72,
+                  "value": 4097
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Billbrook",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Billbrook",
+                  "attribute_value": 76,
+                  "value": 12131
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Habichtstrasse",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Habichtstrasse",
+                  "attribute_value": 133,
+                  "value": 5536
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Max-Brauer-Allee II (Straße)",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Max-Brauer-Allee II (Straße)",
+                  "attribute_value": 104,
+                  "value": 12007
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Sternschanze",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Sternschanze",
+                  "attribute_value": 67,
+                  "value": 7971
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "June",
+          "children": [
+            {
+              "name": "Hamburg Altona Elbhang",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Altona Elbhang",
+                  "attribute_value": 70,
+                  "value": 10451
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Billbrook",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Billbrook",
+                  "attribute_value": 74,
+                  "value": 7870
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Habichtstrasse",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Habichtstrasse",
+                  "attribute_value": 120,
+                  "value": 3482
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Max-Brauer-Allee II (Straße)",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Max-Brauer-Allee II (Straße)",
+                  "attribute_value": 73,
+                  "value": 1725
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Sternschanze",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Sternschanze",
+                  "attribute_value": 62,
+                  "value": 9213
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "July",
+          "children": [
+            {
+              "name": "Hamburg Altona Elbhang",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Altona Elbhang",
+                  "attribute_value": 94,
+                  "value": 2591
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Billbrook",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Billbrook",
+                  "attribute_value": 67,
+                  "value": 12858
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Habichtstrasse",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Habichtstrasse",
+                  "attribute_value": 169,
+                  "value": 1395
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Max-Brauer-Allee II (Straße)",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Max-Brauer-Allee II (Straße)",
+                  "attribute_value": 101,
+                  "value": 2685
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Sternschanze",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Sternschanze",
+                  "attribute_value": 88,
+                  "value": 13541
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "August",
+          "children": [
+            {
+              "name": "Hamburg Altona Elbhang",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Altona Elbhang",
+                  "attribute_value": 96,
+                  "value": 14445
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Billbrook",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Billbrook",
+                  "attribute_value": 68,
+                  "value": 11250
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Habichtstrasse",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Habichtstrasse",
+                  "attribute_value": 153,
+                  "value": 4261
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Max-Brauer-Allee II (Straße)",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Max-Brauer-Allee II (Straße)",
+                  "attribute_value": 105,
+                  "value": 14771
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Sternschanze",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Sternschanze",
+                  "attribute_value": 71,
+                  "value": 14075
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "September",
+          "children": [
+            {
+              "name": "Hamburg Altona Elbhang",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Altona Elbhang",
+                  "attribute_value": 74,
+                  "value": 8997
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Billbrook",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Billbrook",
+                  "attribute_value": 60,
+                  "value": 12719
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Habichtstrasse",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Habichtstrasse",
+                  "attribute_value": 113,
+                  "value": 13853
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Max-Brauer-Allee II (Straße)",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Max-Brauer-Allee II (Straße)",
+                  "attribute_value": 76,
+                  "value": 12009
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Sternschanze",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Sternschanze",
+                  "attribute_value": 71,
+                  "value": 11406
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "October",
+          "children": [
+            {
+              "name": "Hamburg Altona Elbhang",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Altona Elbhang",
+                  "attribute_value": 100,
+                  "value": 2116
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Billbrook",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Billbrook",
+                  "attribute_value": 48,
+                  "value": 13643
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Habichtstrasse",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Habichtstrasse",
+                  "attribute_value": 96,
+                  "value": 1395
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Max-Brauer-Allee II (Straße)",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Max-Brauer-Allee II (Straße)",
+                  "attribute_value": 81,
+                  "value": 2712
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Sternschanze",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Sternschanze",
+                  "attribute_value": 65,
+                  "value": 13615
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "November",
+          "children": [
+            {
+              "name": "Hamburg Altona Elbhang",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Altona Elbhang",
+                  "attribute_value": 63,
+                  "value": 10015
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Billbrook",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Billbrook",
+                  "attribute_value": 53,
+                  "value": 11801
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Habichtstrasse",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Habichtstrasse",
+                  "attribute_value": 98,
+                  "value": 10739
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Max-Brauer-Allee II (Straße)",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Max-Brauer-Allee II (Straße)",
+                  "attribute_value": 73,
+                  "value": 13977
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Sternschanze",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Sternschanze",
+                  "attribute_value": 59,
+                  "value": 12902
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "December",
+          "children": [
+            {
+              "name": "Hamburg Altona Elbhang",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Altona Elbhang",
+                  "attribute_value": 64,
+                  "value": 4968
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Billbrook",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Billbrook",
+                  "attribute_value": 67,
+                  "value": 11818
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Habichtstrasse",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Habichtstrasse",
+                  "attribute_value": 106,
+                  "value": 10078
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Max-Brauer-Allee II (Straße)",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Max-Brauer-Allee II (Straße)",
+                  "attribute_value": 79,
+                  "value": 6763
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Sternschanze",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Sternschanze",
+                  "attribute_value": 63,
+                  "value": 8420
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ozone (O3)",
+      "children": [
+        {
+          "name": "January",
+          "children": [
+            {
+              "name": "Hamburg Neugraben",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Neugraben",
+                  "attribute_value": 84,
+                  "value": 1017
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Sternschanze",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Sternschanze",
+                  "attribute_value": 86,
+                  "value": 13891
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "February",
+          "children": [
+            {
+              "name": "Hamburg Neugraben",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Neugraben",
+                  "attribute_value": 97,
+                  "value": 7440
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Sternschanze",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Sternschanze",
+                  "attribute_value": 98,
+                  "value": 11668
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "March",
+          "children": [
+            {
+              "name": "Hamburg Neugraben",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Neugraben",
+                  "attribute_value": 112,
+                  "value": 6768
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Sternschanze",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Sternschanze",
+                  "attribute_value": 109,
+                  "value": 2959
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "April",
+          "children": [
+            {
+              "name": "Hamburg Neugraben",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Neugraben",
+                  "attribute_value": 104,
+                  "value": 3363
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Sternschanze",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Sternschanze",
+                  "attribute_value": 104,
+                  "value": 7898
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "May",
+          "children": [
+            {
+              "name": "Hamburg Neugraben",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Neugraben",
+                  "attribute_value": 124,
+                  "value": 11726
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Sternschanze",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Sternschanze",
+                  "attribute_value": 109,
+                  "value": 5633
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "June",
+          "children": [
+            {
+              "name": "Hamburg Neugraben",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Neugraben",
+                  "attribute_value": 140,
+                  "value": 10820
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Sternschanze",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Sternschanze",
+                  "attribute_value": 122,
+                  "value": 7661
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "July",
+          "children": [
+            {
+              "name": "Hamburg Neugraben",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Neugraben",
+                  "attribute_value": 159,
+                  "value": 11719
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Sternschanze",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Sternschanze",
+                  "attribute_value": 147,
+                  "value": 5666
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "August",
+          "children": [
+            {
+              "name": "Hamburg Neugraben",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Neugraben",
+                  "attribute_value": 162,
+                  "value": 12219
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Sternschanze",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Sternschanze",
+                  "attribute_value": 138,
+                  "value": 9735
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "September",
+          "children": [
+            {
+              "name": "Hamburg Neugraben",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Neugraben",
+                  "attribute_value": 99,
+                  "value": 13926
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Sternschanze",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Sternschanze",
+                  "attribute_value": 85,
+                  "value": 1600
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "October",
+          "children": [
+            {
+              "name": "Hamburg Neugraben",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Neugraben",
+                  "attribute_value": 77,
+                  "value": 8323
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Sternschanze",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Sternschanze",
+                  "attribute_value": 64,
+                  "value": 8632
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "November",
+          "children": [
+            {
+              "name": "Hamburg Neugraben",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Neugraben",
+                  "attribute_value": 77,
+                  "value": 5687
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Sternschanze",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Sternschanze",
+                  "attribute_value": 70,
+                  "value": 9397
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "December",
+          "children": [
+            {
+              "name": "Hamburg Neugraben",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Neugraben",
+                  "attribute_value": 72,
+                  "value": 12480
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Sternschanze",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Sternschanze",
+                  "attribute_value": 77,
+                  "value": 14438
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sulfur dioxide (SO2)",
+      "children": [
+        {
+          "name": "January",
+          "children": [
+            {
+              "name": "Hamburg Altona Elbhang",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Altona Elbhang",
+                  "attribute_value": 19,
+                  "value": 12876
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Billbrook",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Billbrook",
+                  "attribute_value": 33,
+                  "value": 3646
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Sternschanze",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Sternschanze",
+                  "attribute_value": 20,
+                  "value": 1934
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "February",
+          "children": [
+            {
+              "name": "Hamburg Altona Elbhang",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Altona Elbhang",
+                  "attribute_value": 32,
+                  "value": 5244
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Billbrook",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Billbrook",
+                  "attribute_value": 30,
+                  "value": 12827
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Sternschanze",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Sternschanze",
+                  "attribute_value": 33,
+                  "value": 3047
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "March",
+          "children": [
+            {
+              "name": "Hamburg Altona Elbhang",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Altona Elbhang",
+                  "attribute_value": 75,
+                  "value": 8624
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Billbrook",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Billbrook",
+                  "attribute_value": 23,
+                  "value": 11550
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Sternschanze",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Sternschanze",
+                  "attribute_value": 35,
+                  "value": 2040
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "April",
+          "children": [
+            {
+              "name": "Hamburg Altona Elbhang",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Altona Elbhang",
+                  "attribute_value": 46,
+                  "value": 14900
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Billbrook",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Billbrook",
+                  "attribute_value": 22,
+                  "value": 3690
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Sternschanze",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Sternschanze",
+                  "attribute_value": 40,
+                  "value": 7304
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "May",
+          "children": [
+            {
+              "name": "Hamburg Altona Elbhang",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Altona Elbhang",
+                  "attribute_value": 13,
+                  "value": 6318
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Billbrook",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Billbrook",
+                  "attribute_value": 26,
+                  "value": 6226
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Sternschanze",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Sternschanze",
+                  "attribute_value": 10,
+                  "value": 10406
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "June",
+          "children": [
+            {
+              "name": "Hamburg Altona Elbhang",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Altona Elbhang",
+                  "attribute_value": 10,
+                  "value": 2998
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Billbrook",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Billbrook",
+                  "attribute_value": 25,
+                  "value": 12418
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Sternschanze",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Sternschanze",
+                  "attribute_value": 11,
+                  "value": 5383
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "July",
+          "children": [
+            {
+              "name": "Hamburg Altona Elbhang",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Altona Elbhang",
+                  "attribute_value": 35,
+                  "value": 11157
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Billbrook",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Billbrook",
+                  "attribute_value": 23,
+                  "value": 14713
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Sternschanze",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Sternschanze",
+                  "attribute_value": 47,
+                  "value": 7061
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "August",
+          "children": [
+            {
+              "name": "Hamburg Altona Elbhang",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Altona Elbhang",
+                  "attribute_value": 37,
+                  "value": 10147
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Billbrook",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Billbrook",
+                  "attribute_value": 12,
+                  "value": 8854
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Sternschanze",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Sternschanze",
+                  "attribute_value": 30,
+                  "value": 6798
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "September",
+          "children": [
+            {
+              "name": "Hamburg Altona Elbhang",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Altona Elbhang",
+                  "attribute_value": 19,
+                  "value": 13659
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Billbrook",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Billbrook",
+                  "attribute_value": 31,
+                  "value": 1136
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Sternschanze",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Sternschanze",
+                  "attribute_value": 19,
+                  "value": 7668
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "October",
+          "children": [
+            {
+              "name": "Hamburg Altona Elbhang",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Altona Elbhang",
+                  "attribute_value": 30,
+                  "value": 1166
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Billbrook",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Billbrook",
+                  "attribute_value": 27,
+                  "value": 14385
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Sternschanze",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Sternschanze",
+                  "attribute_value": 58,
+                  "value": 6545
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "November",
+          "children": [
+            {
+              "name": "Hamburg Altona Elbhang",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Altona Elbhang",
+                  "attribute_value": 45,
+                  "value": 11889
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Billbrook",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Billbrook",
+                  "attribute_value": 47,
+                  "value": 13291
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Sternschanze",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Sternschanze",
+                  "attribute_value": 50,
+                  "value": 13888
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "December",
+          "children": [
+            {
+              "name": "Hamburg Altona Elbhang",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Altona Elbhang",
+                  "attribute_value": 25,
+                  "value": 10300
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Billbrook",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Billbrook",
+                  "attribute_value": 27,
+                  "value": 6085
+                }
+              ]
+            },
+            {
+              "name": "Hamburg Sternschanze",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Hamburg Sternschanze",
+                  "attribute_value": 43,
+                  "value": 5960
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

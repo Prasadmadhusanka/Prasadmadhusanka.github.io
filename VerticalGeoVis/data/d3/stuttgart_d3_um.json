@@ -1,0 +1,1849 @@
+{
+  "name": "Stuttgart",
+  "children": [
+    {
+      "name": "Carbon monoxide (CO)",
+      "children": [
+        {
+          "name": "January",
+          "children": [
+            {
+              "name": "Stuttgart Arnulf-Klett-Platz",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Stuttgart Arnulf-Klett-Platz",
+                  "attribute_value": 1,
+                  "value": 13651
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "February",
+          "children": [
+            {
+              "name": "Stuttgart Arnulf-Klett-Platz",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Stuttgart Arnulf-Klett-Platz",
+                  "attribute_value": 0,
+                  "value": 12075
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "March",
+          "children": [
+            {
+              "name": "Stuttgart Arnulf-Klett-Platz",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Stuttgart Arnulf-Klett-Platz",
+                  "attribute_value": 0,
+                  "value": 14050
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "April",
+          "children": [
+            {
+              "name": "Stuttgart Arnulf-Klett-Platz",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Stuttgart Arnulf-Klett-Platz",
+                  "attribute_value": 0,
+                  "value": 5427
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "May",
+          "children": [
+            {
+              "name": "Stuttgart Arnulf-Klett-Platz",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Stuttgart Arnulf-Klett-Platz",
+                  "attribute_value": 0,
+                  "value": 1117
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "June",
+          "children": [
+            {
+              "name": "Stuttgart Arnulf-Klett-Platz",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Stuttgart Arnulf-Klett-Platz",
+                  "attribute_value": 0,
+                  "value": 9055
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "July",
+          "children": [
+            {
+              "name": "Stuttgart Arnulf-Klett-Platz",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Stuttgart Arnulf-Klett-Platz",
+                  "attribute_value": 0,
+                  "value": 13249
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "August",
+          "children": [
+            {
+              "name": "Stuttgart Arnulf-Klett-Platz",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Stuttgart Arnulf-Klett-Platz",
+                  "attribute_value": 0,
+                  "value": 1913
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "September",
+          "children": [
+            {
+              "name": "Stuttgart Arnulf-Klett-Platz",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Stuttgart Arnulf-Klett-Platz",
+                  "attribute_value": 0,
+                  "value": 7044
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "October",
+          "children": [
+            {
+              "name": "Stuttgart Arnulf-Klett-Platz",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Stuttgart Arnulf-Klett-Platz",
+                  "attribute_value": 0,
+                  "value": 7686
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "November",
+          "children": [
+            {
+              "name": "Stuttgart Arnulf-Klett-Platz",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Stuttgart Arnulf-Klett-Platz",
+                  "attribute_value": 0,
+                  "value": 1387
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "December",
+          "children": [
+            {
+              "name": "Stuttgart Arnulf-Klett-Platz",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Stuttgart Arnulf-Klett-Platz",
+                  "attribute_value": 1,
+                  "value": 13745
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Fine dust (PM10)",
+      "children": [
+        {
+          "name": "January",
+          "children": [
+            {
+              "name": "Stuttgart Am Neckartor",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Stuttgart Am Neckartor",
+                  "attribute_value": 21.129032258064516,
+                  "value": 9159
+                }
+              ]
+            },
+            {
+              "name": "Stuttgart Arnulf-Klett-Platz",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Stuttgart Arnulf-Klett-Platz",
+                  "attribute_value": 19.870967741935484,
+                  "value": 7990
+                }
+              ]
+            },
+            {
+              "name": "Stuttgart Hohenheimer Straße",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Stuttgart Hohenheimer Straße",
+                  "attribute_value": 17.741935483870968,
+                  "value": 2048
+                }
+              ]
+            },
+            {
+              "name": "Stuttgart-Bad Cannstatt",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Stuttgart-Bad Cannstatt",
+                  "attribute_value": 17.516129032258064,
+                  "value": 5973
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "February",
+          "children": [
+            {
+              "name": "Stuttgart Am Neckartor",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Stuttgart Am Neckartor",
+                  "attribute_value": 17.071428571428573,
+                  "value": 4553
+                }
+              ]
+            },
+            {
+              "name": "Stuttgart Arnulf-Klett-Platz",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Stuttgart Arnulf-Klett-Platz",
+                  "attribute_value": 17.464285714285715,
+                  "value": 12074
+                }
+              ]
+            },
+            {
+              "name": "Stuttgart Hohenheimer Straße",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Stuttgart Hohenheimer Straße",
+                  "attribute_value": 15.607142857142858,
+                  "value": 2852
+                }
+              ]
+            },
+            {
+              "name": "Stuttgart-Bad Cannstatt",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Stuttgart-Bad Cannstatt",
+                  "attribute_value": 11.428571428571429,
+                  "value": 12297
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "March",
+          "children": [
+            {
+              "name": "Stuttgart Am Neckartor",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Stuttgart Am Neckartor",
+                  "attribute_value": 36.096774193548384,
+                  "value": 12025
+                }
+              ]
+            },
+            {
+              "name": "Stuttgart Arnulf-Klett-Platz",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Stuttgart Arnulf-Klett-Platz",
+                  "attribute_value": 31.419354838709676,
+                  "value": 7628
+                }
+              ]
+            },
+            {
+              "name": "Stuttgart Hohenheimer Straße",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Stuttgart Hohenheimer Straße",
+                  "attribute_value": 34.225806451612904,
+                  "value": 5634
+                }
+              ]
+            },
+            {
+              "name": "Stuttgart-Bad Cannstatt",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Stuttgart-Bad Cannstatt",
+                  "attribute_value": 28.35483870967742,
+                  "value": 9352
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "April",
+          "children": [
+            {
+              "name": "Stuttgart Am Neckartor",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Stuttgart Am Neckartor",
+                  "attribute_value": 17.966666666666665,
+                  "value": 12205
+                }
+              ]
+            },
+            {
+              "name": "Stuttgart Arnulf-Klett-Platz",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Stuttgart Arnulf-Klett-Platz",
+                  "attribute_value": 17.933333333333334,
+                  "value": 3131
+                }
+              ]
+            },
+            {
+              "name": "Stuttgart Hohenheimer Straße",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Stuttgart Hohenheimer Straße",
+                  "attribute_value": 20.9,
+                  "value": 1857
+                }
+              ]
+            },
+            {
+              "name": "Stuttgart-Bad Cannstatt",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Stuttgart-Bad Cannstatt",
+                  "attribute_value": 12.766666666666667,
+                  "value": 12425
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "May",
+          "children": [
+            {
+              "name": "Stuttgart Am Neckartor",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Stuttgart Am Neckartor",
+                  "attribute_value": 19.29032258064516,
+                  "value": 5806
+                }
+              ]
+            },
+            {
+              "name": "Stuttgart Arnulf-Klett-Platz",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Stuttgart Arnulf-Klett-Platz",
+                  "attribute_value": 19.225806451612904,
+                  "value": 2205
+                }
+              ]
+            },
+            {
+              "name": "Stuttgart Hohenheimer Straße",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Stuttgart Hohenheimer Straße",
+                  "attribute_value": 18,
+                  "value": 11220
+                }
+              ]
+            },
+            {
+              "name": "Stuttgart-Bad Cannstatt",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Stuttgart-Bad Cannstatt",
+                  "attribute_value": 14.03225806451613,
+                  "value": 11271
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "June",
+          "children": [
+            {
+              "name": "Stuttgart Am Neckartor",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Stuttgart Am Neckartor",
+                  "attribute_value": 18.133333333333333,
+                  "value": 3575
+                }
+              ]
+            },
+            {
+              "name": "Stuttgart Arnulf-Klett-Platz",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Stuttgart Arnulf-Klett-Platz",
+                  "attribute_value": 18.433333333333334,
+                  "value": 2415
+                }
+              ]
+            },
+            {
+              "name": "Stuttgart Hohenheimer Straße",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Stuttgart Hohenheimer Straße",
+                  "attribute_value": 17.6,
+                  "value": 10198
+                }
+              ]
+            },
+            {
+              "name": "Stuttgart-Bad Cannstatt",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Stuttgart-Bad Cannstatt",
+                  "attribute_value": 14.3,
+                  "value": 8914
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "July",
+          "children": [
+            {
+              "name": "Stuttgart Am Neckartor",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Stuttgart Am Neckartor",
+                  "attribute_value": 17.612903225806452,
+                  "value": 14321
+                }
+              ]
+            },
+            {
+              "name": "Stuttgart Arnulf-Klett-Platz",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Stuttgart Arnulf-Klett-Platz",
+                  "attribute_value": 18.741935483870968,
+                  "value": 2229
+                }
+              ]
+            },
+            {
+              "name": "Stuttgart Hohenheimer Straße",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Stuttgart Hohenheimer Straße",
+                  "attribute_value": 21.93548387096774,
+                  "value": 9962
+                }
+              ]
+            },
+            {
+              "name": "Stuttgart-Bad Cannstatt",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Stuttgart-Bad Cannstatt",
+                  "attribute_value": 14.741935483870968,
+                  "value": 7980
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "August",
+          "children": [
+            {
+              "name": "Stuttgart Am Neckartor",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Stuttgart Am Neckartor",
+                  "attribute_value": 18.93548387096774,
+                  "value": 2592
+                }
+              ]
+            },
+            {
+              "name": "Stuttgart Arnulf-Klett-Platz",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Stuttgart Arnulf-Klett-Platz",
+                  "attribute_value": 18.548387096774192,
+                  "value": 2441
+                }
+              ]
+            },
+            {
+              "name": "Stuttgart Hohenheimer Straße",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Stuttgart Hohenheimer Straße",
+                  "attribute_value": 18.677419354838708,
+                  "value": 12093
+                }
+              ]
+            },
+            {
+              "name": "Stuttgart-Bad Cannstatt",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Stuttgart-Bad Cannstatt",
+                  "attribute_value": 14.838709677419354,
+                  "value": 2696
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "September",
+          "children": [
+            {
+              "name": "Stuttgart Am Neckartor",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Stuttgart Am Neckartor",
+                  "attribute_value": 14.666666666666666,
+                  "value": 11304
+                }
+              ]
+            },
+            {
+              "name": "Stuttgart Arnulf-Klett-Platz",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Stuttgart Arnulf-Klett-Platz",
+                  "attribute_value": 15.033333333333333,
+                  "value": 11020
+                }
+              ]
+            },
+            {
+              "name": "Stuttgart Hohenheimer Straße",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Stuttgart Hohenheimer Straße",
+                  "attribute_value": 13.7,
+                  "value": 9425
+                }
+              ]
+            },
+            {
+              "name": "Stuttgart-Bad Cannstatt",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Stuttgart-Bad Cannstatt",
+                  "attribute_value": 10.466666666666667,
+                  "value": 12103
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "October",
+          "children": [
+            {
+              "name": "Stuttgart Am Neckartor",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Stuttgart Am Neckartor",
+                  "attribute_value": 23,
+                  "value": 1253
+                }
+              ]
+            },
+            {
+              "name": "Stuttgart Arnulf-Klett-Platz",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Stuttgart Arnulf-Klett-Platz",
+                  "attribute_value": 24.35483870967742,
+                  "value": 12188
+                }
+              ]
+            },
+            {
+              "name": "Stuttgart Hohenheimer Straße",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Stuttgart Hohenheimer Straße",
+                  "attribute_value": 20.580645161290324,
+                  "value": 6325
+                }
+              ]
+            },
+            {
+              "name": "Stuttgart-Bad Cannstatt",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Stuttgart-Bad Cannstatt",
+                  "attribute_value": 17.870967741935484,
+                  "value": 4873
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "November",
+          "children": [
+            {
+              "name": "Stuttgart Am Neckartor",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Stuttgart Am Neckartor",
+                  "attribute_value": 19.1,
+                  "value": 6781
+                }
+              ]
+            },
+            {
+              "name": "Stuttgart Arnulf-Klett-Platz",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Stuttgart Arnulf-Klett-Platz",
+                  "attribute_value": 19.1,
+                  "value": 6635
+                }
+              ]
+            },
+            {
+              "name": "Stuttgart Hohenheimer Straße",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Stuttgart Hohenheimer Straße",
+                  "attribute_value": 14.033333333333333,
+                  "value": 4210
+                }
+              ]
+            },
+            {
+              "name": "Stuttgart-Bad Cannstatt",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Stuttgart-Bad Cannstatt",
+                  "attribute_value": 15.233333333333333,
+                  "value": 2458
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "December",
+          "children": [
+            {
+              "name": "Stuttgart Am Neckartor",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Stuttgart Am Neckartor",
+                  "attribute_value": 23.322580645161292,
+                  "value": 2583
+                }
+              ]
+            },
+            {
+              "name": "Stuttgart Arnulf-Klett-Platz",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Stuttgart Arnulf-Klett-Platz",
+                  "attribute_value": 22.387096774193548,
+                  "value": 4813
+                }
+              ]
+            },
+            {
+              "name": "Stuttgart Hohenheimer Straße",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Stuttgart Hohenheimer Straße",
+                  "attribute_value": 20.193548387096776,
+                  "value": 14022
+                }
+              ]
+            },
+            {
+              "name": "Stuttgart-Bad Cannstatt",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Stuttgart-Bad Cannstatt",
+                  "attribute_value": 18,
+                  "value": 4285
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Nitrogen dioxide (NO2)",
+      "children": [
+        {
+          "name": "January",
+          "children": [
+            {
+              "name": "Stuttgart Am Neckartor",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Stuttgart Am Neckartor",
+                  "attribute_value": 77,
+                  "value": 11736
+                }
+              ]
+            },
+            {
+              "name": "Stuttgart Arnulf-Klett-Platz",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Stuttgart Arnulf-Klett-Platz",
+                  "attribute_value": 71,
+                  "value": 4535
+                }
+              ]
+            },
+            {
+              "name": "Stuttgart Hohenheimer Straße",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Stuttgart Hohenheimer Straße",
+                  "attribute_value": 73,
+                  "value": 9732
+                }
+              ]
+            },
+            {
+              "name": "Stuttgart-Bad Cannstatt",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Stuttgart-Bad Cannstatt",
+                  "attribute_value": 61,
+                  "value": 9190
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "February",
+          "children": [
+            {
+              "name": "Stuttgart Am Neckartor",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Stuttgart Am Neckartor",
+                  "attribute_value": 92,
+                  "value": 14471
+                }
+              ]
+            },
+            {
+              "name": "Stuttgart Arnulf-Klett-Platz",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Stuttgart Arnulf-Klett-Platz",
+                  "attribute_value": 89,
+                  "value": 900
+                }
+              ]
+            },
+            {
+              "name": "Stuttgart Hohenheimer Straße",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Stuttgart Hohenheimer Straße",
+                  "attribute_value": 90,
+                  "value": 6210
+                }
+              ]
+            },
+            {
+              "name": "Stuttgart-Bad Cannstatt",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Stuttgart-Bad Cannstatt",
+                  "attribute_value": 62,
+                  "value": 2559
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "March",
+          "children": [
+            {
+              "name": "Stuttgart Am Neckartor",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Stuttgart Am Neckartor",
+                  "attribute_value": 100,
+                  "value": 7325
+                }
+              ]
+            },
+            {
+              "name": "Stuttgart Arnulf-Klett-Platz",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Stuttgart Arnulf-Klett-Platz",
+                  "attribute_value": 94,
+                  "value": 12773
+                }
+              ]
+            },
+            {
+              "name": "Stuttgart Hohenheimer Straße",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Stuttgart Hohenheimer Straße",
+                  "attribute_value": 98,
+                  "value": 11378
+                }
+              ]
+            },
+            {
+              "name": "Stuttgart-Bad Cannstatt",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Stuttgart-Bad Cannstatt",
+                  "attribute_value": 79,
+                  "value": 10710
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "April",
+          "children": [
+            {
+              "name": "Stuttgart Am Neckartor",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Stuttgart Am Neckartor",
+                  "attribute_value": 97,
+                  "value": 1589
+                }
+              ]
+            },
+            {
+              "name": "Stuttgart Arnulf-Klett-Platz",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Stuttgart Arnulf-Klett-Platz",
+                  "attribute_value": 74,
+                  "value": 1225
+                }
+              ]
+            },
+            {
+              "name": "Stuttgart Hohenheimer Straße",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Stuttgart Hohenheimer Straße",
+                  "attribute_value": 131,
+                  "value": 12510
+                }
+              ]
+            },
+            {
+              "name": "Stuttgart-Bad Cannstatt",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Stuttgart-Bad Cannstatt",
+                  "attribute_value": 54,
+                  "value": 1479
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "May",
+          "children": [
+            {
+              "name": "Stuttgart Am Neckartor",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Stuttgart Am Neckartor",
+                  "attribute_value": 90,
+                  "value": 10620
+                }
+              ]
+            },
+            {
+              "name": "Stuttgart Arnulf-Klett-Platz",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Stuttgart Arnulf-Klett-Platz",
+                  "attribute_value": 128,
+                  "value": 9943
+                }
+              ]
+            },
+            {
+              "name": "Stuttgart Hohenheimer Straße",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Stuttgart Hohenheimer Straße",
+                  "attribute_value": 73,
+                  "value": 4705
+                }
+              ]
+            },
+            {
+              "name": "Stuttgart-Bad Cannstatt",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Stuttgart-Bad Cannstatt",
+                  "attribute_value": 52,
+                  "value": 14860
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "June",
+          "children": [
+            {
+              "name": "Stuttgart Am Neckartor",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Stuttgart Am Neckartor",
+                  "attribute_value": 100,
+                  "value": 8527
+                }
+              ]
+            },
+            {
+              "name": "Stuttgart Arnulf-Klett-Platz",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Stuttgart Arnulf-Klett-Platz",
+                  "attribute_value": 63,
+                  "value": 4963
+                }
+              ]
+            },
+            {
+              "name": "Stuttgart Hohenheimer Straße",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Stuttgart Hohenheimer Straße",
+                  "attribute_value": 58,
+                  "value": 10562
+                }
+              ]
+            },
+            {
+              "name": "Stuttgart-Bad Cannstatt",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Stuttgart-Bad Cannstatt",
+                  "attribute_value": 44,
+                  "value": 9747
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "July",
+          "children": [
+            {
+              "name": "Stuttgart Am Neckartor",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Stuttgart Am Neckartor",
+                  "attribute_value": 105,
+                  "value": 5233
+                }
+              ]
+            },
+            {
+              "name": "Stuttgart Arnulf-Klett-Platz",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Stuttgart Arnulf-Klett-Platz",
+                  "attribute_value": 89,
+                  "value": 10108
+                }
+              ]
+            },
+            {
+              "name": "Stuttgart Hohenheimer Straße",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Stuttgart Hohenheimer Straße",
+                  "attribute_value": 83,
+                  "value": 864
+                }
+              ]
+            },
+            {
+              "name": "Stuttgart-Bad Cannstatt",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Stuttgart-Bad Cannstatt",
+                  "attribute_value": 44,
+                  "value": 12317
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "August",
+          "children": [
+            {
+              "name": "Stuttgart Am Neckartor",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Stuttgart Am Neckartor",
+                  "attribute_value": 90,
+                  "value": 10999
+                }
+              ]
+            },
+            {
+              "name": "Stuttgart Arnulf-Klett-Platz",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Stuttgart Arnulf-Klett-Platz",
+                  "attribute_value": 68,
+                  "value": 8570
+                }
+              ]
+            },
+            {
+              "name": "Stuttgart Hohenheimer Straße",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Stuttgart Hohenheimer Straße",
+                  "attribute_value": 96,
+                  "value": 7312
+                }
+              ]
+            },
+            {
+              "name": "Stuttgart-Bad Cannstatt",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Stuttgart-Bad Cannstatt",
+                  "attribute_value": 44,
+                  "value": 10885
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "September",
+          "children": [
+            {
+              "name": "Stuttgart Am Neckartor",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Stuttgart Am Neckartor",
+                  "attribute_value": 104,
+                  "value": 3899
+                }
+              ]
+            },
+            {
+              "name": "Stuttgart Arnulf-Klett-Platz",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Stuttgart Arnulf-Klett-Platz",
+                  "attribute_value": 69,
+                  "value": 12428
+                }
+              ]
+            },
+            {
+              "name": "Stuttgart Hohenheimer Straße",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Stuttgart Hohenheimer Straße",
+                  "attribute_value": 79,
+                  "value": 12725
+                }
+              ]
+            },
+            {
+              "name": "Stuttgart-Bad Cannstatt",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Stuttgart-Bad Cannstatt",
+                  "attribute_value": 53,
+                  "value": 3087
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "October",
+          "children": [
+            {
+              "name": "Stuttgart Am Neckartor",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Stuttgart Am Neckartor",
+                  "attribute_value": 72,
+                  "value": 11451
+                }
+              ]
+            },
+            {
+              "name": "Stuttgart Arnulf-Klett-Platz",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Stuttgart Arnulf-Klett-Platz",
+                  "attribute_value": 69,
+                  "value": 4603
+                }
+              ]
+            },
+            {
+              "name": "Stuttgart Hohenheimer Straße",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Stuttgart Hohenheimer Straße",
+                  "attribute_value": 80,
+                  "value": 5678
+                }
+              ]
+            },
+            {
+              "name": "Stuttgart-Bad Cannstatt",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Stuttgart-Bad Cannstatt",
+                  "attribute_value": 53,
+                  "value": 720
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "November",
+          "children": [
+            {
+              "name": "Stuttgart Am Neckartor",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Stuttgart Am Neckartor",
+                  "attribute_value": 77,
+                  "value": 3025
+                }
+              ]
+            },
+            {
+              "name": "Stuttgart Arnulf-Klett-Platz",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Stuttgart Arnulf-Klett-Platz",
+                  "attribute_value": 68,
+                  "value": 11301
+                }
+              ]
+            },
+            {
+              "name": "Stuttgart Hohenheimer Straße",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Stuttgart Hohenheimer Straße",
+                  "attribute_value": 70,
+                  "value": 8720
+                }
+              ]
+            },
+            {
+              "name": "Stuttgart-Bad Cannstatt",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Stuttgart-Bad Cannstatt",
+                  "attribute_value": 57,
+                  "value": 8048
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "December",
+          "children": [
+            {
+              "name": "Stuttgart Am Neckartor",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Stuttgart Am Neckartor",
+                  "attribute_value": 77,
+                  "value": 2470
+                }
+              ]
+            },
+            {
+              "name": "Stuttgart Arnulf-Klett-Platz",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Stuttgart Arnulf-Klett-Platz",
+                  "attribute_value": 71,
+                  "value": 12894
+                }
+              ]
+            },
+            {
+              "name": "Stuttgart Hohenheimer Straße",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Stuttgart Hohenheimer Straße",
+                  "attribute_value": 72,
+                  "value": 1779
+                }
+              ]
+            },
+            {
+              "name": "Stuttgart-Bad Cannstatt",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Stuttgart-Bad Cannstatt",
+                  "attribute_value": 60,
+                  "value": 12132
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ozone (O3)",
+      "children": [
+        {
+          "name": "January",
+          "children": [
+            {
+              "name": "Stuttgart Am Neckartor",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Stuttgart Am Neckartor",
+                  "attribute_value": 75,
+                  "value": 4712
+                }
+              ]
+            },
+            {
+              "name": "Stuttgart Arnulf-Klett-Platz",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Stuttgart Arnulf-Klett-Platz",
+                  "attribute_value": 76,
+                  "value": 4346
+                }
+              ]
+            },
+            {
+              "name": "Stuttgart-Bad Cannstatt",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Stuttgart-Bad Cannstatt",
+                  "attribute_value": 80,
+                  "value": 13785
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "February",
+          "children": [
+            {
+              "name": "Stuttgart Am Neckartor",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Stuttgart Am Neckartor",
+                  "attribute_value": 86,
+                  "value": 14470
+                }
+              ]
+            },
+            {
+              "name": "Stuttgart Arnulf-Klett-Platz",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Stuttgart Arnulf-Klett-Platz",
+                  "attribute_value": 83,
+                  "value": 6484
+                }
+              ]
+            },
+            {
+              "name": "Stuttgart-Bad Cannstatt",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Stuttgart-Bad Cannstatt",
+                  "attribute_value": 90,
+                  "value": 10720
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "March",
+          "children": [
+            {
+              "name": "Stuttgart Am Neckartor",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Stuttgart Am Neckartor",
+                  "attribute_value": 92,
+                  "value": 13354
+                }
+              ]
+            },
+            {
+              "name": "Stuttgart Arnulf-Klett-Platz",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Stuttgart Arnulf-Klett-Platz",
+                  "attribute_value": 129,
+                  "value": 14634
+                }
+              ]
+            },
+            {
+              "name": "Stuttgart-Bad Cannstatt",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Stuttgart-Bad Cannstatt",
+                  "attribute_value": 139,
+                  "value": 11631
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "April",
+          "children": [
+            {
+              "name": "Stuttgart Am Neckartor",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Stuttgart Am Neckartor",
+                  "attribute_value": 90,
+                  "value": 5922
+                }
+              ]
+            },
+            {
+              "name": "Stuttgart Arnulf-Klett-Platz",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Stuttgart Arnulf-Klett-Platz",
+                  "attribute_value": 119,
+                  "value": 4777
+                }
+              ]
+            },
+            {
+              "name": "Stuttgart-Bad Cannstatt",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Stuttgart-Bad Cannstatt",
+                  "attribute_value": 119,
+                  "value": 11698
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "May",
+          "children": [
+            {
+              "name": "Stuttgart Am Neckartor",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Stuttgart Am Neckartor",
+                  "attribute_value": 107,
+                  "value": 10132
+                }
+              ]
+            },
+            {
+              "name": "Stuttgart Arnulf-Klett-Platz",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Stuttgart Arnulf-Klett-Platz",
+                  "attribute_value": 145,
+                  "value": 6894
+                }
+              ]
+            },
+            {
+              "name": "Stuttgart-Bad Cannstatt",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Stuttgart-Bad Cannstatt",
+                  "attribute_value": 147,
+                  "value": 779
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "June",
+          "children": [
+            {
+              "name": "Stuttgart Am Neckartor",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Stuttgart Am Neckartor",
+                  "attribute_value": 158,
+                  "value": 11990
+                }
+              ]
+            },
+            {
+              "name": "Stuttgart Arnulf-Klett-Platz",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Stuttgart Arnulf-Klett-Platz",
+                  "attribute_value": 175,
+                  "value": 4255
+                }
+              ]
+            },
+            {
+              "name": "Stuttgart-Bad Cannstatt",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Stuttgart-Bad Cannstatt",
+                  "attribute_value": 168,
+                  "value": 14599
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "July",
+          "children": [
+            {
+              "name": "Stuttgart Am Neckartor",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Stuttgart Am Neckartor",
+                  "attribute_value": 149,
+                  "value": 6094
+                }
+              ]
+            },
+            {
+              "name": "Stuttgart Arnulf-Klett-Platz",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Stuttgart Arnulf-Klett-Platz",
+                  "attribute_value": 176,
+                  "value": 3476
+                }
+              ]
+            },
+            {
+              "name": "Stuttgart-Bad Cannstatt",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Stuttgart-Bad Cannstatt",
+                  "attribute_value": 172,
+                  "value": 1701
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "August",
+          "children": [
+            {
+              "name": "Stuttgart Am Neckartor",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Stuttgart Am Neckartor",
+                  "attribute_value": 111,
+                  "value": 1428
+                }
+              ]
+            },
+            {
+              "name": "Stuttgart Arnulf-Klett-Platz",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Stuttgart Arnulf-Klett-Platz",
+                  "attribute_value": 158,
+                  "value": 13151
+                }
+              ]
+            },
+            {
+              "name": "Stuttgart-Bad Cannstatt",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Stuttgart-Bad Cannstatt",
+                  "attribute_value": 197,
+                  "value": 4355
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "September",
+          "children": [
+            {
+              "name": "Stuttgart Am Neckartor",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Stuttgart Am Neckartor",
+                  "attribute_value": 79,
+                  "value": 14107
+                }
+              ]
+            },
+            {
+              "name": "Stuttgart Arnulf-Klett-Platz",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Stuttgart Arnulf-Klett-Platz",
+                  "attribute_value": 111,
+                  "value": 7943
+                }
+              ]
+            },
+            {
+              "name": "Stuttgart-Bad Cannstatt",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Stuttgart-Bad Cannstatt",
+                  "attribute_value": 121,
+                  "value": 4411
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "October",
+          "children": [
+            {
+              "name": "Stuttgart Am Neckartor",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Stuttgart Am Neckartor",
+                  "attribute_value": 69,
+                  "value": 12742
+                }
+              ]
+            },
+            {
+              "name": "Stuttgart Arnulf-Klett-Platz",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Stuttgart Arnulf-Klett-Platz",
+                  "attribute_value": 76,
+                  "value": 1564
+                }
+              ]
+            },
+            {
+              "name": "Stuttgart-Bad Cannstatt",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Stuttgart-Bad Cannstatt",
+                  "attribute_value": 80,
+                  "value": 8368
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "November",
+          "children": [
+            {
+              "name": "Stuttgart Am Neckartor",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Stuttgart Am Neckartor",
+                  "attribute_value": 62,
+                  "value": 3752
+                }
+              ]
+            },
+            {
+              "name": "Stuttgart Arnulf-Klett-Platz",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Stuttgart Arnulf-Klett-Platz",
+                  "attribute_value": 54,
+                  "value": 7155
+                }
+              ]
+            },
+            {
+              "name": "Stuttgart-Bad Cannstatt",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Stuttgart-Bad Cannstatt",
+                  "attribute_value": 69,
+                  "value": 6534
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "December",
+          "children": [
+            {
+              "name": "Stuttgart Am Neckartor",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Stuttgart Am Neckartor",
+                  "attribute_value": 65,
+                  "value": 727
+                }
+              ]
+            },
+            {
+              "name": "Stuttgart Arnulf-Klett-Platz",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Stuttgart Arnulf-Klett-Platz",
+                  "attribute_value": 66,
+                  "value": 6938
+                }
+              ]
+            },
+            {
+              "name": "Stuttgart-Bad Cannstatt",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Stuttgart-Bad Cannstatt",
+                  "attribute_value": 69,
+                  "value": 14818
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

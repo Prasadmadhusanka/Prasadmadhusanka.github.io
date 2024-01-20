@@ -1,0 +1,1256 @@
+{
+  "name": "Leipzig",
+  "children": [
+    {
+      "name": "Fine dust (PM10)",
+      "children": [
+        {
+          "name": "January",
+          "children": [
+            {
+              "name": "Leipzig Lützner Str.",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Leipzig Lützner Str.",
+                  "attribute_value": 15.35483870967742,
+                  "value": 3156
+                }
+              ]
+            },
+            {
+              "name": "Leipzig-Mitte",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Leipzig-Mitte",
+                  "attribute_value": 16.129032258064516,
+                  "value": 7381
+                }
+              ]
+            },
+            {
+              "name": "Leipzig-West",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Leipzig-West",
+                  "attribute_value": 11.387096774193548,
+                  "value": 14163
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "February",
+          "children": [
+            {
+              "name": "Leipzig Lützner Str.",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Leipzig Lützner Str.",
+                  "attribute_value": 10.821428571428571,
+                  "value": 13761
+                }
+              ]
+            },
+            {
+              "name": "Leipzig-Mitte",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Leipzig-Mitte",
+                  "attribute_value": 12.892857142857142,
+                  "value": 1752
+                }
+              ]
+            },
+            {
+              "name": "Leipzig-West",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Leipzig-West",
+                  "attribute_value": 7.857142857142857,
+                  "value": 2730
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "March",
+          "children": [
+            {
+              "name": "Leipzig Lützner Str.",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Leipzig Lützner Str.",
+                  "attribute_value": 30.838709677419356,
+                  "value": 3336
+                }
+              ]
+            },
+            {
+              "name": "Leipzig-Mitte",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Leipzig-Mitte",
+                  "attribute_value": 32.225806451612904,
+                  "value": 14132
+                }
+              ]
+            },
+            {
+              "name": "Leipzig-West",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Leipzig-West",
+                  "attribute_value": 22.93548387096774,
+                  "value": 13444
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "April",
+          "children": [
+            {
+              "name": "Leipzig Lützner Str.",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Leipzig Lützner Str.",
+                  "attribute_value": 17.533333333333335,
+                  "value": 2352
+                }
+              ]
+            },
+            {
+              "name": "Leipzig-Mitte",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Leipzig-Mitte",
+                  "attribute_value": 17.733333333333334,
+                  "value": 4268
+                }
+              ]
+            },
+            {
+              "name": "Leipzig-West",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Leipzig-West",
+                  "attribute_value": 12.133333333333333,
+                  "value": 2236
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "May",
+          "children": [
+            {
+              "name": "Leipzig Lützner Str.",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Leipzig Lützner Str.",
+                  "attribute_value": 18.032258064516128,
+                  "value": 2730
+                }
+              ]
+            },
+            {
+              "name": "Leipzig-Mitte",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Leipzig-Mitte",
+                  "attribute_value": 17.93548387096774,
+                  "value": 3602
+                }
+              ]
+            },
+            {
+              "name": "Leipzig-West",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Leipzig-West",
+                  "attribute_value": 11.612903225806452,
+                  "value": 11295
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "June",
+          "children": [
+            {
+              "name": "Leipzig Lützner Str.",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Leipzig Lützner Str.",
+                  "attribute_value": 16.466666666666665,
+                  "value": 8430
+                }
+              ]
+            },
+            {
+              "name": "Leipzig-Mitte",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Leipzig-Mitte",
+                  "attribute_value": 16,
+                  "value": 14828
+                }
+              ]
+            },
+            {
+              "name": "Leipzig-West",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Leipzig-West",
+                  "attribute_value": 11.933333333333334,
+                  "value": 9762
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "July",
+          "children": [
+            {
+              "name": "Leipzig Lützner Str.",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Leipzig Lützner Str.",
+                  "attribute_value": 15.9,
+                  "value": 11604
+                }
+              ]
+            },
+            {
+              "name": "Leipzig-Mitte",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Leipzig-Mitte",
+                  "attribute_value": 15.206896551724139,
+                  "value": 3391
+                }
+              ]
+            },
+            {
+              "name": "Leipzig-West",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Leipzig-West",
+                  "attribute_value": 11.419354838709678,
+                  "value": 11320
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "August",
+          "children": [
+            {
+              "name": "Leipzig Lützner Str.",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Leipzig Lützner Str.",
+                  "attribute_value": 20.666666666666668,
+                  "value": 1321
+                }
+              ]
+            },
+            {
+              "name": "Leipzig-Mitte",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Leipzig-Mitte",
+                  "attribute_value": 21.40740740740741,
+                  "value": 8932
+                }
+              ]
+            },
+            {
+              "name": "Leipzig-West",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Leipzig-West",
+                  "attribute_value": 15.612903225806452,
+                  "value": 12548
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "September",
+          "children": [
+            {
+              "name": "Leipzig Lützner Str.",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Leipzig Lützner Str.",
+                  "attribute_value": 14.357142857142858,
+                  "value": 14750
+                }
+              ]
+            },
+            {
+              "name": "Leipzig-Mitte",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Leipzig-Mitte",
+                  "attribute_value": 14.607142857142858,
+                  "value": 907
+                }
+              ]
+            },
+            {
+              "name": "Leipzig-West",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Leipzig-West",
+                  "attribute_value": 9.766666666666667,
+                  "value": 910
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "October",
+          "children": [
+            {
+              "name": "Leipzig Lützner Str.",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Leipzig Lützner Str.",
+                  "attribute_value": 18.64516129032258,
+                  "value": 13605
+                }
+              ]
+            },
+            {
+              "name": "Leipzig-Mitte",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Leipzig-Mitte",
+                  "attribute_value": 21.741935483870968,
+                  "value": 1015
+                }
+              ]
+            },
+            {
+              "name": "Leipzig-West",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Leipzig-West",
+                  "attribute_value": 13.67741935483871,
+                  "value": 9236
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "November",
+          "children": [
+            {
+              "name": "Leipzig Lützner Str.",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Leipzig Lützner Str.",
+                  "attribute_value": 18.766666666666666,
+                  "value": 14863
+                }
+              ]
+            },
+            {
+              "name": "Leipzig-Mitte",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Leipzig-Mitte",
+                  "attribute_value": 19.466666666666665,
+                  "value": 6336
+                }
+              ]
+            },
+            {
+              "name": "Leipzig-West",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Leipzig-West",
+                  "attribute_value": 13.466666666666667,
+                  "value": 6999
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "December",
+          "children": [
+            {
+              "name": "Leipzig Lützner Str.",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Leipzig Lützner Str.",
+                  "attribute_value": 21.677419354838708,
+                  "value": 7071
+                }
+              ]
+            },
+            {
+              "name": "Leipzig-Mitte",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Leipzig-Mitte",
+                  "attribute_value": 21.870967741935484,
+                  "value": 7543
+                }
+              ]
+            },
+            {
+              "name": "Leipzig-West",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Leipzig-West",
+                  "attribute_value": 17.419354838709676,
+                  "value": 5832
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Nitrogen dioxide (NO2)",
+      "children": [
+        {
+          "name": "January",
+          "children": [
+            {
+              "name": "Leipzig Lützner Str.",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Leipzig Lützner Str.",
+                  "attribute_value": 76,
+                  "value": 8006
+                }
+              ]
+            },
+            {
+              "name": "Leipzig-Mitte",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Leipzig-Mitte",
+                  "attribute_value": 62,
+                  "value": 13113
+                }
+              ]
+            },
+            {
+              "name": "Leipzig-West",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Leipzig-West",
+                  "attribute_value": 36,
+                  "value": 9492
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "February",
+          "children": [
+            {
+              "name": "Leipzig Lützner Str.",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Leipzig Lützner Str.",
+                  "attribute_value": 68,
+                  "value": 14656
+                }
+              ]
+            },
+            {
+              "name": "Leipzig-Mitte",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Leipzig-Mitte",
+                  "attribute_value": 69,
+                  "value": 7170
+                }
+              ]
+            },
+            {
+              "name": "Leipzig-West",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Leipzig-West",
+                  "attribute_value": 38,
+                  "value": 14524
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "March",
+          "children": [
+            {
+              "name": "Leipzig Lützner Str.",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Leipzig Lützner Str.",
+                  "attribute_value": 119,
+                  "value": 10297
+                }
+              ]
+            },
+            {
+              "name": "Leipzig-Mitte",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Leipzig-Mitte",
+                  "attribute_value": 109,
+                  "value": 14571
+                }
+              ]
+            },
+            {
+              "name": "Leipzig-West",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Leipzig-West",
+                  "attribute_value": 82,
+                  "value": 14499
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "April",
+          "children": [
+            {
+              "name": "Leipzig Lützner Str.",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Leipzig Lützner Str.",
+                  "attribute_value": 100,
+                  "value": 6095
+                }
+              ]
+            },
+            {
+              "name": "Leipzig-Mitte",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Leipzig-Mitte",
+                  "attribute_value": 77,
+                  "value": 1760
+                }
+              ]
+            },
+            {
+              "name": "Leipzig-West",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Leipzig-West",
+                  "attribute_value": 58,
+                  "value": 11275
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "May",
+          "children": [
+            {
+              "name": "Leipzig Lützner Str.",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Leipzig Lützner Str.",
+                  "attribute_value": 77,
+                  "value": 2433
+                }
+              ]
+            },
+            {
+              "name": "Leipzig-Mitte",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Leipzig-Mitte",
+                  "attribute_value": 73,
+                  "value": 2677
+                }
+              ]
+            },
+            {
+              "name": "Leipzig-West",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Leipzig-West",
+                  "attribute_value": 30,
+                  "value": 2405
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "June",
+          "children": [
+            {
+              "name": "Leipzig Lützner Str.",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Leipzig Lützner Str.",
+                  "attribute_value": 77,
+                  "value": 10464
+                }
+              ]
+            },
+            {
+              "name": "Leipzig-Mitte",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Leipzig-Mitte",
+                  "attribute_value": 76,
+                  "value": 13108
+                }
+              ]
+            },
+            {
+              "name": "Leipzig-West",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Leipzig-West",
+                  "attribute_value": 55,
+                  "value": 3577
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "July",
+          "children": [
+            {
+              "name": "Leipzig Lützner Str.",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Leipzig Lützner Str.",
+                  "attribute_value": 107,
+                  "value": 4874
+                }
+              ]
+            },
+            {
+              "name": "Leipzig-Mitte",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Leipzig-Mitte",
+                  "attribute_value": 52,
+                  "value": 8579
+                }
+              ]
+            },
+            {
+              "name": "Leipzig-West",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Leipzig-West",
+                  "attribute_value": 45,
+                  "value": 3995
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "August",
+          "children": [
+            {
+              "name": "Leipzig Lützner Str.",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Leipzig Lützner Str.",
+                  "attribute_value": 89,
+                  "value": 14856
+                }
+              ]
+            },
+            {
+              "name": "Leipzig-Mitte",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Leipzig-Mitte",
+                  "attribute_value": 79,
+                  "value": 4840
+                }
+              ]
+            },
+            {
+              "name": "Leipzig-West",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Leipzig-West",
+                  "attribute_value": 39,
+                  "value": 10893
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "September",
+          "children": [
+            {
+              "name": "Leipzig Lützner Str.",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Leipzig Lützner Str.",
+                  "attribute_value": 76,
+                  "value": 9793
+                }
+              ]
+            },
+            {
+              "name": "Leipzig-Mitte",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Leipzig-Mitte",
+                  "attribute_value": 82,
+                  "value": 7822
+                }
+              ]
+            },
+            {
+              "name": "Leipzig-West",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Leipzig-West",
+                  "attribute_value": 48,
+                  "value": 4412
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "October",
+          "children": [
+            {
+              "name": "Leipzig Lützner Str.",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Leipzig Lützner Str.",
+                  "attribute_value": 82,
+                  "value": 10922
+                }
+              ]
+            },
+            {
+              "name": "Leipzig-Mitte",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Leipzig-Mitte",
+                  "attribute_value": 77,
+                  "value": 6120
+                }
+              ]
+            },
+            {
+              "name": "Leipzig-West",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Leipzig-West",
+                  "attribute_value": 49,
+                  "value": 9384
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "November",
+          "children": [
+            {
+              "name": "Leipzig Lützner Str.",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Leipzig Lützner Str.",
+                  "attribute_value": 85,
+                  "value": 3855
+                }
+              ]
+            },
+            {
+              "name": "Leipzig-Mitte",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Leipzig-Mitte",
+                  "attribute_value": 71,
+                  "value": 11691
+                }
+              ]
+            },
+            {
+              "name": "Leipzig-West",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Leipzig-West",
+                  "attribute_value": 47,
+                  "value": 2916
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "December",
+          "children": [
+            {
+              "name": "Leipzig Lützner Str.",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Leipzig Lützner Str.",
+                  "attribute_value": 68,
+                  "value": 8010
+                }
+              ]
+            },
+            {
+              "name": "Leipzig-Mitte",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Leipzig-Mitte",
+                  "attribute_value": 74,
+                  "value": 2592
+                }
+              ]
+            },
+            {
+              "name": "Leipzig-West",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Leipzig-West",
+                  "attribute_value": 52,
+                  "value": 9338
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ozone (O3)",
+      "children": [
+        {
+          "name": "January",
+          "children": [
+            {
+              "name": "Leipzig-Mitte",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Leipzig-Mitte",
+                  "attribute_value": 78,
+                  "value": 8257
+                }
+              ]
+            },
+            {
+              "name": "Leipzig-West",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Leipzig-West",
+                  "attribute_value": 82,
+                  "value": 11157
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "February",
+          "children": [
+            {
+              "name": "Leipzig-Mitte",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Leipzig-Mitte",
+                  "attribute_value": 82,
+                  "value": 8941
+                }
+              ]
+            },
+            {
+              "name": "Leipzig-West",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Leipzig-West",
+                  "attribute_value": 90,
+                  "value": 7804
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "March",
+          "children": [
+            {
+              "name": "Leipzig-Mitte",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Leipzig-Mitte",
+                  "attribute_value": 101,
+                  "value": 14015
+                }
+              ]
+            },
+            {
+              "name": "Leipzig-West",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Leipzig-West",
+                  "attribute_value": 130,
+                  "value": 8257
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "April",
+          "children": [
+            {
+              "name": "Leipzig-Mitte",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Leipzig-Mitte",
+                  "attribute_value": 93,
+                  "value": 11331
+                }
+              ]
+            },
+            {
+              "name": "Leipzig-West",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Leipzig-West",
+                  "attribute_value": 112,
+                  "value": 13435
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "May",
+          "children": [
+            {
+              "name": "Leipzig-Mitte",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Leipzig-Mitte",
+                  "attribute_value": 92,
+                  "value": 12981
+                }
+              ]
+            },
+            {
+              "name": "Leipzig-West",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Leipzig-West",
+                  "attribute_value": 117,
+                  "value": 4983
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "June",
+          "children": [
+            {
+              "name": "Leipzig-Mitte",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Leipzig-Mitte",
+                  "attribute_value": 112,
+                  "value": 729
+                }
+              ]
+            },
+            {
+              "name": "Leipzig-West",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Leipzig-West",
+                  "attribute_value": 141,
+                  "value": 4853
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "July",
+          "children": [
+            {
+              "name": "Leipzig-Mitte",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Leipzig-Mitte",
+                  "attribute_value": 129,
+                  "value": 3746
+                }
+              ]
+            },
+            {
+              "name": "Leipzig-West",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Leipzig-West",
+                  "attribute_value": 158,
+                  "value": 11140
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "August",
+          "children": [
+            {
+              "name": "Leipzig-Mitte",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Leipzig-Mitte",
+                  "attribute_value": 117,
+                  "value": 2050
+                }
+              ]
+            },
+            {
+              "name": "Leipzig-West",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Leipzig-West",
+                  "attribute_value": 146,
+                  "value": 1565
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "September",
+          "children": [
+            {
+              "name": "Leipzig-Mitte",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Leipzig-Mitte",
+                  "attribute_value": 87,
+                  "value": 11587
+                }
+              ]
+            },
+            {
+              "name": "Leipzig-West",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Leipzig-West",
+                  "attribute_value": 121,
+                  "value": 11934
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "October",
+          "children": [
+            {
+              "name": "Leipzig-Mitte",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Leipzig-Mitte",
+                  "attribute_value": 58,
+                  "value": 1665
+                }
+              ]
+            },
+            {
+              "name": "Leipzig-West",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Leipzig-West",
+                  "attribute_value": 78,
+                  "value": 12074
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "November",
+          "children": [
+            {
+              "name": "Leipzig-Mitte",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Leipzig-Mitte",
+                  "attribute_value": 50,
+                  "value": 4512
+                }
+              ]
+            },
+            {
+              "name": "Leipzig-West",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Leipzig-West",
+                  "attribute_value": 64,
+                  "value": 14191
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "December",
+          "children": [
+            {
+              "name": "Leipzig-Mitte",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Leipzig-Mitte",
+                  "attribute_value": 66,
+                  "value": 11971
+                }
+              ]
+            },
+            {
+              "name": "Leipzig-West",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Leipzig-West",
+                  "attribute_value": 68,
+                  "value": 7576
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

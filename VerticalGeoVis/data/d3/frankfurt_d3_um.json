@@ -1,0 +1,2574 @@
+{
+  "name": "Frankfurt am Main",
+  "children": [
+    {
+      "name": "Carbon monoxide (CO)",
+      "children": [
+        {
+          "name": "January",
+          "children": [
+            {
+              "name": "Frankfurt Friedberger Landstraße",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt Friedberger Landstraße",
+                  "attribute_value": 0,
+                  "value": 3650
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Riedberg",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt-Riedberg",
+                  "attribute_value": 0,
+                  "value": 897
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Schwanheim",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt-Schwanheim",
+                  "attribute_value": 0,
+                  "value": 10983
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "February",
+          "children": [
+            {
+              "name": "Frankfurt Friedberger Landstraße",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt Friedberger Landstraße",
+                  "attribute_value": 0,
+                  "value": 9526
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Riedberg",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt-Riedberg",
+                  "attribute_value": 0,
+                  "value": 1139
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Schwanheim",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt-Schwanheim",
+                  "attribute_value": 0,
+                  "value": 5466
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "March",
+          "children": [
+            {
+              "name": "Frankfurt Friedberger Landstraße",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt Friedberger Landstraße",
+                  "attribute_value": 0,
+                  "value": 2952
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Riedberg",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt-Riedberg",
+                  "attribute_value": 0,
+                  "value": 584
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Schwanheim",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt-Schwanheim",
+                  "attribute_value": 0,
+                  "value": 12588
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "April",
+          "children": [
+            {
+              "name": "Frankfurt Friedberger Landstraße",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt Friedberger Landstraße",
+                  "attribute_value": 0,
+                  "value": 4276
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Riedberg",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt-Riedberg",
+                  "attribute_value": 0,
+                  "value": 3504
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Schwanheim",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt-Schwanheim",
+                  "attribute_value": 0,
+                  "value": 12999
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "May",
+          "children": [
+            {
+              "name": "Frankfurt Friedberger Landstraße",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt Friedberger Landstraße",
+                  "attribute_value": 0,
+                  "value": 12928
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Riedberg",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt-Riedberg",
+                  "attribute_value": 0,
+                  "value": 10410
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Schwanheim",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt-Schwanheim",
+                  "attribute_value": 0,
+                  "value": 8330
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "June",
+          "children": [
+            {
+              "name": "Frankfurt Friedberger Landstraße",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt Friedberger Landstraße",
+                  "attribute_value": 0,
+                  "value": 10795
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Riedberg",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt-Riedberg",
+                  "attribute_value": 0,
+                  "value": 890
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Schwanheim",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt-Schwanheim",
+                  "attribute_value": 0,
+                  "value": 12529
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "July",
+          "children": [
+            {
+              "name": "Frankfurt Friedberger Landstraße",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt Friedberger Landstraße",
+                  "attribute_value": 0,
+                  "value": 13590
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Riedberg",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt-Riedberg",
+                  "attribute_value": 0,
+                  "value": 9099
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Schwanheim",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt-Schwanheim",
+                  "attribute_value": 0,
+                  "value": 13505
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "August",
+          "children": [
+            {
+              "name": "Frankfurt Friedberger Landstraße",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt Friedberger Landstraße",
+                  "attribute_value": 0,
+                  "value": 11522
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Riedberg",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt-Riedberg",
+                  "attribute_value": 0,
+                  "value": 1506
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Schwanheim",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt-Schwanheim",
+                  "attribute_value": 0,
+                  "value": 8712
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "September",
+          "children": [
+            {
+              "name": "Frankfurt Friedberger Landstraße",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt Friedberger Landstraße",
+                  "attribute_value": 0,
+                  "value": 12437
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Riedberg",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt-Riedberg",
+                  "attribute_value": 0,
+                  "value": 14280
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Schwanheim",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt-Schwanheim",
+                  "attribute_value": 0,
+                  "value": 14212
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "October",
+          "children": [
+            {
+              "name": "Frankfurt Friedberger Landstraße",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt Friedberger Landstraße",
+                  "attribute_value": 1,
+                  "value": 8277
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Riedberg",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt-Riedberg",
+                  "attribute_value": 0,
+                  "value": 4643
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Schwanheim",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt-Schwanheim",
+                  "attribute_value": 0,
+                  "value": 2111
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "November",
+          "children": [
+            {
+              "name": "Frankfurt Friedberger Landstraße",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt Friedberger Landstraße",
+                  "attribute_value": 0,
+                  "value": 10927
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Riedberg",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt-Riedberg",
+                  "attribute_value": 0,
+                  "value": 6073
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Schwanheim",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt-Schwanheim",
+                  "attribute_value": 0,
+                  "value": 3840
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "December",
+          "children": [
+            {
+              "name": "Frankfurt Friedberger Landstraße",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt Friedberger Landstraße",
+                  "attribute_value": 1,
+                  "value": 9789
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Riedberg",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt-Riedberg",
+                  "attribute_value": 1,
+                  "value": 9756
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Schwanheim",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt-Schwanheim",
+                  "attribute_value": 0,
+                  "value": 5202
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Fine dust (PM10)",
+      "children": [
+        {
+          "name": "January",
+          "children": [
+            {
+              "name": "Frankfurt Friedberger Landstraße",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Frankfurt Friedberger Landstraße",
+                  "attribute_value": 14.96774193548387,
+                  "value": 4932
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Höchst",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Frankfurt-Höchst",
+                  "attribute_value": 14.516129032258064,
+                  "value": 6192
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Riedberg",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Frankfurt-Riedberg",
+                  "attribute_value": 12.516129032258064,
+                  "value": 14669
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Schwanheim",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Frankfurt-Schwanheim",
+                  "attribute_value": 9.903225806451612,
+                  "value": 3120
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "February",
+          "children": [
+            {
+              "name": "Frankfurt Friedberger Landstraße",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Frankfurt Friedberger Landstraße",
+                  "attribute_value": 12.535714285714286,
+                  "value": 8039
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Höchst",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Frankfurt-Höchst",
+                  "attribute_value": 12.785714285714286,
+                  "value": 5450
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Riedberg",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Frankfurt-Riedberg",
+                  "attribute_value": 10.357142857142858,
+                  "value": 8512
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Schwanheim",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Frankfurt-Schwanheim",
+                  "attribute_value": 7.785714285714286,
+                  "value": 3590
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "March",
+          "children": [
+            {
+              "name": "Frankfurt Friedberger Landstraße",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Frankfurt Friedberger Landstraße",
+                  "attribute_value": 28.903225806451612,
+                  "value": 13962
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Höchst",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Frankfurt-Höchst",
+                  "attribute_value": 26.35483870967742,
+                  "value": 3888
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Riedberg",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Frankfurt-Riedberg",
+                  "attribute_value": 24.967741935483872,
+                  "value": 12717
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Schwanheim",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Frankfurt-Schwanheim",
+                  "attribute_value": 22.451612903225808,
+                  "value": 9806
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "April",
+          "children": [
+            {
+              "name": "Frankfurt Friedberger Landstraße",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Frankfurt Friedberger Landstraße",
+                  "attribute_value": 14.433333333333334,
+                  "value": 1842
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Höchst",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Frankfurt-Höchst",
+                  "attribute_value": 13.642857142857142,
+                  "value": 12241
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Riedberg",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Frankfurt-Riedberg",
+                  "attribute_value": 11.7,
+                  "value": 9687
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Schwanheim",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Frankfurt-Schwanheim",
+                  "attribute_value": 11.033333333333333,
+                  "value": 6362
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "May",
+          "children": [
+            {
+              "name": "Frankfurt Friedberger Landstraße",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Frankfurt Friedberger Landstraße",
+                  "attribute_value": 16.35483870967742,
+                  "value": 808
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Höchst",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Frankfurt-Höchst",
+                  "attribute_value": 14.774193548387096,
+                  "value": 3725
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Riedberg",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Frankfurt-Riedberg",
+                  "attribute_value": 13.903225806451612,
+                  "value": 1842
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Schwanheim",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Frankfurt-Schwanheim",
+                  "attribute_value": 14.96774193548387,
+                  "value": 14893
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "June",
+          "children": [
+            {
+              "name": "Frankfurt Friedberger Landstraße",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Frankfurt Friedberger Landstraße",
+                  "attribute_value": 15.533333333333333,
+                  "value": 8880
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Höchst",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Frankfurt-Höchst",
+                  "attribute_value": 14.642857142857142,
+                  "value": 3154
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Riedberg",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Frankfurt-Riedberg",
+                  "attribute_value": 12.8,
+                  "value": 11453
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Schwanheim",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Frankfurt-Schwanheim",
+                  "attribute_value": 15.666666666666666,
+                  "value": 10155
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "July",
+          "children": [
+            {
+              "name": "Frankfurt Friedberger Landstraße",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Frankfurt Friedberger Landstraße",
+                  "attribute_value": 13.821428571428571,
+                  "value": 5683
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Höchst",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Frankfurt-Höchst",
+                  "attribute_value": 13.935483870967742,
+                  "value": 3387
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Riedberg",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Frankfurt-Riedberg",
+                  "attribute_value": 12.903225806451612,
+                  "value": 14470
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Schwanheim",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Frankfurt-Schwanheim",
+                  "attribute_value": 14.838709677419354,
+                  "value": 9654
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "August",
+          "children": [
+            {
+              "name": "Frankfurt Friedberger Landstraße",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Frankfurt Friedberger Landstraße",
+                  "attribute_value": 19.096774193548388,
+                  "value": 12929
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Höchst",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Frankfurt-Höchst",
+                  "attribute_value": 16.580645161290324,
+                  "value": 8763
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Riedberg",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Frankfurt-Riedberg",
+                  "attribute_value": 14.419354838709678,
+                  "value": 4576
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Schwanheim",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Frankfurt-Schwanheim",
+                  "attribute_value": 21.483870967741936,
+                  "value": 13770
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "September",
+          "children": [
+            {
+              "name": "Frankfurt Friedberger Landstraße",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Frankfurt Friedberger Landstraße",
+                  "attribute_value": 14.233333333333333,
+                  "value": 12146
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Höchst",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Frankfurt-Höchst",
+                  "attribute_value": 11.666666666666666,
+                  "value": 1556
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Riedberg",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Frankfurt-Riedberg",
+                  "attribute_value": 10.2,
+                  "value": 6915
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Schwanheim",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Frankfurt-Schwanheim",
+                  "attribute_value": 12.10344827586207,
+                  "value": 6194
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "October",
+          "children": [
+            {
+              "name": "Frankfurt Friedberger Landstraße",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Frankfurt Friedberger Landstraße",
+                  "attribute_value": 26.193548387096776,
+                  "value": 2364
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Höchst",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Frankfurt-Höchst",
+                  "attribute_value": 18.9,
+                  "value": 4131
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Riedberg",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Frankfurt-Riedberg",
+                  "attribute_value": 15.258064516129032,
+                  "value": 11281
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Schwanheim",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Frankfurt-Schwanheim",
+                  "attribute_value": 17.77777777777778,
+                  "value": 2648
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "November",
+          "children": [
+            {
+              "name": "Frankfurt Friedberger Landstraße",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Frankfurt Friedberger Landstraße",
+                  "attribute_value": 19.366666666666667,
+                  "value": 14446
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Höchst",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Frankfurt-Höchst",
+                  "attribute_value": 15.033333333333333,
+                  "value": 3172
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Riedberg",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Frankfurt-Riedberg",
+                  "attribute_value": 13,
+                  "value": 8920
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Schwanheim",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Frankfurt-Schwanheim",
+                  "attribute_value": 10.933333333333334,
+                  "value": 11421
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "December",
+          "children": [
+            {
+              "name": "Frankfurt Friedberger Landstraße",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Frankfurt Friedberger Landstraße",
+                  "attribute_value": 21.193548387096776,
+                  "value": 3562
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Höchst",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Frankfurt-Höchst",
+                  "attribute_value": 16.25,
+                  "value": 13506
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Riedberg",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Frankfurt-Riedberg",
+                  "attribute_value": 16.774193548387096,
+                  "value": 8683
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Schwanheim",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Frankfurt-Schwanheim",
+                  "attribute_value": 13.612903225806452,
+                  "value": 7304
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Nitrogen dioxide (NO2)",
+      "children": [
+        {
+          "name": "January",
+          "children": [
+            {
+              "name": "Frankfurt Friedberger Landstraße",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt Friedberger Landstraße",
+                  "attribute_value": 94,
+                  "value": 4970
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Höchst",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt-Höchst",
+                  "attribute_value": 75,
+                  "value": 3597
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Riedberg",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt-Riedberg",
+                  "attribute_value": 63,
+                  "value": 2326
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Schwanheim",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt-Schwanheim",
+                  "attribute_value": 60,
+                  "value": 11266
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "February",
+          "children": [
+            {
+              "name": "Frankfurt Friedberger Landstraße",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt Friedberger Landstraße",
+                  "attribute_value": 101,
+                  "value": 2425
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Höchst",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt-Höchst",
+                  "attribute_value": 92,
+                  "value": 9713
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Riedberg",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt-Riedberg",
+                  "attribute_value": 78,
+                  "value": 14603
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Schwanheim",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt-Schwanheim",
+                  "attribute_value": 52,
+                  "value": 7027
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "March",
+          "children": [
+            {
+              "name": "Frankfurt Friedberger Landstraße",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt Friedberger Landstraße",
+                  "attribute_value": 144,
+                  "value": 8804
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Höchst",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt-Höchst",
+                  "attribute_value": 113,
+                  "value": 6516
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Riedberg",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt-Riedberg",
+                  "attribute_value": 89,
+                  "value": 5725
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Schwanheim",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt-Schwanheim",
+                  "attribute_value": 69,
+                  "value": 11239
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "April",
+          "children": [
+            {
+              "name": "Frankfurt Friedberger Landstraße",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt Friedberger Landstraße",
+                  "attribute_value": 91,
+                  "value": 5452
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Höchst",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt-Höchst",
+                  "attribute_value": 73,
+                  "value": 7311
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Riedberg",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt-Riedberg",
+                  "attribute_value": 58,
+                  "value": 11760
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Schwanheim",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt-Schwanheim",
+                  "attribute_value": 52,
+                  "value": 1170
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "May",
+          "children": [
+            {
+              "name": "Frankfurt Friedberger Landstraße",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt Friedberger Landstraße",
+                  "attribute_value": 74,
+                  "value": 5770
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Höchst",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt-Höchst",
+                  "attribute_value": 59,
+                  "value": 12231
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Riedberg",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt-Riedberg",
+                  "attribute_value": 56,
+                  "value": 9921
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Schwanheim",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt-Schwanheim",
+                  "attribute_value": 45,
+                  "value": 14562
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "June",
+          "children": [
+            {
+              "name": "Frankfurt Friedberger Landstraße",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt Friedberger Landstraße",
+                  "attribute_value": 103,
+                  "value": 2980
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Höchst",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt-Höchst",
+                  "attribute_value": 86,
+                  "value": 4328
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Riedberg",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt-Riedberg",
+                  "attribute_value": 54,
+                  "value": 2169
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Schwanheim",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt-Schwanheim",
+                  "attribute_value": 57,
+                  "value": 6870
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "July",
+          "children": [
+            {
+              "name": "Frankfurt Friedberger Landstraße",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt Friedberger Landstraße",
+                  "attribute_value": 140,
+                  "value": 9724
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Höchst",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt-Höchst",
+                  "attribute_value": 61,
+                  "value": 13907
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Riedberg",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt-Riedberg",
+                  "attribute_value": 54,
+                  "value": 11281
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Schwanheim",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt-Schwanheim",
+                  "attribute_value": 68,
+                  "value": 5725
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "August",
+          "children": [
+            {
+              "name": "Frankfurt Friedberger Landstraße",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt Friedberger Landstraße",
+                  "attribute_value": 122,
+                  "value": 11988
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Höchst",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt-Höchst",
+                  "attribute_value": 69,
+                  "value": 12368
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Riedberg",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt-Riedberg",
+                  "attribute_value": 59,
+                  "value": 1259
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Schwanheim",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt-Schwanheim",
+                  "attribute_value": 58,
+                  "value": 6653
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "September",
+          "children": [
+            {
+              "name": "Frankfurt Friedberger Landstraße",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt Friedberger Landstraße",
+                  "attribute_value": 110,
+                  "value": 12514
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Höchst",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt-Höchst",
+                  "attribute_value": 72,
+                  "value": 6429
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Riedberg",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt-Riedberg",
+                  "attribute_value": 64,
+                  "value": 1339
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Schwanheim",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt-Schwanheim",
+                  "attribute_value": 65,
+                  "value": 2485
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "October",
+          "children": [
+            {
+              "name": "Frankfurt Friedberger Landstraße",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt Friedberger Landstraße",
+                  "attribute_value": 84,
+                  "value": 14124
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Höchst",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt-Höchst",
+                  "attribute_value": 70,
+                  "value": 10560
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Riedberg",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt-Riedberg",
+                  "attribute_value": 61,
+                  "value": 11198
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Schwanheim",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt-Schwanheim",
+                  "attribute_value": 55,
+                  "value": 14496
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "November",
+          "children": [
+            {
+              "name": "Frankfurt Friedberger Landstraße",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt Friedberger Landstraße",
+                  "attribute_value": 73,
+                  "value": 10797
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Höchst",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt-Höchst",
+                  "attribute_value": 70,
+                  "value": 10768
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Riedberg",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt-Riedberg",
+                  "attribute_value": 62,
+                  "value": 8853
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Schwanheim",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt-Schwanheim",
+                  "attribute_value": 47,
+                  "value": 2478
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "December",
+          "children": [
+            {
+              "name": "Frankfurt Friedberger Landstraße",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt Friedberger Landstraße",
+                  "attribute_value": 73,
+                  "value": 13398
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Höchst",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt-Höchst",
+                  "attribute_value": 72,
+                  "value": 11353
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Riedberg",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt-Riedberg",
+                  "attribute_value": 64,
+                  "value": 2737
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Schwanheim",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt-Schwanheim",
+                  "attribute_value": 54,
+                  "value": 8320
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ozone (O3)",
+      "children": [
+        {
+          "name": "January",
+          "children": [
+            {
+              "name": "Frankfurt-Höchst",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt-Höchst",
+                  "attribute_value": 72,
+                  "value": 5689
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Riedberg",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt-Riedberg",
+                  "attribute_value": 75,
+                  "value": 14603
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Schwanheim",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt-Schwanheim",
+                  "attribute_value": 72,
+                  "value": 11612
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "February",
+          "children": [
+            {
+              "name": "Frankfurt-Höchst",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt-Höchst",
+                  "attribute_value": 86,
+                  "value": 11335
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Riedberg",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt-Riedberg",
+                  "attribute_value": 84,
+                  "value": 10094
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Schwanheim",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt-Schwanheim",
+                  "attribute_value": 86,
+                  "value": 10773
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "March",
+          "children": [
+            {
+              "name": "Frankfurt-Höchst",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt-Höchst",
+                  "attribute_value": 132,
+                  "value": 9324
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Riedberg",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt-Riedberg",
+                  "attribute_value": 137,
+                  "value": 7366
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Schwanheim",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt-Schwanheim",
+                  "attribute_value": 142,
+                  "value": 13812
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "April",
+          "children": [
+            {
+              "name": "Frankfurt-Höchst",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt-Höchst",
+                  "attribute_value": 109,
+                  "value": 11360
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Riedberg",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt-Riedberg",
+                  "attribute_value": 115,
+                  "value": 13318
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Schwanheim",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt-Schwanheim",
+                  "attribute_value": 120,
+                  "value": 4999
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "May",
+          "children": [
+            {
+              "name": "Frankfurt-Höchst",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt-Höchst",
+                  "attribute_value": 120,
+                  "value": 9388
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Riedberg",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt-Riedberg",
+                  "attribute_value": 138,
+                  "value": 2288
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Schwanheim",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt-Schwanheim",
+                  "attribute_value": 149,
+                  "value": 11395
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "June",
+          "children": [
+            {
+              "name": "Frankfurt-Höchst",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt-Höchst",
+                  "attribute_value": 174,
+                  "value": 4881
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Riedberg",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt-Riedberg",
+                  "attribute_value": 176,
+                  "value": 5966
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Schwanheim",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt-Schwanheim",
+                  "attribute_value": 195,
+                  "value": 8008
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "July",
+          "children": [
+            {
+              "name": "Frankfurt-Höchst",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt-Höchst",
+                  "attribute_value": 191,
+                  "value": 11450
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Riedberg",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt-Riedberg",
+                  "attribute_value": 202,
+                  "value": 14765
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Schwanheim",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt-Schwanheim",
+                  "attribute_value": 214,
+                  "value": 11445
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "August",
+          "children": [
+            {
+              "name": "Frankfurt-Höchst",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt-Höchst",
+                  "attribute_value": 146,
+                  "value": 5267
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Riedberg",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt-Riedberg",
+                  "attribute_value": 176,
+                  "value": 5260
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Schwanheim",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt-Schwanheim",
+                  "attribute_value": 166,
+                  "value": 11536
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "September",
+          "children": [
+            {
+              "name": "Frankfurt-Höchst",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt-Höchst",
+                  "attribute_value": 109,
+                  "value": 11911
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Riedberg",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt-Riedberg",
+                  "attribute_value": 126,
+                  "value": 4637
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Schwanheim",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt-Schwanheim",
+                  "attribute_value": 140,
+                  "value": 1065
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "October",
+          "children": [
+            {
+              "name": "Frankfurt-Höchst",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt-Höchst",
+                  "attribute_value": 55,
+                  "value": 5383
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Riedberg",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt-Riedberg",
+                  "attribute_value": 67,
+                  "value": 997
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Schwanheim",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt-Schwanheim",
+                  "attribute_value": 70,
+                  "value": 8436
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "November",
+          "children": [
+            {
+              "name": "Frankfurt-Höchst",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt-Höchst",
+                  "attribute_value": 48,
+                  "value": 1506
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Riedberg",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt-Riedberg",
+                  "attribute_value": 67,
+                  "value": 9739
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Schwanheim",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt-Schwanheim",
+                  "attribute_value": 70,
+                  "value": 13649
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "December",
+          "children": [
+            {
+              "name": "Frankfurt-Höchst",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt-Höchst",
+                  "attribute_value": 64,
+                  "value": 2543
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Riedberg",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt-Riedberg",
+                  "attribute_value": 65,
+                  "value": 6639
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Schwanheim",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt-Schwanheim",
+                  "attribute_value": 65,
+                  "value": 13828
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sulfur dioxide (SO2)",
+      "children": [
+        {
+          "name": "January",
+          "children": [
+            {
+              "name": "Frankfurt-Höchst",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt-Höchst",
+                  "attribute_value": 11,
+                  "value": 5803
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Riedberg",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt-Riedberg",
+                  "attribute_value": 3,
+                  "value": 10034
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Schwanheim",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt-Schwanheim",
+                  "attribute_value": 8,
+                  "value": 1250
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "February",
+          "children": [
+            {
+              "name": "Frankfurt-Höchst",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt-Höchst",
+                  "attribute_value": 10,
+                  "value": 3231
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Riedberg",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt-Riedberg",
+                  "attribute_value": 4,
+                  "value": 7728
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Schwanheim",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt-Schwanheim",
+                  "attribute_value": 4,
+                  "value": 6834
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "March",
+          "children": [
+            {
+              "name": "Frankfurt-Höchst",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt-Höchst",
+                  "attribute_value": 11,
+                  "value": 6201
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Riedberg",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt-Riedberg",
+                  "attribute_value": 3,
+                  "value": 5262
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Schwanheim",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt-Schwanheim",
+                  "attribute_value": 14,
+                  "value": 11602
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "April",
+          "children": [
+            {
+              "name": "Frankfurt-Höchst",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt-Höchst",
+                  "attribute_value": 10,
+                  "value": 7867
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Riedberg",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt-Riedberg",
+                  "attribute_value": 3,
+                  "value": 7699
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Schwanheim",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt-Schwanheim",
+                  "attribute_value": 5,
+                  "value": 14819
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "May",
+          "children": [
+            {
+              "name": "Frankfurt-Höchst",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt-Höchst",
+                  "attribute_value": 11,
+                  "value": 6437
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Riedberg",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt-Riedberg",
+                  "attribute_value": 4,
+                  "value": 1539
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Schwanheim",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt-Schwanheim",
+                  "attribute_value": 5,
+                  "value": 11546
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "June",
+          "children": [
+            {
+              "name": "Frankfurt-Höchst",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt-Höchst",
+                  "attribute_value": 9,
+                  "value": 11503
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Riedberg",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt-Riedberg",
+                  "attribute_value": 5,
+                  "value": 11032
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Schwanheim",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt-Schwanheim",
+                  "attribute_value": 7,
+                  "value": 12560
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "July",
+          "children": [
+            {
+              "name": "Frankfurt-Höchst",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt-Höchst",
+                  "attribute_value": 10,
+                  "value": 2859
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Riedberg",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt-Riedberg",
+                  "attribute_value": 5,
+                  "value": 11962
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Schwanheim",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt-Schwanheim",
+                  "attribute_value": 8,
+                  "value": 717
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "August",
+          "children": [
+            {
+              "name": "Frankfurt-Höchst",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt-Höchst",
+                  "attribute_value": 10,
+                  "value": 9036
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Riedberg",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt-Riedberg",
+                  "attribute_value": 5,
+                  "value": 7710
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Schwanheim",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt-Schwanheim",
+                  "attribute_value": 8,
+                  "value": 12759
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "September",
+          "children": [
+            {
+              "name": "Frankfurt-Höchst",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt-Höchst",
+                  "attribute_value": 13,
+                  "value": 6412
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Riedberg",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt-Riedberg",
+                  "attribute_value": 6,
+                  "value": 8864
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Schwanheim",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt-Schwanheim",
+                  "attribute_value": 5,
+                  "value": 6809
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "October",
+          "children": [
+            {
+              "name": "Frankfurt-Höchst",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt-Höchst",
+                  "attribute_value": 17,
+                  "value": 8591
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Riedberg",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt-Riedberg",
+                  "attribute_value": 4,
+                  "value": 9278
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Schwanheim",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt-Schwanheim",
+                  "attribute_value": 8,
+                  "value": 2099
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "November",
+          "children": [
+            {
+              "name": "Frankfurt-Höchst",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt-Höchst",
+                  "attribute_value": 7,
+                  "value": 9342
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Riedberg",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt-Riedberg",
+                  "attribute_value": 4,
+                  "value": 14988
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Schwanheim",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt-Schwanheim",
+                  "attribute_value": 6,
+                  "value": 7051
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "December",
+          "children": [
+            {
+              "name": "Frankfurt-Höchst",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt-Höchst",
+                  "attribute_value": 6,
+                  "value": 7469
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Riedberg",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt-Riedberg",
+                  "attribute_value": 3,
+                  "value": 11534
+                }
+              ]
+            },
+            {
+              "name": "Frankfurt-Schwanheim",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Frankfurt-Schwanheim",
+                  "attribute_value": 4,
+                  "value": 1677
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

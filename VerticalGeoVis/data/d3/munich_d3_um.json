@@ -1,0 +1,2113 @@
+{
+  "name": "Munich",
+  "children": [
+    {
+      "name": "Carbon monoxide (CO)",
+      "children": [
+        {
+          "name": "January",
+          "children": [
+            {
+              "name": "Munich/Landshuter Allee",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Munich/Landshuter Allee",
+                  "attribute_value": 0,
+                  "value": 2893
+                }
+              ]
+            },
+            {
+              "name": "Munich/Stachus",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Munich/Stachus",
+                  "attribute_value": 0,
+                  "value": 11937
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "February",
+          "children": [
+            {
+              "name": "Munich/Landshuter Allee",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Munich/Landshuter Allee",
+                  "attribute_value": 0,
+                  "value": 12395
+                }
+              ]
+            },
+            {
+              "name": "Munich/Stachus",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Munich/Stachus",
+                  "attribute_value": 0,
+                  "value": 10789
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "March",
+          "children": [
+            {
+              "name": "Munich/Landshuter Allee",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Munich/Landshuter Allee",
+                  "attribute_value": 0,
+                  "value": 13855
+                }
+              ]
+            },
+            {
+              "name": "Munich/Stachus",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Munich/Stachus",
+                  "attribute_value": 0,
+                  "value": 5094
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "April",
+          "children": [
+            {
+              "name": "Munich/Landshuter Allee",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Munich/Landshuter Allee",
+                  "attribute_value": 0,
+                  "value": 4565
+                }
+              ]
+            },
+            {
+              "name": "Munich/Stachus",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Munich/Stachus",
+                  "attribute_value": 0,
+                  "value": 6253
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "May",
+          "children": [
+            {
+              "name": "Munich/Landshuter Allee",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Munich/Landshuter Allee",
+                  "attribute_value": 0,
+                  "value": 6973
+                }
+              ]
+            },
+            {
+              "name": "Munich/Stachus",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Munich/Stachus",
+                  "attribute_value": 0,
+                  "value": 12248
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "June",
+          "children": [
+            {
+              "name": "Munich/Landshuter Allee",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Munich/Landshuter Allee",
+                  "attribute_value": 0,
+                  "value": 3324
+                }
+              ]
+            },
+            {
+              "name": "Munich/Stachus",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Munich/Stachus",
+                  "attribute_value": 0,
+                  "value": 10695
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "July",
+          "children": [
+            {
+              "name": "Munich/Landshuter Allee",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Munich/Landshuter Allee",
+                  "attribute_value": 0,
+                  "value": 6563
+                }
+              ]
+            },
+            {
+              "name": "Munich/Stachus",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Munich/Stachus",
+                  "attribute_value": 0,
+                  "value": 4716
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "August",
+          "children": [
+            {
+              "name": "Munich/Landshuter Allee",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Munich/Landshuter Allee",
+                  "attribute_value": 0,
+                  "value": 7163
+                }
+              ]
+            },
+            {
+              "name": "Munich/Stachus",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Munich/Stachus",
+                  "attribute_value": 0,
+                  "value": 11254
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "September",
+          "children": [
+            {
+              "name": "Munich/Landshuter Allee",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Munich/Landshuter Allee",
+                  "attribute_value": 0,
+                  "value": 3402
+                }
+              ]
+            },
+            {
+              "name": "Munich/Stachus",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Munich/Stachus",
+                  "attribute_value": 0,
+                  "value": 10998
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "October",
+          "children": [
+            {
+              "name": "Munich/Landshuter Allee",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Munich/Landshuter Allee",
+                  "attribute_value": 1,
+                  "value": 2124
+                }
+              ]
+            },
+            {
+              "name": "Munich/Stachus",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Munich/Stachus",
+                  "attribute_value": 0,
+                  "value": 13688
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "November",
+          "children": [
+            {
+              "name": "Munich/Landshuter Allee",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Munich/Landshuter Allee",
+                  "attribute_value": 1,
+                  "value": 8302
+                }
+              ]
+            },
+            {
+              "name": "Munich/Stachus",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Munich/Stachus",
+                  "attribute_value": 0,
+                  "value": 6456
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "December",
+          "children": [
+            {
+              "name": "Munich/Landshuter Allee",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Munich/Landshuter Allee",
+                  "attribute_value": 1,
+                  "value": 4020
+                }
+              ]
+            },
+            {
+              "name": "Munich/Stachus",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Munich/Stachus",
+                  "attribute_value": 0,
+                  "value": 1575
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Fine dust (PM10)",
+      "children": [
+        {
+          "name": "January",
+          "children": [
+            {
+              "name": "Munich/Johanneskirchen",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Munich/Johanneskirchen",
+                  "attribute_value": 10.96774193548387,
+                  "value": 10141
+                }
+              ]
+            },
+            {
+              "name": "Munich/Landshuter Allee",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Munich/Landshuter Allee",
+                  "attribute_value": 23.129032258064516,
+                  "value": 8664
+                }
+              ]
+            },
+            {
+              "name": "Munich/Lothstrasse",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Munich/Lothstrasse",
+                  "attribute_value": 12.516129032258064,
+                  "value": 7335
+                }
+              ]
+            },
+            {
+              "name": "Munich/Stachus",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Munich/Stachus",
+                  "attribute_value": 16.06451612903226,
+                  "value": 11780
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "February",
+          "children": [
+            {
+              "name": "Munich/Johanneskirchen",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Munich/Johanneskirchen",
+                  "attribute_value": 8.392857142857142,
+                  "value": 927
+                }
+              ]
+            },
+            {
+              "name": "Munich/Landshuter Allee",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Munich/Landshuter Allee",
+                  "attribute_value": 18.25,
+                  "value": 13808
+                }
+              ]
+            },
+            {
+              "name": "Munich/Lothstrasse",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Munich/Lothstrasse",
+                  "attribute_value": 9.678571428571429,
+                  "value": 11468
+                }
+              ]
+            },
+            {
+              "name": "Munich/Stachus",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Munich/Stachus",
+                  "attribute_value": 13.25,
+                  "value": 4044
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "March",
+          "children": [
+            {
+              "name": "Munich/Johanneskirchen",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Munich/Johanneskirchen",
+                  "attribute_value": 25.225806451612904,
+                  "value": 1478
+                }
+              ]
+            },
+            {
+              "name": "Munich/Landshuter Allee",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Munich/Landshuter Allee",
+                  "attribute_value": 32.16129032258065,
+                  "value": 6227
+                }
+              ]
+            },
+            {
+              "name": "Munich/Lothstrasse",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Munich/Lothstrasse",
+                  "attribute_value": 24.967741935483872,
+                  "value": 13465
+                }
+              ]
+            },
+            {
+              "name": "Munich/Stachus",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Munich/Stachus",
+                  "attribute_value": 28.275862068965516,
+                  "value": 7974
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "April",
+          "children": [
+            {
+              "name": "Munich/Johanneskirchen",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Munich/Johanneskirchen",
+                  "attribute_value": 11.333333333333334,
+                  "value": 6723
+                }
+              ]
+            },
+            {
+              "name": "Munich/Landshuter Allee",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Munich/Landshuter Allee",
+                  "attribute_value": 17.7,
+                  "value": 11371
+                }
+              ]
+            },
+            {
+              "name": "Munich/Lothstrasse",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Munich/Lothstrasse",
+                  "attribute_value": 11.933333333333334,
+                  "value": 6437
+                }
+              ]
+            },
+            {
+              "name": "Munich/Stachus",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Munich/Stachus",
+                  "attribute_value": 15.266666666666667,
+                  "value": 9206
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "May",
+          "children": [
+            {
+              "name": "Munich/Johanneskirchen",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Munich/Johanneskirchen",
+                  "attribute_value": 14.64516129032258,
+                  "value": 14319
+                }
+              ]
+            },
+            {
+              "name": "Munich/Landshuter Allee",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Munich/Landshuter Allee",
+                  "attribute_value": 19.612903225806452,
+                  "value": 7709
+                }
+              ]
+            },
+            {
+              "name": "Munich/Lothstrasse",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Munich/Lothstrasse",
+                  "attribute_value": 12.838709677419354,
+                  "value": 2517
+                }
+              ]
+            },
+            {
+              "name": "Munich/Stachus",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Munich/Stachus",
+                  "attribute_value": 15.64516129032258,
+                  "value": 14029
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "June",
+          "children": [
+            {
+              "name": "Munich/Johanneskirchen",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Munich/Johanneskirchen",
+                  "attribute_value": 14.033333333333333,
+                  "value": 14295
+                }
+              ]
+            },
+            {
+              "name": "Munich/Landshuter Allee",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Munich/Landshuter Allee",
+                  "attribute_value": 19.178571428571427,
+                  "value": 4376
+                }
+              ]
+            },
+            {
+              "name": "Munich/Lothstrasse",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Munich/Lothstrasse",
+                  "attribute_value": 13.933333333333334,
+                  "value": 9928
+                }
+              ]
+            },
+            {
+              "name": "Munich/Stachus",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Munich/Stachus",
+                  "attribute_value": 16.633333333333333,
+                  "value": 6026
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "July",
+          "children": [
+            {
+              "name": "Munich/Johanneskirchen",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Munich/Johanneskirchen",
+                  "attribute_value": 13.666666666666666,
+                  "value": 5202
+                }
+              ]
+            },
+            {
+              "name": "Munich/Landshuter Allee",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Munich/Landshuter Allee",
+                  "attribute_value": 18.733333333333334,
+                  "value": 2440
+                }
+              ]
+            },
+            {
+              "name": "Munich/Lothstrasse",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Munich/Lothstrasse",
+                  "attribute_value": 12.741935483870968,
+                  "value": 4230
+                }
+              ]
+            },
+            {
+              "name": "Munich/Stachus",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Munich/Stachus",
+                  "attribute_value": 16.870967741935484,
+                  "value": 14179
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "August",
+          "children": [
+            {
+              "name": "Munich/Johanneskirchen",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Munich/Johanneskirchen",
+                  "attribute_value": 14.333333333333334,
+                  "value": 9887
+                }
+              ]
+            },
+            {
+              "name": "Munich/Landshuter Allee",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Munich/Landshuter Allee",
+                  "attribute_value": 18.225806451612904,
+                  "value": 4945
+                }
+              ]
+            },
+            {
+              "name": "Munich/Lothstrasse",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Munich/Lothstrasse",
+                  "attribute_value": 13.258064516129032,
+                  "value": 2002
+                }
+              ]
+            },
+            {
+              "name": "Munich/Stachus",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Munich/Stachus",
+                  "attribute_value": 16.06451612903226,
+                  "value": 4847
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "September",
+          "children": [
+            {
+              "name": "Munich/Johanneskirchen",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Munich/Johanneskirchen",
+                  "attribute_value": 11,
+                  "value": 12229
+                }
+              ]
+            },
+            {
+              "name": "Munich/Landshuter Allee",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Munich/Landshuter Allee",
+                  "attribute_value": 15,
+                  "value": 4090
+                }
+              ]
+            },
+            {
+              "name": "Munich/Lothstrasse",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Munich/Lothstrasse",
+                  "attribute_value": 9.566666666666666,
+                  "value": 12292
+                }
+              ]
+            },
+            {
+              "name": "Munich/Stachus",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Munich/Stachus",
+                  "attribute_value": 12.766666666666667,
+                  "value": 13505
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "October",
+          "children": [
+            {
+              "name": "Munich/Johanneskirchen",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Munich/Johanneskirchen",
+                  "attribute_value": 16.06451612903226,
+                  "value": 8231
+                }
+              ]
+            },
+            {
+              "name": "Munich/Landshuter Allee",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Munich/Landshuter Allee",
+                  "attribute_value": 21.548387096774192,
+                  "value": 1558
+                }
+              ]
+            },
+            {
+              "name": "Munich/Lothstrasse",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Munich/Lothstrasse",
+                  "attribute_value": 16.032258064516128,
+                  "value": 1548
+                }
+              ]
+            },
+            {
+              "name": "Munich/Stachus",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Munich/Stachus",
+                  "attribute_value": 19.866666666666667,
+                  "value": 3790
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "November",
+          "children": [
+            {
+              "name": "Munich/Johanneskirchen",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Munich/Johanneskirchen",
+                  "attribute_value": 12.1,
+                  "value": 12924
+                }
+              ]
+            },
+            {
+              "name": "Munich/Landshuter Allee",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Munich/Landshuter Allee",
+                  "attribute_value": 17.2,
+                  "value": 10697
+                }
+              ]
+            },
+            {
+              "name": "Munich/Lothstrasse",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Munich/Lothstrasse",
+                  "attribute_value": 11.827586206896552,
+                  "value": 5608
+                }
+              ]
+            },
+            {
+              "name": "Munich/Stachus",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Munich/Stachus",
+                  "attribute_value": 16.233333333333334,
+                  "value": 1884
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "December",
+          "children": [
+            {
+              "name": "Munich/Johanneskirchen",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Munich/Johanneskirchen",
+                  "attribute_value": 14.64516129032258,
+                  "value": 2584
+                }
+              ]
+            },
+            {
+              "name": "Munich/Landshuter Allee",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Munich/Landshuter Allee",
+                  "attribute_value": 24.838709677419356,
+                  "value": 9949
+                }
+              ]
+            },
+            {
+              "name": "Munich/Lothstrasse",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Munich/Lothstrasse",
+                  "attribute_value": 15.516129032258064,
+                  "value": 8940
+                }
+              ]
+            },
+            {
+              "name": "Munich/Stachus",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Munich/Stachus",
+                  "attribute_value": 19.225806451612904,
+                  "value": 521
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Nitrogen dioxide (NO2)",
+      "children": [
+        {
+          "name": "January",
+          "children": [
+            {
+              "name": "Munich/Allach",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Munich/Allach",
+                  "attribute_value": 77,
+                  "value": 10579
+                }
+              ]
+            },
+            {
+              "name": "Munich/Johanneskirchen",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Munich/Johanneskirchen",
+                  "attribute_value": 62,
+                  "value": 6494
+                }
+              ]
+            },
+            {
+              "name": "Munich/Landshuter Allee",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Munich/Landshuter Allee",
+                  "attribute_value": 102,
+                  "value": 10993
+                }
+              ]
+            },
+            {
+              "name": "Munich/Lothstrasse",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Munich/Lothstrasse",
+                  "attribute_value": 88,
+                  "value": 6502
+                }
+              ]
+            },
+            {
+              "name": "Munich/Stachus",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Munich/Stachus",
+                  "attribute_value": 85,
+                  "value": 10857
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "February",
+          "children": [
+            {
+              "name": "Munich/Allach",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Munich/Allach",
+                  "attribute_value": 72,
+                  "value": 3076
+                }
+              ]
+            },
+            {
+              "name": "Munich/Johanneskirchen",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Munich/Johanneskirchen",
+                  "attribute_value": 66,
+                  "value": 994
+                }
+              ]
+            },
+            {
+              "name": "Munich/Landshuter Allee",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Munich/Landshuter Allee",
+                  "attribute_value": 111,
+                  "value": 9457
+                }
+              ]
+            },
+            {
+              "name": "Munich/Lothstrasse",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Munich/Lothstrasse",
+                  "attribute_value": 100,
+                  "value": 1283
+                }
+              ]
+            },
+            {
+              "name": "Munich/Stachus",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Munich/Stachus",
+                  "attribute_value": 100,
+                  "value": 11503
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "March",
+          "children": [
+            {
+              "name": "Munich/Allach",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Munich/Allach",
+                  "attribute_value": 88,
+                  "value": 2509
+                }
+              ]
+            },
+            {
+              "name": "Munich/Johanneskirchen",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Munich/Johanneskirchen",
+                  "attribute_value": 37,
+                  "value": 6607
+                }
+              ]
+            },
+            {
+              "name": "Munich/Landshuter Allee",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Munich/Landshuter Allee",
+                  "attribute_value": 152,
+                  "value": 2029
+                }
+              ]
+            },
+            {
+              "name": "Munich/Lothstrasse",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Munich/Lothstrasse",
+                  "attribute_value": 103,
+                  "value": 4808
+                }
+              ]
+            },
+            {
+              "name": "Munich/Stachus",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Munich/Stachus",
+                  "attribute_value": 104,
+                  "value": 4956
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "April",
+          "children": [
+            {
+              "name": "Munich/Allach",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Munich/Allach",
+                  "attribute_value": 62,
+                  "value": 1022
+                }
+              ]
+            },
+            {
+              "name": "Munich/Johanneskirchen",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Munich/Johanneskirchen",
+                  "attribute_value": 57,
+                  "value": 8565
+                }
+              ]
+            },
+            {
+              "name": "Munich/Landshuter Allee",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Munich/Landshuter Allee",
+                  "attribute_value": 127,
+                  "value": 12221
+                }
+              ]
+            },
+            {
+              "name": "Munich/Lothstrasse",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Munich/Lothstrasse",
+                  "attribute_value": 81,
+                  "value": 13917
+                }
+              ]
+            },
+            {
+              "name": "Munich/Stachus",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Munich/Stachus",
+                  "attribute_value": 92,
+                  "value": 11708
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "May",
+          "children": [
+            {
+              "name": "Munich/Allach",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Munich/Allach",
+                  "attribute_value": 47,
+                  "value": 2006
+                }
+              ]
+            },
+            {
+              "name": "Munich/Johanneskirchen",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Munich/Johanneskirchen",
+                  "attribute_value": 57,
+                  "value": 13283
+                }
+              ]
+            },
+            {
+              "name": "Munich/Landshuter Allee",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Munich/Landshuter Allee",
+                  "attribute_value": 147,
+                  "value": 7971
+                }
+              ]
+            },
+            {
+              "name": "Munich/Lothstrasse",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Munich/Lothstrasse",
+                  "attribute_value": 87,
+                  "value": 5003
+                }
+              ]
+            },
+            {
+              "name": "Munich/Stachus",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Munich/Stachus",
+                  "attribute_value": 73,
+                  "value": 5610
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "June",
+          "children": [
+            {
+              "name": "Munich/Allach",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Munich/Allach",
+                  "attribute_value": 50,
+                  "value": 8305
+                }
+              ]
+            },
+            {
+              "name": "Munich/Johanneskirchen",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Munich/Johanneskirchen",
+                  "attribute_value": 33,
+                  "value": 13858
+                }
+              ]
+            },
+            {
+              "name": "Munich/Landshuter Allee",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Munich/Landshuter Allee",
+                  "attribute_value": 138,
+                  "value": 12695
+                }
+              ]
+            },
+            {
+              "name": "Munich/Lothstrasse",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Munich/Lothstrasse",
+                  "attribute_value": 59,
+                  "value": 8926
+                }
+              ]
+            },
+            {
+              "name": "Munich/Stachus",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Munich/Stachus",
+                  "attribute_value": 65,
+                  "value": 12246
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "July",
+          "children": [
+            {
+              "name": "Munich/Allach",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Munich/Allach",
+                  "attribute_value": 52,
+                  "value": 3800
+                }
+              ]
+            },
+            {
+              "name": "Munich/Johanneskirchen",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Munich/Johanneskirchen",
+                  "attribute_value": 36,
+                  "value": 1903
+                }
+              ]
+            },
+            {
+              "name": "Munich/Landshuter Allee",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Munich/Landshuter Allee",
+                  "attribute_value": 156,
+                  "value": 7172
+                }
+              ]
+            },
+            {
+              "name": "Munich/Lothstrasse",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Munich/Lothstrasse",
+                  "attribute_value": 66,
+                  "value": 7136
+                }
+              ]
+            },
+            {
+              "name": "Munich/Stachus",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Munich/Stachus",
+                  "attribute_value": 74,
+                  "value": 14930
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "August",
+          "children": [
+            {
+              "name": "Munich/Allach",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Munich/Allach",
+                  "attribute_value": 51,
+                  "value": 5388
+                }
+              ]
+            },
+            {
+              "name": "Munich/Johanneskirchen",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Munich/Johanneskirchen",
+                  "attribute_value": 59,
+                  "value": 6134
+                }
+              ]
+            },
+            {
+              "name": "Munich/Landshuter Allee",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Munich/Landshuter Allee",
+                  "attribute_value": 138,
+                  "value": 7527
+                }
+              ]
+            },
+            {
+              "name": "Munich/Lothstrasse",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Munich/Lothstrasse",
+                  "attribute_value": 70,
+                  "value": 4095
+                }
+              ]
+            },
+            {
+              "name": "Munich/Stachus",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Munich/Stachus",
+                  "attribute_value": 62,
+                  "value": 556
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "September",
+          "children": [
+            {
+              "name": "Munich/Allach",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Munich/Allach",
+                  "attribute_value": 56,
+                  "value": 9330
+                }
+              ]
+            },
+            {
+              "name": "Munich/Johanneskirchen",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Munich/Johanneskirchen",
+                  "attribute_value": 57,
+                  "value": 2456
+                }
+              ]
+            },
+            {
+              "name": "Munich/Landshuter Allee",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Munich/Landshuter Allee",
+                  "attribute_value": 116,
+                  "value": 9790
+                }
+              ]
+            },
+            {
+              "name": "Munich/Lothstrasse",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Munich/Lothstrasse",
+                  "attribute_value": 53,
+                  "value": 12957
+                }
+              ]
+            },
+            {
+              "name": "Munich/Stachus",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Munich/Stachus",
+                  "attribute_value": 70,
+                  "value": 4318
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "October",
+          "children": [
+            {
+              "name": "Munich/Allach",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Munich/Allach",
+                  "attribute_value": 50,
+                  "value": 7961
+                }
+              ]
+            },
+            {
+              "name": "Munich/Johanneskirchen",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Munich/Johanneskirchen",
+                  "attribute_value": 63,
+                  "value": 8312
+                }
+              ]
+            },
+            {
+              "name": "Munich/Landshuter Allee",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Munich/Landshuter Allee",
+                  "attribute_value": 124,
+                  "value": 7742
+                }
+              ]
+            },
+            {
+              "name": "Munich/Lothstrasse",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Munich/Lothstrasse",
+                  "attribute_value": 89,
+                  "value": 8497
+                }
+              ]
+            },
+            {
+              "name": "Munich/Stachus",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Munich/Stachus",
+                  "attribute_value": 100,
+                  "value": 7340
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "November",
+          "children": [
+            {
+              "name": "Munich/Allach",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Munich/Allach",
+                  "attribute_value": 56,
+                  "value": 5483
+                }
+              ]
+            },
+            {
+              "name": "Munich/Johanneskirchen",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Munich/Johanneskirchen",
+                  "attribute_value": 67,
+                  "value": 6277
+                }
+              ]
+            },
+            {
+              "name": "Munich/Landshuter Allee",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Munich/Landshuter Allee",
+                  "attribute_value": 95,
+                  "value": 2506
+                }
+              ]
+            },
+            {
+              "name": "Munich/Lothstrasse",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Munich/Lothstrasse",
+                  "attribute_value": 106,
+                  "value": 4206
+                }
+              ]
+            },
+            {
+              "name": "Munich/Stachus",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Munich/Stachus",
+                  "attribute_value": 80,
+                  "value": 734
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "December",
+          "children": [
+            {
+              "name": "Munich/Allach",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Munich/Allach",
+                  "attribute_value": 71,
+                  "value": 7533
+                }
+              ]
+            },
+            {
+              "name": "Munich/Johanneskirchen",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Munich/Johanneskirchen",
+                  "attribute_value": 58,
+                  "value": 9048
+                }
+              ]
+            },
+            {
+              "name": "Munich/Landshuter Allee",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Munich/Landshuter Allee",
+                  "attribute_value": 97,
+                  "value": 1230
+                }
+              ]
+            },
+            {
+              "name": "Munich/Lothstrasse",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Munich/Lothstrasse",
+                  "attribute_value": 68,
+                  "value": 13153
+                }
+              ]
+            },
+            {
+              "name": "Munich/Stachus",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Munich/Stachus",
+                  "attribute_value": 84,
+                  "value": 13769
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ozone (O3)",
+      "children": [
+        {
+          "name": "January",
+          "children": [
+            {
+              "name": "Munich/Allach",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Munich/Allach",
+                  "attribute_value": 78,
+                  "value": 7574
+                }
+              ]
+            },
+            {
+              "name": "Munich/Johanneskirchen",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Munich/Johanneskirchen",
+                  "attribute_value": 80,
+                  "value": 11275
+                }
+              ]
+            },
+            {
+              "name": "Munich/Lothstrasse",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Munich/Lothstrasse",
+                  "attribute_value": 76,
+                  "value": 5666
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "February",
+          "children": [
+            {
+              "name": "Munich/Allach",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Munich/Allach",
+                  "attribute_value": 96,
+                  "value": 13716
+                }
+              ]
+            },
+            {
+              "name": "Munich/Johanneskirchen",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Munich/Johanneskirchen",
+                  "attribute_value": 95,
+                  "value": 6458
+                }
+              ]
+            },
+            {
+              "name": "Munich/Lothstrasse",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Munich/Lothstrasse",
+                  "attribute_value": 95,
+                  "value": 9352
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "March",
+          "children": [
+            {
+              "name": "Munich/Allach",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Munich/Allach",
+                  "attribute_value": 133,
+                  "value": 4516
+                }
+              ]
+            },
+            {
+              "name": "Munich/Johanneskirchen",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Munich/Johanneskirchen",
+                  "attribute_value": 133,
+                  "value": 11439
+                }
+              ]
+            },
+            {
+              "name": "Munich/Lothstrasse",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Munich/Lothstrasse",
+                  "attribute_value": 135,
+                  "value": 914
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "April",
+          "children": [
+            {
+              "name": "Munich/Allach",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Munich/Allach",
+                  "attribute_value": 123,
+                  "value": 14099
+                }
+              ]
+            },
+            {
+              "name": "Munich/Johanneskirchen",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Munich/Johanneskirchen",
+                  "attribute_value": 131,
+                  "value": 13480
+                }
+              ]
+            },
+            {
+              "name": "Munich/Lothstrasse",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Munich/Lothstrasse",
+                  "attribute_value": 126,
+                  "value": 11393
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "May",
+          "children": [
+            {
+              "name": "Munich/Allach",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Munich/Allach",
+                  "attribute_value": 130,
+                  "value": 10748
+                }
+              ]
+            },
+            {
+              "name": "Munich/Johanneskirchen",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Munich/Johanneskirchen",
+                  "attribute_value": 126,
+                  "value": 1157
+                }
+              ]
+            },
+            {
+              "name": "Munich/Lothstrasse",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Munich/Lothstrasse",
+                  "attribute_value": 125,
+                  "value": 9290
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "June",
+          "children": [
+            {
+              "name": "Munich/Allach",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Munich/Allach",
+                  "attribute_value": 150,
+                  "value": 8137
+                }
+              ]
+            },
+            {
+              "name": "Munich/Johanneskirchen",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Munich/Johanneskirchen",
+                  "attribute_value": 156,
+                  "value": 9787
+                }
+              ]
+            },
+            {
+              "name": "Munich/Lothstrasse",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Munich/Lothstrasse",
+                  "attribute_value": 152,
+                  "value": 11720
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "July",
+          "children": [
+            {
+              "name": "Munich/Allach",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Munich/Allach",
+                  "attribute_value": 162,
+                  "value": 8229
+                }
+              ]
+            },
+            {
+              "name": "Munich/Johanneskirchen",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Munich/Johanneskirchen",
+                  "attribute_value": 154,
+                  "value": 1538
+                }
+              ]
+            },
+            {
+              "name": "Munich/Lothstrasse",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Munich/Lothstrasse",
+                  "attribute_value": 155,
+                  "value": 10932
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "August",
+          "children": [
+            {
+              "name": "Munich/Allach",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Munich/Allach",
+                  "attribute_value": 162,
+                  "value": 6266
+                }
+              ]
+            },
+            {
+              "name": "Munich/Johanneskirchen",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Munich/Johanneskirchen",
+                  "attribute_value": 165,
+                  "value": 1604
+                }
+              ]
+            },
+            {
+              "name": "Munich/Lothstrasse",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Munich/Lothstrasse",
+                  "attribute_value": 159,
+                  "value": 3711
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "September",
+          "children": [
+            {
+              "name": "Munich/Allach",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Munich/Allach",
+                  "attribute_value": 114,
+                  "value": 1309
+                }
+              ]
+            },
+            {
+              "name": "Munich/Johanneskirchen",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Munich/Johanneskirchen",
+                  "attribute_value": 113,
+                  "value": 4649
+                }
+              ]
+            },
+            {
+              "name": "Munich/Lothstrasse",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Munich/Lothstrasse",
+                  "attribute_value": 109,
+                  "value": 12433
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "October",
+          "children": [
+            {
+              "name": "Munich/Allach",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Munich/Allach",
+                  "attribute_value": 81,
+                  "value": 7836
+                }
+              ]
+            },
+            {
+              "name": "Munich/Johanneskirchen",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Munich/Johanneskirchen",
+                  "attribute_value": 74,
+                  "value": 4584
+                }
+              ]
+            },
+            {
+              "name": "Munich/Lothstrasse",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Munich/Lothstrasse",
+                  "attribute_value": 81,
+                  "value": 8886
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "November",
+          "children": [
+            {
+              "name": "Munich/Allach",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Munich/Allach",
+                  "attribute_value": 70,
+                  "value": 9887
+                }
+              ]
+            },
+            {
+              "name": "Munich/Johanneskirchen",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Munich/Johanneskirchen",
+                  "attribute_value": 72,
+                  "value": 8406
+                }
+              ]
+            },
+            {
+              "name": "Munich/Lothstrasse",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Munich/Lothstrasse",
+                  "attribute_value": 64,
+                  "value": 14597
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "December",
+          "children": [
+            {
+              "name": "Munich/Allach",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Munich/Allach",
+                  "attribute_value": 77,
+                  "value": 8259
+                }
+              ]
+            },
+            {
+              "name": "Munich/Johanneskirchen",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Munich/Johanneskirchen",
+                  "attribute_value": 79,
+                  "value": 2915
+                }
+              ]
+            },
+            {
+              "name": "Munich/Lothstrasse",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Munich/Lothstrasse",
+                  "attribute_value": 75,
+                  "value": 9995
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

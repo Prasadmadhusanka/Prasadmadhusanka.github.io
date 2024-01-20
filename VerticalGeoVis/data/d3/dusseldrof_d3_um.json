@@ -1,0 +1,860 @@
+{
+  "name": "Düsseldorf",
+  "children": [
+    {
+      "name": "Fine dust (PM10)",
+      "children": [
+        {
+          "name": "January",
+          "children": [
+            {
+              "name": "Düsseldorf Corneliusstrasse",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Düsseldorf Corneliusstrasse",
+                  "attribute_value": 24.806451612903224,
+                  "value": 13603
+                }
+              ]
+            },
+            {
+              "name": "Düsseldorf-Lörick",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Düsseldorf-Lörick",
+                  "attribute_value": 21.612903225806452,
+                  "value": 7777
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "February",
+          "children": [
+            {
+              "name": "Düsseldorf Corneliusstrasse",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Düsseldorf Corneliusstrasse",
+                  "attribute_value": 17.785714285714285,
+                  "value": 11111
+                }
+              ]
+            },
+            {
+              "name": "Düsseldorf-Lörick",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Düsseldorf-Lörick",
+                  "attribute_value": 15.142857142857142,
+                  "value": 9752
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "March",
+          "children": [
+            {
+              "name": "Düsseldorf Corneliusstrasse",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Düsseldorf Corneliusstrasse",
+                  "attribute_value": 28.35483870967742,
+                  "value": 11738
+                }
+              ]
+            },
+            {
+              "name": "Düsseldorf-Lörick",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Düsseldorf-Lörick",
+                  "attribute_value": 25.70967741935484,
+                  "value": 9793
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "April",
+          "children": [
+            {
+              "name": "Düsseldorf Corneliusstrasse",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Düsseldorf Corneliusstrasse",
+                  "attribute_value": 18.433333333333334,
+                  "value": 12062
+                }
+              ]
+            },
+            {
+              "name": "Düsseldorf-Lörick",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Düsseldorf-Lörick",
+                  "attribute_value": 15.172413793103448,
+                  "value": 4739
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "May",
+          "children": [
+            {
+              "name": "Düsseldorf Corneliusstrasse",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Düsseldorf Corneliusstrasse",
+                  "attribute_value": 21.032258064516128,
+                  "value": 6306
+                }
+              ]
+            },
+            {
+              "name": "Düsseldorf-Lörick",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Düsseldorf-Lörick",
+                  "attribute_value": 18.233333333333334,
+                  "value": 12854
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "June",
+          "children": [
+            {
+              "name": "Düsseldorf Corneliusstrasse",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Düsseldorf Corneliusstrasse",
+                  "attribute_value": 17.482758620689655,
+                  "value": 8781
+                }
+              ]
+            },
+            {
+              "name": "Düsseldorf-Lörick",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Düsseldorf-Lörick",
+                  "attribute_value": 15.3,
+                  "value": 6834
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "July",
+          "children": [
+            {
+              "name": "Düsseldorf Corneliusstrasse",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Düsseldorf Corneliusstrasse",
+                  "attribute_value": 18.35483870967742,
+                  "value": 9180
+                }
+              ]
+            },
+            {
+              "name": "Düsseldorf-Lörick",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Düsseldorf-Lörick",
+                  "attribute_value": 14.774193548387096,
+                  "value": 12782
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "August",
+          "children": [
+            {
+              "name": "Düsseldorf Corneliusstrasse",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Düsseldorf Corneliusstrasse",
+                  "attribute_value": 20.451612903225808,
+                  "value": 6453
+                }
+              ]
+            },
+            {
+              "name": "Düsseldorf-Lörick",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Düsseldorf-Lörick",
+                  "attribute_value": 17.387096774193548,
+                  "value": 8509
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "September",
+          "children": [
+            {
+              "name": "Düsseldorf Corneliusstrasse",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Düsseldorf Corneliusstrasse",
+                  "attribute_value": 17.066666666666666,
+                  "value": 6087
+                }
+              ]
+            },
+            {
+              "name": "Düsseldorf-Lörick",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Düsseldorf-Lörick",
+                  "attribute_value": 13.4,
+                  "value": 4514
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "October",
+          "children": [
+            {
+              "name": "Düsseldorf Corneliusstrasse",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Düsseldorf Corneliusstrasse",
+                  "attribute_value": 21.70967741935484,
+                  "value": 11982
+                }
+              ]
+            },
+            {
+              "name": "Düsseldorf-Lörick",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Düsseldorf-Lörick",
+                  "attribute_value": 19.806451612903224,
+                  "value": 6622
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "November",
+          "children": [
+            {
+              "name": "Düsseldorf Corneliusstrasse",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Düsseldorf Corneliusstrasse",
+                  "attribute_value": 18.166666666666668,
+                  "value": 10657
+                }
+              ]
+            },
+            {
+              "name": "Düsseldorf-Lörick",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Düsseldorf-Lörick",
+                  "attribute_value": 14.482758620689655,
+                  "value": 10109
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "December",
+          "children": [
+            {
+              "name": "Düsseldorf Corneliusstrasse",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Düsseldorf Corneliusstrasse",
+                  "attribute_value": 24.903225806451612,
+                  "value": 11246
+                }
+              ]
+            },
+            {
+              "name": "Düsseldorf-Lörick",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Düsseldorf-Lörick",
+                  "attribute_value": 21.806451612903224,
+                  "value": 6696
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Nitrogen dioxide (NO2)",
+      "children": [
+        {
+          "name": "January",
+          "children": [
+            {
+              "name": "Düsseldorf Corneliusstrasse",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Düsseldorf Corneliusstrasse",
+                  "attribute_value": 99,
+                  "value": 6373
+                }
+              ]
+            },
+            {
+              "name": "Düsseldorf-Lörick",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Düsseldorf-Lörick",
+                  "attribute_value": 63,
+                  "value": 14864
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "February",
+          "children": [
+            {
+              "name": "Düsseldorf Corneliusstrasse",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Düsseldorf Corneliusstrasse",
+                  "attribute_value": 93,
+                  "value": 11551
+                }
+              ]
+            },
+            {
+              "name": "Düsseldorf-Lörick",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Düsseldorf-Lörick",
+                  "attribute_value": 70,
+                  "value": 7718
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "March",
+          "children": [
+            {
+              "name": "Düsseldorf Corneliusstrasse",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Düsseldorf Corneliusstrasse",
+                  "attribute_value": 135,
+                  "value": 5371
+                }
+              ]
+            },
+            {
+              "name": "Düsseldorf-Lörick",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Düsseldorf-Lörick",
+                  "attribute_value": 116,
+                  "value": 9080
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "April",
+          "children": [
+            {
+              "name": "Düsseldorf Corneliusstrasse",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Düsseldorf Corneliusstrasse",
+                  "attribute_value": 85,
+                  "value": 13925
+                }
+              ]
+            },
+            {
+              "name": "Düsseldorf-Lörick",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Düsseldorf-Lörick",
+                  "attribute_value": 66,
+                  "value": 3545
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "May",
+          "children": [
+            {
+              "name": "Düsseldorf Corneliusstrasse",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Düsseldorf Corneliusstrasse",
+                  "attribute_value": 101,
+                  "value": 14971
+                }
+              ]
+            },
+            {
+              "name": "Düsseldorf-Lörick",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Düsseldorf-Lörick",
+                  "attribute_value": 69,
+                  "value": 11401
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "June",
+          "children": [
+            {
+              "name": "Düsseldorf Corneliusstrasse",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Düsseldorf Corneliusstrasse",
+                  "attribute_value": 99,
+                  "value": 608
+                }
+              ]
+            },
+            {
+              "name": "Düsseldorf-Lörick",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Düsseldorf-Lörick",
+                  "attribute_value": 69,
+                  "value": 578
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "July",
+          "children": [
+            {
+              "name": "Düsseldorf Corneliusstrasse",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Düsseldorf Corneliusstrasse",
+                  "attribute_value": 149,
+                  "value": 14133
+                }
+              ]
+            },
+            {
+              "name": "Düsseldorf-Lörick",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Düsseldorf-Lörick",
+                  "attribute_value": 96,
+                  "value": 8974
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "August",
+          "children": [
+            {
+              "name": "Düsseldorf Corneliusstrasse",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Düsseldorf Corneliusstrasse",
+                  "attribute_value": 100,
+                  "value": 4521
+                }
+              ]
+            },
+            {
+              "name": "Düsseldorf-Lörick",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Düsseldorf-Lörick",
+                  "attribute_value": 96,
+                  "value": 7963
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "September",
+          "children": [
+            {
+              "name": "Düsseldorf Corneliusstrasse",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Düsseldorf Corneliusstrasse",
+                  "attribute_value": 95,
+                  "value": 1095
+                }
+              ]
+            },
+            {
+              "name": "Düsseldorf-Lörick",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Düsseldorf-Lörick",
+                  "attribute_value": 64,
+                  "value": 12965
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "October",
+          "children": [
+            {
+              "name": "Düsseldorf Corneliusstrasse",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Düsseldorf Corneliusstrasse",
+                  "attribute_value": 92,
+                  "value": 1637
+                }
+              ]
+            },
+            {
+              "name": "Düsseldorf-Lörick",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Düsseldorf-Lörick",
+                  "attribute_value": 61,
+                  "value": 609
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "November",
+          "children": [
+            {
+              "name": "Düsseldorf Corneliusstrasse",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Düsseldorf Corneliusstrasse",
+                  "attribute_value": 99,
+                  "value": 9964
+                }
+              ]
+            },
+            {
+              "name": "Düsseldorf-Lörick",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Düsseldorf-Lörick",
+                  "attribute_value": 58,
+                  "value": 561
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "December",
+          "children": [
+            {
+              "name": "Düsseldorf Corneliusstrasse",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Düsseldorf Corneliusstrasse",
+                  "attribute_value": 91,
+                  "value": 14849
+                }
+              ]
+            },
+            {
+              "name": "Düsseldorf-Lörick",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Düsseldorf-Lörick",
+                  "attribute_value": 62,
+                  "value": 11981
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ozone (O3)",
+      "children": [
+        {
+          "name": "January",
+          "children": [
+            {
+              "name": "Düsseldorf-Lörick",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Düsseldorf-Lörick",
+                  "attribute_value": 79,
+                  "value": 1072
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "February",
+          "children": [
+            {
+              "name": "Düsseldorf-Lörick",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Düsseldorf-Lörick",
+                  "attribute_value": 89,
+                  "value": 7029
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "March",
+          "children": [
+            {
+              "name": "Düsseldorf-Lörick",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Düsseldorf-Lörick",
+                  "attribute_value": 116,
+                  "value": 13428
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "April",
+          "children": [
+            {
+              "name": "Düsseldorf-Lörick",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Düsseldorf-Lörick",
+                  "attribute_value": 104,
+                  "value": 1937
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "May",
+          "children": [
+            {
+              "name": "Düsseldorf-Lörick",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Düsseldorf-Lörick",
+                  "attribute_value": 127,
+                  "value": 13321
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "June",
+          "children": [
+            {
+              "name": "Düsseldorf-Lörick",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Düsseldorf-Lörick",
+                  "attribute_value": 158,
+                  "value": 8610
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "July",
+          "children": [
+            {
+              "name": "Düsseldorf-Lörick",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Düsseldorf-Lörick",
+                  "attribute_value": 172,
+                  "value": 14534
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "August",
+          "children": [
+            {
+              "name": "Düsseldorf-Lörick",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Düsseldorf-Lörick",
+                  "attribute_value": 154,
+                  "value": 1037
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "September",
+          "children": [
+            {
+              "name": "Düsseldorf-Lörick",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Düsseldorf-Lörick",
+                  "attribute_value": 134,
+                  "value": 11743
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "October",
+          "children": [
+            {
+              "name": "Düsseldorf-Lörick",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Düsseldorf-Lörick",
+                  "attribute_value": 81,
+                  "value": 2196
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "November",
+          "children": [
+            {
+              "name": "Düsseldorf-Lörick",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Düsseldorf-Lörick",
+                  "attribute_value": 69,
+                  "value": 5131
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "December",
+          "children": [
+            {
+              "name": "Düsseldorf-Lörick",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Düsseldorf-Lörick",
+                  "attribute_value": 71,
+                  "value": 4221
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

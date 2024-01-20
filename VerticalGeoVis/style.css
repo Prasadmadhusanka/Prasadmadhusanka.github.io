@@ -1,0 +1,131 @@
+#model1 {
+  display: none;
+  height: 70vh;
+}
+
+#model2 {
+  display: none;
+  height: 80vh;
+}
+
+#model3 {
+  display: none;
+  height: 100vh;
+}
+
+#warningModal {
+  display: none;
+  height: 70vh;
+}
+
+#aboutModal {
+  display: none;
+  height: 100vh;
+}
+
+#warningModal .modal-header {
+  background-color: #ff4545;
+}
+
+.custom-model-dialog {
+  max-width: 900px; /* Set your desired width */
+  width: 90%; /* You can use a percentage or pixels */
+}
+
+.custom-model-dialog1 {
+  max-width: 650px; /* Set your desired width */
+  width: 90%; /* You can use a percentage or pixels */
+}
+
+.table-container {
+  max-height: 50vh; /* Set your desired maximum height */
+  overflow-y: auto;
+}
+
+.header {
+  height: 70px;
+}
+
+#leaflet-map {
+  flex: 1;
+  height: calc(100vh - 70px - 30px);
+  /* Adjust for your actual header and footer heights */
+}
+
+#spiral_map {
+  flex: 1;
+  height: 50vh;
+}
+
+.footer {
+  margin-top: 0px;
+  /* Push footer to the bottom */
+  flex-shrink: 0;
+  height: 30px;
+  /* Replace with your actual footer height */
+}
+
+a,
+li {
+  color: #000000;
+  font-weight: bold;
+}
+
+.modal-footer {
+  display: flex;
+  justify-content: center; /* Center items horizontally */
+}
+
+.legend-container {
+  margin: auto;
+  display: flex;
+}
+
+.legend-item {
+  margin-right: 20px;
+  display: flex;
+  align-items: center;
+}
+
+.color-box {
+  width: 20px;
+  height: 20px;
+  margin-right: 8px;
+  border: 1px solid #000; /* Optional: Add a border to the color box */
+}
+
+.node {
+  cursor: pointer;
+}
+
+.node:hover {
+  stroke: #000;
+  stroke-width: 1.5px;
+}
+
+.node--leaf {
+  fill: white;
+}
+
+.label {
+  font: 11px "Helvetica Neue", Helvetica, Arial, sans-serif;
+  text-anchor: middle;
+  text-shadow: 0 1px 0 #fff, 1px 0 0 #fff, -1px 0 0 #fff, 0 -1px 0 #fff;
+}
+
+.label,
+.node--root,
+.node--leaf {
+  pointer-events: none;
+}
+
+
+.d3-tip {
+  line-height: 1;
+  font-weight: bold;
+  padding: 12px;
+  background: rgba(0, 0, 0, 0.8);
+  color: #fff;
+  border-radius: 2px;
+  pointer-events: none;
+}

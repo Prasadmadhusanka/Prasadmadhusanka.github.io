@@ -1,0 +1,2377 @@
+{
+  "name": "Berlin",
+  "children": [
+    {
+      "name": "Carbon monoxide (CO)",
+      "children": [
+        {
+          "name": "January",
+          "children": [
+            {
+              "name": "Berlin Frankfurter Allee",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Berlin Frankfurter Allee",
+                  "attribute_value": 0,
+                  "value": 4977
+                }
+              ]
+            },
+            {
+              "name": "Berlin Schildhornstraße",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Berlin Schildhornstraße",
+                  "attribute_value": 0,
+                  "value": 2280
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "February",
+          "children": [
+            {
+              "name": "Berlin Frankfurter Allee",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Berlin Frankfurter Allee",
+                  "attribute_value": 0,
+                  "value": 7788
+                }
+              ]
+            },
+            {
+              "name": "Berlin Schildhornstraße",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Berlin Schildhornstraße",
+                  "attribute_value": 0,
+                  "value": 4539
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "March",
+          "children": [
+            {
+              "name": "Berlin Frankfurter Allee",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Berlin Frankfurter Allee",
+                  "attribute_value": 1,
+                  "value": 4083
+                }
+              ]
+            },
+            {
+              "name": "Berlin Schildhornstraße",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Berlin Schildhornstraße",
+                  "attribute_value": 1,
+                  "value": 1677
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "April",
+          "children": [
+            {
+              "name": "Berlin Frankfurter Allee",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Berlin Frankfurter Allee",
+                  "attribute_value": 0,
+                  "value": 14958
+                }
+              ]
+            },
+            {
+              "name": "Berlin Schildhornstraße",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Berlin Schildhornstraße",
+                  "attribute_value": 0,
+                  "value": 1256
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "May",
+          "children": [
+            {
+              "name": "Berlin Frankfurter Allee",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Berlin Frankfurter Allee",
+                  "attribute_value": 0,
+                  "value": 13297
+                }
+              ]
+            },
+            {
+              "name": "Berlin Schildhornstraße",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Berlin Schildhornstraße",
+                  "attribute_value": 0,
+                  "value": 7793
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "June",
+          "children": [
+            {
+              "name": "Berlin Frankfurter Allee",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Berlin Frankfurter Allee",
+                  "attribute_value": 0,
+                  "value": 14891
+                }
+              ]
+            },
+            {
+              "name": "Berlin Schildhornstraße",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Berlin Schildhornstraße",
+                  "attribute_value": 0,
+                  "value": 14676
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "July",
+          "children": [
+            {
+              "name": "Berlin Frankfurter Allee",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Berlin Frankfurter Allee",
+                  "attribute_value": 0,
+                  "value": 3526
+                }
+              ]
+            },
+            {
+              "name": "Berlin Schildhornstraße",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Berlin Schildhornstraße",
+                  "attribute_value": 0,
+                  "value": 12796
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "August",
+          "children": [
+            {
+              "name": "Berlin Frankfurter Allee",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Berlin Frankfurter Allee",
+                  "attribute_value": 0,
+                  "value": 4297
+                }
+              ]
+            },
+            {
+              "name": "Berlin Schildhornstraße",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Berlin Schildhornstraße",
+                  "attribute_value": 0,
+                  "value": 9857
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "September",
+          "children": [
+            {
+              "name": "Berlin Frankfurter Allee",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Berlin Frankfurter Allee",
+                  "attribute_value": 0,
+                  "value": 13062
+                }
+              ]
+            },
+            {
+              "name": "Berlin Schildhornstraße",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Berlin Schildhornstraße",
+                  "attribute_value": 0,
+                  "value": 1598
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "October",
+          "children": [
+            {
+              "name": "Berlin Frankfurter Allee",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Berlin Frankfurter Allee",
+                  "attribute_value": 1,
+                  "value": 14484
+                }
+              ]
+            },
+            {
+              "name": "Berlin Schildhornstraße",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Berlin Schildhornstraße",
+                  "attribute_value": 1,
+                  "value": 14167
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "November",
+          "children": [
+            {
+              "name": "Berlin Frankfurter Allee",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Berlin Frankfurter Allee",
+                  "attribute_value": 0,
+                  "value": 10718
+                }
+              ]
+            },
+            {
+              "name": "Berlin Schildhornstraße",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Berlin Schildhornstraße",
+                  "attribute_value": 0,
+                  "value": 12683
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "December",
+          "children": [
+            {
+              "name": "Berlin Frankfurter Allee",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Berlin Frankfurter Allee",
+                  "attribute_value": 0,
+                  "value": 8430
+                }
+              ]
+            },
+            {
+              "name": "Berlin Schildhornstraße",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Berlin Schildhornstraße",
+                  "attribute_value": 0,
+                  "value": 4579
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Fine dust (PM10)",
+      "children": [
+        {
+          "name": "January",
+          "children": [
+            {
+              "name": "Berlin Buch",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Berlin Buch",
+                  "attribute_value": 14.096774193548388,
+                  "value": 6937
+                }
+              ]
+            },
+            {
+              "name": "Berlin Frankfurter Allee",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Berlin Frankfurter Allee",
+                  "attribute_value": 20.06451612903226,
+                  "value": 10472
+                }
+              ]
+            },
+            {
+              "name": "Berlin Friedrichshagen",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Berlin Friedrichshagen",
+                  "attribute_value": 14.290322580645162,
+                  "value": 14012
+                }
+              ]
+            },
+            {
+              "name": "Berlin Schildhornstraße",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Berlin Schildhornstraße",
+                  "attribute_value": 19.074074074074073,
+                  "value": 1593
+                }
+              ]
+            },
+            {
+              "name": "Berlin Wedding",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Berlin Wedding",
+                  "attribute_value": 13.870967741935484,
+                  "value": 1441
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "February",
+          "children": [
+            {
+              "name": "Berlin Buch",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Berlin Buch",
+                  "attribute_value": 10.178571428571429,
+                  "value": 13869
+                }
+              ]
+            },
+            {
+              "name": "Berlin Frankfurter Allee",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Berlin Frankfurter Allee",
+                  "attribute_value": 15.321428571428571,
+                  "value": 2407
+                }
+              ]
+            },
+            {
+              "name": "Berlin Friedrichshagen",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Berlin Friedrichshagen",
+                  "attribute_value": 9.5,
+                  "value": 14020
+                }
+              ]
+            },
+            {
+              "name": "Berlin Schildhornstraße",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Berlin Schildhornstraße",
+                  "attribute_value": 14,
+                  "value": 13022
+                }
+              ]
+            },
+            {
+              "name": "Berlin Wedding",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Berlin Wedding",
+                  "attribute_value": 11.703703703703704,
+                  "value": 8510
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "March",
+          "children": [
+            {
+              "name": "Berlin Buch",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Berlin Buch",
+                  "attribute_value": 21.612903225806452,
+                  "value": 13958
+                }
+              ]
+            },
+            {
+              "name": "Berlin Frankfurter Allee",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Berlin Frankfurter Allee",
+                  "attribute_value": 32.806451612903224,
+                  "value": 5431
+                }
+              ]
+            },
+            {
+              "name": "Berlin Friedrichshagen",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Berlin Friedrichshagen",
+                  "attribute_value": 23.096774193548388,
+                  "value": 10203
+                }
+              ]
+            },
+            {
+              "name": "Berlin Schildhornstraße",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Berlin Schildhornstraße",
+                  "attribute_value": 30.387096774193548,
+                  "value": 11524
+                }
+              ]
+            },
+            {
+              "name": "Berlin Wedding",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Berlin Wedding",
+                  "attribute_value": 27.419354838709676,
+                  "value": 10365
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "April",
+          "children": [
+            {
+              "name": "Berlin Buch",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Berlin Buch",
+                  "attribute_value": 11.833333333333334,
+                  "value": 4831
+                }
+              ]
+            },
+            {
+              "name": "Berlin Frankfurter Allee",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Berlin Frankfurter Allee",
+                  "attribute_value": 18.333333333333332,
+                  "value": 6059
+                }
+              ]
+            },
+            {
+              "name": "Berlin Friedrichshagen",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Berlin Friedrichshagen",
+                  "attribute_value": 12.533333333333333,
+                  "value": 10814
+                }
+              ]
+            },
+            {
+              "name": "Berlin Schildhornstraße",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Berlin Schildhornstraße",
+                  "attribute_value": 17.266666666666666,
+                  "value": 3091
+                }
+              ]
+            },
+            {
+              "name": "Berlin Wedding",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Berlin Wedding",
+                  "attribute_value": 14.866666666666667,
+                  "value": 2708
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "May",
+          "children": [
+            {
+              "name": "Berlin Buch",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Berlin Buch",
+                  "attribute_value": 13.129032258064516,
+                  "value": 11238
+                }
+              ]
+            },
+            {
+              "name": "Berlin Frankfurter Allee",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Berlin Frankfurter Allee",
+                  "attribute_value": 20.483870967741936,
+                  "value": 3572
+                }
+              ]
+            },
+            {
+              "name": "Berlin Friedrichshagen",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Berlin Friedrichshagen",
+                  "attribute_value": 13.741935483870968,
+                  "value": 5331
+                }
+              ]
+            },
+            {
+              "name": "Berlin Schildhornstraße",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Berlin Schildhornstraße",
+                  "attribute_value": 18.741935483870968,
+                  "value": 7491
+                }
+              ]
+            },
+            {
+              "name": "Berlin Wedding",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Berlin Wedding",
+                  "attribute_value": 16.483870967741936,
+                  "value": 6237
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "June",
+          "children": [
+            {
+              "name": "Berlin Buch",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Berlin Buch",
+                  "attribute_value": 13.4,
+                  "value": 10759
+                }
+              ]
+            },
+            {
+              "name": "Berlin Frankfurter Allee",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Berlin Frankfurter Allee",
+                  "attribute_value": 18.766666666666666,
+                  "value": 3018
+                }
+              ]
+            },
+            {
+              "name": "Berlin Friedrichshagen",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Berlin Friedrichshagen",
+                  "attribute_value": 13.1,
+                  "value": 3695
+                }
+              ]
+            },
+            {
+              "name": "Berlin Schildhornstraße",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Berlin Schildhornstraße",
+                  "attribute_value": 16.862068965517242,
+                  "value": 8571
+                }
+              ]
+            },
+            {
+              "name": "Berlin Wedding",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Berlin Wedding",
+                  "attribute_value": 15.166666666666666,
+                  "value": 2132
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "July",
+          "children": [
+            {
+              "name": "Berlin Buch",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Berlin Buch",
+                  "attribute_value": 11.03225806451613,
+                  "value": 1045
+                }
+              ]
+            },
+            {
+              "name": "Berlin Frankfurter Allee",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Berlin Frankfurter Allee",
+                  "attribute_value": 17.258064516129032,
+                  "value": 10425
+                }
+              ]
+            },
+            {
+              "name": "Berlin Friedrichshagen",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Berlin Friedrichshagen",
+                  "attribute_value": 11.709677419354838,
+                  "value": 7228
+                }
+              ]
+            },
+            {
+              "name": "Berlin Schildhornstraße",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Berlin Schildhornstraße",
+                  "attribute_value": 16.833333333333332,
+                  "value": 2560
+                }
+              ]
+            },
+            {
+              "name": "Berlin Wedding",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Berlin Wedding",
+                  "attribute_value": 12.193548387096774,
+                  "value": 5641
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "August",
+          "children": [
+            {
+              "name": "Berlin Buch",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Berlin Buch",
+                  "attribute_value": 15.225806451612904,
+                  "value": 12169
+                }
+              ]
+            },
+            {
+              "name": "Berlin Frankfurter Allee",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Berlin Frankfurter Allee",
+                  "attribute_value": 23.193548387096776,
+                  "value": 4507
+                }
+              ]
+            },
+            {
+              "name": "Berlin Friedrichshagen",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Berlin Friedrichshagen",
+                  "attribute_value": 15.580645161290322,
+                  "value": 3178
+                }
+              ]
+            },
+            {
+              "name": "Berlin Schildhornstraße",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Berlin Schildhornstraße",
+                  "attribute_value": 22.06451612903226,
+                  "value": 11869
+                }
+              ]
+            },
+            {
+              "name": "Berlin Wedding",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Berlin Wedding",
+                  "attribute_value": 14.774193548387096,
+                  "value": 1787
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "September",
+          "children": [
+            {
+              "name": "Berlin Buch",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Berlin Buch",
+                  "attribute_value": 12.666666666666666,
+                  "value": 2731
+                }
+              ]
+            },
+            {
+              "name": "Berlin Frankfurter Allee",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Berlin Frankfurter Allee",
+                  "attribute_value": 16.8,
+                  "value": 1110
+                }
+              ]
+            },
+            {
+              "name": "Berlin Friedrichshagen",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Berlin Friedrichshagen",
+                  "attribute_value": 11.033333333333333,
+                  "value": 12195
+                }
+              ]
+            },
+            {
+              "name": "Berlin Schildhornstraße",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Berlin Schildhornstraße",
+                  "attribute_value": 14.466666666666667,
+                  "value": 7456
+                }
+              ]
+            },
+            {
+              "name": "Berlin Wedding",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Berlin Wedding",
+                  "attribute_value": 11.966666666666667,
+                  "value": 9075
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "October",
+          "children": [
+            {
+              "name": "Berlin Buch",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Berlin Buch",
+                  "attribute_value": 19.032258064516128,
+                  "value": 13271
+                }
+              ]
+            },
+            {
+              "name": "Berlin Frankfurter Allee",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Berlin Frankfurter Allee",
+                  "attribute_value": 23.580645161290324,
+                  "value": 10114
+                }
+              ]
+            },
+            {
+              "name": "Berlin Friedrichshagen",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Berlin Friedrichshagen",
+                  "attribute_value": 15.535714285714286,
+                  "value": 8837
+                }
+              ]
+            },
+            {
+              "name": "Berlin Schildhornstraße",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Berlin Schildhornstraße",
+                  "attribute_value": 18.774193548387096,
+                  "value": 4527
+                }
+              ]
+            },
+            {
+              "name": "Berlin Wedding",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Berlin Wedding",
+                  "attribute_value": 17.580645161290324,
+                  "value": 10177
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "November",
+          "children": [
+            {
+              "name": "Berlin Buch",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Berlin Buch",
+                  "attribute_value": 21.833333333333332,
+                  "value": 13853
+                }
+              ]
+            },
+            {
+              "name": "Berlin Frankfurter Allee",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Berlin Frankfurter Allee",
+                  "attribute_value": 27.7,
+                  "value": 1454
+                }
+              ]
+            },
+            {
+              "name": "Berlin Friedrichshagen",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Berlin Friedrichshagen",
+                  "attribute_value": 18.966666666666665,
+                  "value": 14641
+                }
+              ]
+            },
+            {
+              "name": "Berlin Schildhornstraße",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Berlin Schildhornstraße",
+                  "attribute_value": 24.266666666666666,
+                  "value": 3028
+                }
+              ]
+            },
+            {
+              "name": "Berlin Wedding",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Berlin Wedding",
+                  "attribute_value": 21.6,
+                  "value": 7275
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "December",
+          "children": [
+            {
+              "name": "Berlin Buch",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Berlin Buch",
+                  "attribute_value": 20.806451612903224,
+                  "value": 14652
+                }
+              ]
+            },
+            {
+              "name": "Berlin Frankfurter Allee",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Berlin Frankfurter Allee",
+                  "attribute_value": 26.516129032258064,
+                  "value": 2324
+                }
+              ]
+            },
+            {
+              "name": "Berlin Friedrichshagen",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Berlin Friedrichshagen",
+                  "attribute_value": 18.903225806451612,
+                  "value": 5428
+                }
+              ]
+            },
+            {
+              "name": "Berlin Schildhornstraße",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Berlin Schildhornstraße",
+                  "attribute_value": 23.483870967741936,
+                  "value": 11110
+                }
+              ]
+            },
+            {
+              "name": "Berlin Wedding",
+              "children": [
+                {
+                  "name": "monthly average (µg/m³)",
+                  "station": "Berlin Wedding",
+                  "attribute_value": 20.677419354838708,
+                  "value": 1040
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Nitrogen dioxide (NO2)",
+      "children": [
+        {
+          "name": "January",
+          "children": [
+            {
+              "name": "Berlin Buch",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Berlin Buch",
+                  "attribute_value": 53,
+                  "value": 7655
+                }
+              ]
+            },
+            {
+              "name": "Berlin Frankfurter Allee",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Berlin Frankfurter Allee",
+                  "attribute_value": 68,
+                  "value": 13583
+                }
+              ]
+            },
+            {
+              "name": "Berlin Friedrichshagen",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Berlin Friedrichshagen",
+                  "attribute_value": 52,
+                  "value": 12968
+                }
+              ]
+            },
+            {
+              "name": "Berlin Schildhornstraße",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Berlin Schildhornstraße",
+                  "attribute_value": 78,
+                  "value": 5500
+                }
+              ]
+            },
+            {
+              "name": "Berlin Wedding",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Berlin Wedding",
+                  "attribute_value": 61,
+                  "value": 9122
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "February",
+          "children": [
+            {
+              "name": "Berlin Buch",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Berlin Buch",
+                  "attribute_value": 43,
+                  "value": 3664
+                }
+              ]
+            },
+            {
+              "name": "Berlin Frankfurter Allee",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Berlin Frankfurter Allee",
+                  "attribute_value": 71,
+                  "value": 14172
+                }
+              ]
+            },
+            {
+              "name": "Berlin Friedrichshagen",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Berlin Friedrichshagen",
+                  "attribute_value": 26,
+                  "value": 10693
+                }
+              ]
+            },
+            {
+              "name": "Berlin Schildhornstraße",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Berlin Schildhornstraße",
+                  "attribute_value": 73,
+                  "value": 4463
+                }
+              ]
+            },
+            {
+              "name": "Berlin Wedding",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Berlin Wedding",
+                  "attribute_value": 48,
+                  "value": 10748
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "March",
+          "children": [
+            {
+              "name": "Berlin Buch",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Berlin Buch",
+                  "attribute_value": 56,
+                  "value": 3071
+                }
+              ]
+            },
+            {
+              "name": "Berlin Frankfurter Allee",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Berlin Frankfurter Allee",
+                  "attribute_value": 131,
+                  "value": 11342
+                }
+              ]
+            },
+            {
+              "name": "Berlin Friedrichshagen",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Berlin Friedrichshagen",
+                  "attribute_value": 52,
+                  "value": 10346
+                }
+              ]
+            },
+            {
+              "name": "Berlin Schildhornstraße",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Berlin Schildhornstraße",
+                  "attribute_value": 132,
+                  "value": 3600
+                }
+              ]
+            },
+            {
+              "name": "Berlin Wedding",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Berlin Wedding",
+                  "attribute_value": 112,
+                  "value": 2495
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "April",
+          "children": [
+            {
+              "name": "Berlin Buch",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Berlin Buch",
+                  "attribute_value": 42,
+                  "value": 14591
+                }
+              ]
+            },
+            {
+              "name": "Berlin Frankfurter Allee",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Berlin Frankfurter Allee",
+                  "attribute_value": 107,
+                  "value": 4711
+                }
+              ]
+            },
+            {
+              "name": "Berlin Friedrichshagen",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Berlin Friedrichshagen",
+                  "attribute_value": 25,
+                  "value": 11747
+                }
+              ]
+            },
+            {
+              "name": "Berlin Schildhornstraße",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Berlin Schildhornstraße",
+                  "attribute_value": 128,
+                  "value": 3378
+                }
+              ]
+            },
+            {
+              "name": "Berlin Wedding",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Berlin Wedding",
+                  "attribute_value": 104,
+                  "value": 14333
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "May",
+          "children": [
+            {
+              "name": "Berlin Buch",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Berlin Buch",
+                  "attribute_value": 30,
+                  "value": 13389
+                }
+              ]
+            },
+            {
+              "name": "Berlin Frankfurter Allee",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Berlin Frankfurter Allee",
+                  "attribute_value": 73,
+                  "value": 1476
+                }
+              ]
+            },
+            {
+              "name": "Berlin Friedrichshagen",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Berlin Friedrichshagen",
+                  "attribute_value": 39,
+                  "value": 9049
+                }
+              ]
+            },
+            {
+              "name": "Berlin Schildhornstraße",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Berlin Schildhornstraße",
+                  "attribute_value": 88,
+                  "value": 10727
+                }
+              ]
+            },
+            {
+              "name": "Berlin Wedding",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Berlin Wedding",
+                  "attribute_value": 72,
+                  "value": 8252
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "June",
+          "children": [
+            {
+              "name": "Berlin Buch",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Berlin Buch",
+                  "attribute_value": 28,
+                  "value": 5078
+                }
+              ]
+            },
+            {
+              "name": "Berlin Frankfurter Allee",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Berlin Frankfurter Allee",
+                  "attribute_value": 61,
+                  "value": 1328
+                }
+              ]
+            },
+            {
+              "name": "Berlin Friedrichshagen",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Berlin Friedrichshagen",
+                  "attribute_value": 25,
+                  "value": 14408
+                }
+              ]
+            },
+            {
+              "name": "Berlin Schildhornstraße",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Berlin Schildhornstraße",
+                  "attribute_value": 84,
+                  "value": 4275
+                }
+              ]
+            },
+            {
+              "name": "Berlin Wedding",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Berlin Wedding",
+                  "attribute_value": 53,
+                  "value": 9490
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "July",
+          "children": [
+            {
+              "name": "Berlin Buch",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Berlin Buch",
+                  "attribute_value": 31,
+                  "value": 3510
+                }
+              ]
+            },
+            {
+              "name": "Berlin Frankfurter Allee",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Berlin Frankfurter Allee",
+                  "attribute_value": 59,
+                  "value": 13656
+                }
+              ]
+            },
+            {
+              "name": "Berlin Friedrichshagen",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Berlin Friedrichshagen",
+                  "attribute_value": 23,
+                  "value": 11847
+                }
+              ]
+            },
+            {
+              "name": "Berlin Schildhornstraße",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Berlin Schildhornstraße",
+                  "attribute_value": 112,
+                  "value": 10187
+                }
+              ]
+            },
+            {
+              "name": "Berlin Wedding",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Berlin Wedding",
+                  "attribute_value": 55,
+                  "value": 14716
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "August",
+          "children": [
+            {
+              "name": "Berlin Buch",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Berlin Buch",
+                  "attribute_value": 47,
+                  "value": 11505
+                }
+              ]
+            },
+            {
+              "name": "Berlin Frankfurter Allee",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Berlin Frankfurter Allee",
+                  "attribute_value": 92,
+                  "value": 12775
+                }
+              ]
+            },
+            {
+              "name": "Berlin Friedrichshagen",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Berlin Friedrichshagen",
+                  "attribute_value": 22,
+                  "value": 14690
+                }
+              ]
+            },
+            {
+              "name": "Berlin Schildhornstraße",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Berlin Schildhornstraße",
+                  "attribute_value": 108,
+                  "value": 13191
+                }
+              ]
+            },
+            {
+              "name": "Berlin Wedding",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Berlin Wedding",
+                  "attribute_value": 87,
+                  "value": 6509
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "September",
+          "children": [
+            {
+              "name": "Berlin Buch",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Berlin Buch",
+                  "attribute_value": 27,
+                  "value": 4152
+                }
+              ]
+            },
+            {
+              "name": "Berlin Frankfurter Allee",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Berlin Frankfurter Allee",
+                  "attribute_value": 69,
+                  "value": 1431
+                }
+              ]
+            },
+            {
+              "name": "Berlin Friedrichshagen",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Berlin Friedrichshagen",
+                  "attribute_value": 27,
+                  "value": 14466
+                }
+              ]
+            },
+            {
+              "name": "Berlin Schildhornstraße",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Berlin Schildhornstraße",
+                  "attribute_value": 72,
+                  "value": 7854
+                }
+              ]
+            },
+            {
+              "name": "Berlin Wedding",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Berlin Wedding",
+                  "attribute_value": 56,
+                  "value": 12434
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "October",
+          "children": [
+            {
+              "name": "Berlin Buch",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Berlin Buch",
+                  "attribute_value": 37,
+                  "value": 3921
+                }
+              ]
+            },
+            {
+              "name": "Berlin Frankfurter Allee",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Berlin Frankfurter Allee",
+                  "attribute_value": 72,
+                  "value": 5446
+                }
+              ]
+            },
+            {
+              "name": "Berlin Friedrichshagen",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Berlin Friedrichshagen",
+                  "attribute_value": 38,
+                  "value": 4171
+                }
+              ]
+            },
+            {
+              "name": "Berlin Schildhornstraße",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Berlin Schildhornstraße",
+                  "attribute_value": 77,
+                  "value": 2841
+                }
+              ]
+            },
+            {
+              "name": "Berlin Wedding",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Berlin Wedding",
+                  "attribute_value": 60,
+                  "value": 14373
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "November",
+          "children": [
+            {
+              "name": "Berlin Buch",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Berlin Buch",
+                  "attribute_value": 42,
+                  "value": 7335
+                }
+              ]
+            },
+            {
+              "name": "Berlin Frankfurter Allee",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Berlin Frankfurter Allee",
+                  "attribute_value": 70,
+                  "value": 3079
+                }
+              ]
+            },
+            {
+              "name": "Berlin Friedrichshagen",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Berlin Friedrichshagen",
+                  "attribute_value": 39,
+                  "value": 7322
+                }
+              ]
+            },
+            {
+              "name": "Berlin Schildhornstraße",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Berlin Schildhornstraße",
+                  "attribute_value": 70,
+                  "value": 13780
+                }
+              ]
+            },
+            {
+              "name": "Berlin Wedding",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Berlin Wedding",
+                  "attribute_value": 59,
+                  "value": 8841
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "December",
+          "children": [
+            {
+              "name": "Berlin Buch",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Berlin Buch",
+                  "attribute_value": 47,
+                  "value": 8331
+                }
+              ]
+            },
+            {
+              "name": "Berlin Frankfurter Allee",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Berlin Frankfurter Allee",
+                  "attribute_value": 63,
+                  "value": 13935
+                }
+              ]
+            },
+            {
+              "name": "Berlin Friedrichshagen",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Berlin Friedrichshagen",
+                  "attribute_value": 41,
+                  "value": 4736
+                }
+              ]
+            },
+            {
+              "name": "Berlin Schildhornstraße",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Berlin Schildhornstraße",
+                  "attribute_value": 68,
+                  "value": 8256
+                }
+              ]
+            },
+            {
+              "name": "Berlin Wedding",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Berlin Wedding",
+                  "attribute_value": 53,
+                  "value": 9231
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ozone (O3)",
+      "children": [
+        {
+          "name": "January",
+          "children": [
+            {
+              "name": "Berlin Buch",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Berlin Buch",
+                  "attribute_value": 82,
+                  "value": 4364
+                }
+              ]
+            },
+            {
+              "name": "Berlin Frankfurter Allee",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Berlin Frankfurter Allee",
+                  "attribute_value": 81,
+                  "value": 9481
+                }
+              ]
+            },
+            {
+              "name": "Berlin Friedrichshagen",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Berlin Friedrichshagen",
+                  "attribute_value": 83,
+                  "value": 9996
+                }
+              ]
+            },
+            {
+              "name": "Berlin Wedding",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Berlin Wedding",
+                  "attribute_value": 77,
+                  "value": 14981
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "February",
+          "children": [
+            {
+              "name": "Berlin Buch",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Berlin Buch",
+                  "attribute_value": 89,
+                  "value": 7132
+                }
+              ]
+            },
+            {
+              "name": "Berlin Frankfurter Allee",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Berlin Frankfurter Allee",
+                  "attribute_value": 91,
+                  "value": 8744
+                }
+              ]
+            },
+            {
+              "name": "Berlin Friedrichshagen",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Berlin Friedrichshagen",
+                  "attribute_value": 95,
+                  "value": 12682
+                }
+              ]
+            },
+            {
+              "name": "Berlin Wedding",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Berlin Wedding",
+                  "attribute_value": 89,
+                  "value": 2256
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "March",
+          "children": [
+            {
+              "name": "Berlin Buch",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Berlin Buch",
+                  "attribute_value": 134,
+                  "value": 8360
+                }
+              ]
+            },
+            {
+              "name": "Berlin Frankfurter Allee",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Berlin Frankfurter Allee",
+                  "attribute_value": 131,
+                  "value": 10421
+                }
+              ]
+            },
+            {
+              "name": "Berlin Friedrichshagen",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Berlin Friedrichshagen",
+                  "attribute_value": 126,
+                  "value": 12289
+                }
+              ]
+            },
+            {
+              "name": "Berlin Wedding",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Berlin Wedding",
+                  "attribute_value": 129,
+                  "value": 9631
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "April",
+          "children": [
+            {
+              "name": "Berlin Buch",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Berlin Buch",
+                  "attribute_value": 116,
+                  "value": 5984
+                }
+              ]
+            },
+            {
+              "name": "Berlin Frankfurter Allee",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Berlin Frankfurter Allee",
+                  "attribute_value": 101,
+                  "value": 1238
+                }
+              ]
+            },
+            {
+              "name": "Berlin Friedrichshagen",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Berlin Friedrichshagen",
+                  "attribute_value": 114,
+                  "value": 4046
+                }
+              ]
+            },
+            {
+              "name": "Berlin Wedding",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Berlin Wedding",
+                  "attribute_value": 105,
+                  "value": 6426
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "May",
+          "children": [
+            {
+              "name": "Berlin Buch",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Berlin Buch",
+                  "attribute_value": 121,
+                  "value": 14353
+                }
+              ]
+            },
+            {
+              "name": "Berlin Frankfurter Allee",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Berlin Frankfurter Allee",
+                  "attribute_value": 110,
+                  "value": 2102
+                }
+              ]
+            },
+            {
+              "name": "Berlin Friedrichshagen",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Berlin Friedrichshagen",
+                  "attribute_value": 132,
+                  "value": 7390
+                }
+              ]
+            },
+            {
+              "name": "Berlin Wedding",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Berlin Wedding",
+                  "attribute_value": 121,
+                  "value": 7661
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "June",
+          "children": [
+            {
+              "name": "Berlin Buch",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Berlin Buch",
+                  "attribute_value": 145,
+                  "value": 5403
+                }
+              ]
+            },
+            {
+              "name": "Berlin Frankfurter Allee",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Berlin Frankfurter Allee",
+                  "attribute_value": 140,
+                  "value": 8074
+                }
+              ]
+            },
+            {
+              "name": "Berlin Friedrichshagen",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Berlin Friedrichshagen",
+                  "attribute_value": 155,
+                  "value": 8781
+                }
+              ]
+            },
+            {
+              "name": "Berlin Wedding",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Berlin Wedding",
+                  "attribute_value": 146,
+                  "value": 2985
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "July",
+          "children": [
+            {
+              "name": "Berlin Buch",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Berlin Buch",
+                  "attribute_value": 146,
+                  "value": 13344
+                }
+              ]
+            },
+            {
+              "name": "Berlin Frankfurter Allee",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Berlin Frankfurter Allee",
+                  "attribute_value": 144,
+                  "value": 9484
+                }
+              ]
+            },
+            {
+              "name": "Berlin Friedrichshagen",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Berlin Friedrichshagen",
+                  "attribute_value": 180,
+                  "value": 7827
+                }
+              ]
+            },
+            {
+              "name": "Berlin Wedding",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Berlin Wedding",
+                  "attribute_value": 167,
+                  "value": 6834
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "August",
+          "children": [
+            {
+              "name": "Berlin Buch",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Berlin Buch",
+                  "attribute_value": 166,
+                  "value": 4915
+                }
+              ]
+            },
+            {
+              "name": "Berlin Frankfurter Allee",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Berlin Frankfurter Allee",
+                  "attribute_value": 162,
+                  "value": 7626
+                }
+              ]
+            },
+            {
+              "name": "Berlin Friedrichshagen",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Berlin Friedrichshagen",
+                  "attribute_value": 166,
+                  "value": 6533
+                }
+              ]
+            },
+            {
+              "name": "Berlin Wedding",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Berlin Wedding",
+                  "attribute_value": 192,
+                  "value": 13099
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "September",
+          "children": [
+            {
+              "name": "Berlin Buch",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Berlin Buch",
+                  "attribute_value": 78,
+                  "value": 2815
+                }
+              ]
+            },
+            {
+              "name": "Berlin Frankfurter Allee",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Berlin Frankfurter Allee",
+                  "attribute_value": 85,
+                  "value": 12834
+                }
+              ]
+            },
+            {
+              "name": "Berlin Friedrichshagen",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Berlin Friedrichshagen",
+                  "attribute_value": 111,
+                  "value": 12573
+                }
+              ]
+            },
+            {
+              "name": "Berlin Wedding",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Berlin Wedding",
+                  "attribute_value": 98,
+                  "value": 14225
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "October",
+          "children": [
+            {
+              "name": "Berlin Buch",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Berlin Buch",
+                  "attribute_value": 63,
+                  "value": 2162
+                }
+              ]
+            },
+            {
+              "name": "Berlin Frankfurter Allee",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Berlin Frankfurter Allee",
+                  "attribute_value": 58,
+                  "value": 12674
+                }
+              ]
+            },
+            {
+              "name": "Berlin Friedrichshagen",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Berlin Friedrichshagen",
+                  "attribute_value": 81,
+                  "value": 11302
+                }
+              ]
+            },
+            {
+              "name": "Berlin Wedding",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Berlin Wedding",
+                  "attribute_value": 63,
+                  "value": 12916
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "November",
+          "children": [
+            {
+              "name": "Berlin Buch",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Berlin Buch",
+                  "attribute_value": 54,
+                  "value": 8222
+                }
+              ]
+            },
+            {
+              "name": "Berlin Frankfurter Allee",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Berlin Frankfurter Allee",
+                  "attribute_value": 45,
+                  "value": 2443
+                }
+              ]
+            },
+            {
+              "name": "Berlin Friedrichshagen",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Berlin Friedrichshagen",
+                  "attribute_value": 67,
+                  "value": 10322
+                }
+              ]
+            },
+            {
+              "name": "Berlin Wedding",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Berlin Wedding",
+                  "attribute_value": 55,
+                  "value": 8434
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "December",
+          "children": [
+            {
+              "name": "Berlin Buch",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Berlin Buch",
+                  "attribute_value": 60,
+                  "value": 1717
+                }
+              ]
+            },
+            {
+              "name": "Berlin Frankfurter Allee",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Berlin Frankfurter Allee",
+                  "attribute_value": 62,
+                  "value": 4896
+                }
+              ]
+            },
+            {
+              "name": "Berlin Friedrichshagen",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Berlin Friedrichshagen",
+                  "attribute_value": 70,
+                  "value": 3581
+                }
+              ]
+            },
+            {
+              "name": "Berlin Wedding",
+              "children": [
+                {
+                  "name": "monthly maximum (µg/m³)",
+                  "station": "Berlin Wedding",
+                  "attribute_value": 64,
+                  "value": 6250
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

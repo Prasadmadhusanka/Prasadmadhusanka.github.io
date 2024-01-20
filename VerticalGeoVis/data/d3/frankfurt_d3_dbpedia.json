@@ -1,0 +1,1530 @@
+{
+  "name": "Frankfurt am Main",
+  "children": [
+    {
+      "name": "Weather",
+      "children": [
+        {
+          "name": "January",
+          "children": [
+            {
+              "name": "Recorded High temperature in January",
+              "children": [
+                {
+                  "name": "Recorded High temperature in January",
+                  "attribute_value": [
+                    "15.9"
+                  ],
+                  "value": 4462
+                }
+              ]
+            },
+            {
+              "name": "Mean Temperature in January",
+              "children": [
+                {
+                  "name": "Mean Temperature in January",
+                  "attribute_value": [
+                    "1.6",
+                    "3.1"
+                  ],
+                  "value": 2776
+                }
+              ]
+            },
+            {
+              "name": "High Temperature in January",
+              "children": [
+                {
+                  "name": "High Temperature in January",
+                  "attribute_value": [
+                    "4.2",
+                    "5.3"
+                  ],
+                  "value": 3148
+                }
+              ]
+            },
+            {
+              "name": "Low Temperature in January",
+              "children": [
+                {
+                  "name": "Low Temperature in January",
+                  "attribute_value": [
+                    "-1.1",
+                    "0.7"
+                  ],
+                  "value": 10175
+                }
+              ]
+            },
+            {
+              "name": "Recorded Low temperature in January",
+              "children": [
+                {
+                  "name": "Recorded Low temperature in January",
+                  "attribute_value": [
+                    "-21.6"
+                  ],
+                  "value": 1020
+                }
+              ]
+            },
+            {
+              "name": "Precipitation in January (mm)",
+              "children": [
+                {
+                  "name": "Precipitation in January (mm)",
+                  "attribute_value": [
+                    "45",
+                    "42.4"
+                  ],
+                  "value": 11194
+                }
+              ]
+            },
+            {
+              "name": "Average sunlight for January",
+              "children": [
+                {
+                  "name": "Average sunlight for January",
+                  "attribute_value": [
+                    "50",
+                    "44"
+                  ],
+                  "value": 2167
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "February",
+          "children": [
+            {
+              "name": "Recorded High temperature in February",
+              "children": [
+                {
+                  "name": "Recorded High temperature in February",
+                  "attribute_value": [
+                    "19.1"
+                  ],
+                  "value": 7176
+                }
+              ]
+            },
+            {
+              "name": "Mean Temperature in February",
+              "children": [
+                {
+                  "name": "Mean Temperature in February",
+                  "attribute_value": [
+                    "2.4",
+                    "3.5"
+                  ],
+                  "value": 1077
+                }
+              ]
+            },
+            {
+              "name": "High Temperature in February",
+              "children": [
+                {
+                  "name": "High Temperature in February",
+                  "attribute_value": [
+                    "5.9",
+                    "6.8"
+                  ],
+                  "value": 11616
+                }
+              ]
+            },
+            {
+              "name": "Low Temperature in February",
+              "children": [
+                {
+                  "name": "Low Temperature in February",
+                  "attribute_value": [
+                    "-1.1",
+                    "0.1"
+                  ],
+                  "value": 2802
+                }
+              ]
+            },
+            {
+              "name": "Recorded Low temperature in February",
+              "children": [
+                {
+                  "name": "Recorded Low temperature in February",
+                  "attribute_value": [
+                    "-19.6"
+                  ],
+                  "value": 12707
+                }
+              ]
+            },
+            {
+              "name": "Precipitation in February (mm)",
+              "children": [
+                {
+                  "name": "Precipitation in February (mm)",
+                  "attribute_value": [
+                    "41",
+                    "29.7"
+                  ],
+                  "value": 6023
+                }
+              ]
+            },
+            {
+              "name": "Average sunlight for February",
+              "children": [
+                {
+                  "name": "Average sunlight for February",
+                  "attribute_value": [
+                    "80",
+                    "86"
+                  ],
+                  "value": 2676
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "March",
+          "children": [
+            {
+              "name": "Recorded High temperature in March",
+              "children": [
+                {
+                  "name": "Recorded High temperature in March",
+                  "attribute_value": [
+                    "24.7"
+                  ],
+                  "value": 5265
+                }
+              ]
+            },
+            {
+              "name": "Mean Temperature in March",
+              "children": [
+                {
+                  "name": "Mean Temperature in March",
+                  "attribute_value": [
+                    "6.4",
+                    "7.2"
+                  ],
+                  "value": 13146
+                }
+              ]
+            },
+            {
+              "name": "High Temperature in March",
+              "children": [
+                {
+                  "name": "High Temperature in March",
+                  "attribute_value": [
+                    "10.7",
+                    "11.8"
+                  ],
+                  "value": 2681
+                }
+              ]
+            },
+            {
+              "name": "Low Temperature in March",
+              "children": [
+                {
+                  "name": "Low Temperature in March",
+                  "attribute_value": [
+                    "2.1",
+                    "2.4"
+                  ],
+                  "value": 14128
+                }
+              ]
+            },
+            {
+              "name": "Recorded Low temperature in March",
+              "children": [
+                {
+                  "name": "Recorded Low temperature in March",
+                  "attribute_value": [
+                    "-13"
+                  ],
+                  "value": 13420
+                }
+              ]
+            },
+            {
+              "name": "Precipitation in March (mm)",
+              "children": [
+                {
+                  "name": "Precipitation in March (mm)",
+                  "attribute_value": [
+                    "48",
+                    "24.8"
+                  ],
+                  "value": 8657
+                }
+              ]
+            },
+            {
+              "name": "Average sunlight for March",
+              "children": [
+                {
+                  "name": "Average sunlight for March",
+                  "attribute_value": [
+                    "121",
+                    "153"
+                  ],
+                  "value": 8516
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "April",
+          "children": [
+            {
+              "name": "Recorded High temperature in April",
+              "children": [
+                {
+                  "name": "Recorded High temperature in April",
+                  "attribute_value": [
+                    "30.3"
+                  ],
+                  "value": 14671
+                }
+              ]
+            },
+            {
+              "name": "Mean Temperature in April",
+              "children": [
+                {
+                  "name": "Mean Temperature in April",
+                  "attribute_value": [
+                    "10.3",
+                    "11.8"
+                  ],
+                  "value": 7363
+                }
+              ]
+            },
+            {
+              "name": "High Temperature in April",
+              "children": [
+                {
+                  "name": "High Temperature in April",
+                  "attribute_value": [
+                    "15.4",
+                    "17.4"
+                  ],
+                  "value": 14820
+                }
+              ]
+            },
+            {
+              "name": "Low Temperature in April",
+              "children": [
+                {
+                  "name": "Low Temperature in April",
+                  "attribute_value": [
+                    "4.9",
+                    "6.1"
+                  ],
+                  "value": 4118
+                }
+              ]
+            },
+            {
+              "name": "Recorded Low temperature in April",
+              "children": [
+                {
+                  "name": "Recorded Low temperature in April",
+                  "attribute_value": [
+                    "-7.1"
+                  ],
+                  "value": 12941
+                }
+              ]
+            },
+            {
+              "name": "Precipitation in April (mm)",
+              "children": [
+                {
+                  "name": "Precipitation in April (mm)",
+                  "attribute_value": [
+                    "42",
+                    "30.2"
+                  ],
+                  "value": 12780
+                }
+              ]
+            },
+            {
+              "name": "Average sunlight for April",
+              "children": [
+                {
+                  "name": "Average sunlight for April",
+                  "attribute_value": [
+                    "178",
+                    "206"
+                  ],
+                  "value": 13692
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "May",
+          "children": [
+            {
+              "name": "Recorded High temperature in May",
+              "children": [
+                {
+                  "name": "Recorded High temperature in May",
+                  "attribute_value": [
+                    "33.2"
+                  ],
+                  "value": 11363
+                }
+              ]
+            },
+            {
+              "name": "Mean Temperature in May",
+              "children": [
+                {
+                  "name": "Mean Temperature in May",
+                  "attribute_value": [
+                    "14.7",
+                    "15.1"
+                  ],
+                  "value": 2423
+                }
+              ]
+            },
+            {
+              "name": "High Temperature in May",
+              "children": [
+                {
+                  "name": "High Temperature in May",
+                  "attribute_value": [
+                    "20",
+                    "20.6"
+                  ],
+                  "value": 7153
+                }
+              ]
+            },
+            {
+              "name": "Low Temperature in May",
+              "children": [
+                {
+                  "name": "Low Temperature in May",
+                  "attribute_value": [
+                    "9.1",
+                    "9.6"
+                  ],
+                  "value": 12331
+                }
+              ]
+            },
+            {
+              "name": "Recorded Low temperature in May",
+              "children": [
+                {
+                  "name": "Recorded Low temperature in May",
+                  "attribute_value": [
+                    "-2.8"
+                  ],
+                  "value": 5050
+                }
+              ]
+            },
+            {
+              "name": "Precipitation in May (mm)",
+              "children": [
+                {
+                  "name": "Precipitation in May (mm)",
+                  "attribute_value": [
+                    "63",
+                    "51.2"
+                  ],
+                  "value": 7568
+                }
+              ]
+            },
+            {
+              "name": "Average sunlight for May",
+              "children": [
+                {
+                  "name": "Average sunlight for May",
+                  "attribute_value": [
+                    "211",
+                    "231"
+                  ],
+                  "value": 8727
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "June",
+          "children": [
+            {
+              "name": "Recorded High temperature in June",
+              "children": [
+                {
+                  "name": "Recorded High temperature in June",
+                  "attribute_value": [
+                    "39.3"
+                  ],
+                  "value": 10415
+                }
+              ]
+            },
+            {
+              "name": "Mean Temperature in June",
+              "children": [
+                {
+                  "name": "Mean Temperature in June",
+                  "attribute_value": [
+                    "17.8",
+                    "19.1"
+                  ],
+                  "value": 559
+                }
+              ]
+            },
+            {
+              "name": "High Temperature in June",
+              "children": [
+                {
+                  "name": "High Temperature in June",
+                  "attribute_value": [
+                    "23.1",
+                    "24.4"
+                  ],
+                  "value": 6613
+                }
+              ]
+            },
+            {
+              "name": "Low Temperature in June",
+              "children": [
+                {
+                  "name": "Low Temperature in June",
+                  "attribute_value": [
+                    "12.3",
+                    "13.7"
+                  ],
+                  "value": 5791
+                }
+              ]
+            },
+            {
+              "name": "Recorded Low temperature in June",
+              "children": [
+                {
+                  "name": "Recorded Low temperature in June",
+                  "attribute_value": [
+                    "0.1"
+                  ],
+                  "value": 13749
+                }
+              ]
+            },
+            {
+              "name": "Precipitation in June (mm)",
+              "children": [
+                {
+                  "name": "Precipitation in June (mm)",
+                  "attribute_value": [
+                    "58",
+                    "51.9"
+                  ],
+                  "value": 12599
+                }
+              ]
+            },
+            {
+              "name": "Average sunlight for June",
+              "children": [
+                {
+                  "name": "Average sunlight for June",
+                  "attribute_value": [
+                    "219",
+                    "224"
+                  ],
+                  "value": 7701
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "July",
+          "children": [
+            {
+              "name": "Recorded High temperature in July",
+              "children": [
+                {
+                  "name": "Recorded High temperature in July",
+                  "attribute_value": [
+                    "40.2"
+                  ],
+                  "value": 8640
+                }
+              ]
+            },
+            {
+              "name": "Mean Temperature in July",
+              "children": [
+                {
+                  "name": "Mean Temperature in July",
+                  "attribute_value": [
+                    "20",
+                    "21.1"
+                  ],
+                  "value": 1133
+                }
+              ]
+            },
+            {
+              "name": "High Temperature in July",
+              "children": [
+                {
+                  "name": "High Temperature in July",
+                  "attribute_value": [
+                    "25.5",
+                    "26.7"
+                  ],
+                  "value": 8018
+                }
+              ]
+            },
+            {
+              "name": "Low Temperature in July",
+              "children": [
+                {
+                  "name": "Low Temperature in July",
+                  "attribute_value": [
+                    "14.4",
+                    "15.5"
+                  ],
+                  "value": 1096
+                }
+              ]
+            },
+            {
+              "name": "Recorded Low temperature in July",
+              "children": [
+                {
+                  "name": "Recorded Low temperature in July",
+                  "attribute_value": [
+                    "2.8"
+                  ],
+                  "value": 4124
+                }
+              ]
+            },
+            {
+              "name": "Precipitation in July (mm)",
+              "children": [
+                {
+                  "name": "Precipitation in July (mm)",
+                  "attribute_value": [
+                    "65",
+                    "43"
+                  ],
+                  "value": 8773
+                }
+              ]
+            },
+            {
+              "name": "Average sunlight for July",
+              "children": [
+                {
+                  "name": "Average sunlight for July",
+                  "attribute_value": [
+                    "233",
+                    "240"
+                  ],
+                  "value": 6160
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "August",
+          "children": [
+            {
+              "name": "Recorded High temperature in August",
+              "children": [
+                {
+                  "name": "Recorded High temperature in August",
+                  "attribute_value": [
+                    "38.7"
+                  ],
+                  "value": 14162
+                }
+              ]
+            },
+            {
+              "name": "Mean Temperature in August",
+              "children": [
+                {
+                  "name": "Mean Temperature in August",
+                  "attribute_value": [
+                    "19.5",
+                    "20.7"
+                  ],
+                  "value": 6031
+                }
+              ]
+            },
+            {
+              "name": "High Temperature in August",
+              "children": [
+                {
+                  "name": "High Temperature in August",
+                  "attribute_value": [
+                    "25.1",
+                    "26.3"
+                  ],
+                  "value": 12345
+                }
+              ]
+            },
+            {
+              "name": "Low Temperature in August",
+              "children": [
+                {
+                  "name": "Low Temperature in August",
+                  "attribute_value": [
+                    "14",
+                    "15.1"
+                  ],
+                  "value": 12844
+                }
+              ]
+            },
+            {
+              "name": "Recorded Low temperature in August",
+              "children": [
+                {
+                  "name": "Recorded Low temperature in August",
+                  "attribute_value": [
+                    "2.5"
+                  ],
+                  "value": 12188
+                }
+              ]
+            },
+            {
+              "name": "Precipitation in August (mm)",
+              "children": [
+                {
+                  "name": "Precipitation in August (mm)",
+                  "attribute_value": [
+                    "57",
+                    "57.4"
+                  ],
+                  "value": 5330
+                }
+              ]
+            },
+            {
+              "name": "Average sunlight for August",
+              "children": [
+                {
+                  "name": "Average sunlight for August",
+                  "attribute_value": [
+                    "219",
+                    "222"
+                  ],
+                  "value": 13006
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "September",
+          "children": [
+            {
+              "name": "Recorded High temperature in September",
+              "children": [
+                {
+                  "name": "Recorded High temperature in September",
+                  "attribute_value": [
+                    "32.8"
+                  ],
+                  "value": 10624
+                }
+              ]
+            },
+            {
+              "name": "Mean Temperature in September",
+              "children": [
+                {
+                  "name": "Mean Temperature in September",
+                  "attribute_value": [
+                    "15.2",
+                    "16.5"
+                  ],
+                  "value": 3346
+                }
+              ]
+            },
+            {
+              "name": "High Temperature in September",
+              "children": [
+                {
+                  "name": "High Temperature in September",
+                  "attribute_value": [
+                    "20.3",
+                    "21.7"
+                  ],
+                  "value": 9523
+                }
+              ]
+            },
+            {
+              "name": "Low Temperature in September",
+              "children": [
+                {
+                  "name": "Low Temperature in September",
+                  "attribute_value": [
+                    "10.5",
+                    "11.3"
+                  ],
+                  "value": 2275
+                }
+              ]
+            },
+            {
+              "name": "Recorded Low temperature in September",
+              "children": [
+                {
+                  "name": "Recorded Low temperature in September",
+                  "attribute_value": [
+                    "-0.3"
+                  ],
+                  "value": 12449
+                }
+              ]
+            },
+            {
+              "name": "Precipitation in September (mm)",
+              "children": [
+                {
+                  "name": "Precipitation in September (mm)",
+                  "attribute_value": [
+                    "53",
+                    "39.6"
+                  ],
+                  "value": 13622
+                }
+              ]
+            },
+            {
+              "name": "Average sunlight for September",
+              "children": [
+                {
+                  "name": "Average sunlight for September",
+                  "attribute_value": [
+                    "156",
+                    "182"
+                  ],
+                  "value": 3264
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "October",
+          "children": [
+            {
+              "name": "Recorded High temperature in October",
+              "children": [
+                {
+                  "name": "Recorded High temperature in October",
+                  "attribute_value": [
+                    "28"
+                  ],
+                  "value": 12636
+                }
+              ]
+            },
+            {
+              "name": "Mean Temperature in October",
+              "children": [
+                {
+                  "name": "Mean Temperature in October",
+                  "attribute_value": [
+                    "10.4",
+                    "11.7"
+                  ],
+                  "value": 10075
+                }
+              ]
+            },
+            {
+              "name": "High Temperature in October",
+              "children": [
+                {
+                  "name": "High Temperature in October",
+                  "attribute_value": [
+                    "14.6",
+                    "15.5"
+                  ],
+                  "value": 4935
+                }
+              ]
+            },
+            {
+              "name": "Low Temperature in October",
+              "children": [
+                {
+                  "name": "Low Temperature in October",
+                  "attribute_value": [
+                    "6.6",
+                    "7.8"
+                  ],
+                  "value": 7857
+                }
+              ]
+            },
+            {
+              "name": "Recorded Low temperature in October",
+              "children": [
+                {
+                  "name": "Recorded Low temperature in October",
+                  "attribute_value": [
+                    "-6.3"
+                  ],
+                  "value": 1011
+                }
+              ]
+            },
+            {
+              "name": "Precipitation in October (mm)",
+              "children": [
+                {
+                  "name": "Precipitation in October (mm)",
+                  "attribute_value": [
+                    "55",
+                    "36.9"
+                  ],
+                  "value": 9496
+                }
+              ]
+            },
+            {
+              "name": "Average sunlight for October",
+              "children": [
+                {
+                  "name": "Average sunlight for October",
+                  "attribute_value": [
+                    "103",
+                    "100"
+                  ],
+                  "value": 3804
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "November",
+          "children": [
+            {
+              "name": "Recorded High temperature in November",
+              "children": [
+                {
+                  "name": "Recorded High temperature in November",
+                  "attribute_value": [
+                    "19.1"
+                  ],
+                  "value": 13482
+                }
+              ]
+            },
+            {
+              "name": "Mean Temperature in November",
+              "children": [
+                {
+                  "name": "Mean Temperature in November",
+                  "attribute_value": [
+                    "5.6",
+                    "6.7"
+                  ],
+                  "value": 8376
+                }
+              ]
+            },
+            {
+              "name": "High Temperature in November",
+              "children": [
+                {
+                  "name": "High Temperature in November",
+                  "attribute_value": [
+                    "8.4",
+                    "9.3"
+                  ],
+                  "value": 10772
+                }
+              ]
+            },
+            {
+              "name": "Low Temperature in November",
+              "children": [
+                {
+                  "name": "Low Temperature in November",
+                  "attribute_value": [
+                    "2.8",
+                    "4"
+                  ],
+                  "value": 3325
+                }
+              ]
+            },
+            {
+              "name": "Recorded Low temperature in November",
+              "children": [
+                {
+                  "name": "Recorded Low temperature in November",
+                  "attribute_value": [
+                    "-11.5"
+                  ],
+                  "value": 1819
+                }
+              ]
+            },
+            {
+              "name": "Precipitation in November (mm)",
+              "children": [
+                {
+                  "name": "Precipitation in November (mm)",
+                  "attribute_value": [
+                    "49",
+                    "41.1"
+                  ],
+                  "value": 10845
+                }
+              ]
+            },
+            {
+              "name": "Average sunlight for November",
+              "children": [
+                {
+                  "name": "Average sunlight for November",
+                  "attribute_value": [
+                    "51",
+                    "56"
+                  ],
+                  "value": 14154
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "December",
+          "children": [
+            {
+              "name": "Recorded High temperature in December",
+              "children": [
+                {
+                  "name": "Recorded High temperature in December",
+                  "attribute_value": [
+                    "16.3"
+                  ],
+                  "value": 11152
+                }
+              ]
+            },
+            {
+              "name": "Mean Temperature in December",
+              "children": [
+                {
+                  "name": "Mean Temperature in December",
+                  "attribute_value": [
+                    "2.5",
+                    "4.5"
+                  ],
+                  "value": 3835
+                }
+              ]
+            },
+            {
+              "name": "High Temperature in December",
+              "children": [
+                {
+                  "name": "High Temperature in December",
+                  "attribute_value": [
+                    "4.9",
+                    "6.6"
+                  ],
+                  "value": 9727
+                }
+              ]
+            },
+            {
+              "name": "Low Temperature in December",
+              "children": [
+                {
+                  "name": "Low Temperature in December",
+                  "attribute_value": [
+                    "-0.1",
+                    "2.3"
+                  ],
+                  "value": 13732
+                }
+              ]
+            },
+            {
+              "name": "Recorded Low temperature in December",
+              "children": [
+                {
+                  "name": "Recorded Low temperature in December",
+                  "attribute_value": [
+                    "-17"
+                  ],
+                  "value": 4128
+                }
+              ]
+            },
+            {
+              "name": "Precipitation in December (mm)",
+              "children": [
+                {
+                  "name": "Precipitation in December (mm)",
+                  "attribute_value": [
+                    "54",
+                    "54.3"
+                  ],
+                  "value": 14684
+                }
+              ]
+            },
+            {
+              "name": "Average sunlight for December",
+              "children": [
+                {
+                  "name": "Average sunlight for December",
+                  "attribute_value": [
+                    "41",
+                    "34"
+                  ],
+                  "value": 1141
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Color of Precipitation",
+          "children": [
+            {
+              "name": "Color of Precipitation",
+              "attribute_value": [
+                "green"
+              ],
+              "value": 6257
+            }
+          ]
+        },
+        {
+          "name": "Source",
+          "children": [
+            {
+              "name": "Source",
+              "attribute_value": [
+                "Weather Atlas",
+                "wetteronline.de",
+                "weatheronline.de"
+              ],
+              "value": 11371
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Administrative",
+      "children": [
+        {
+          "name": "Population Metro",
+          "children": [
+            {
+              "name": "Population Metro",
+              "attribute_value": [
+                "5604523"
+              ],
+              "value": 9230
+            }
+          ]
+        },
+        {
+          "name": "Population Urban",
+          "children": [
+            {
+              "name": "Population Urban",
+              "attribute_value": [
+                "2319029"
+              ],
+              "value": 14743
+            }
+          ]
+        },
+        {
+          "name": "Total Area",
+          "children": [
+            {
+              "name": "Total Area",
+              "attribute_value": [
+                "2.4831E8",
+                "248.31"
+              ],
+              "value": 6953
+            }
+          ]
+        },
+        {
+          "name": "Postal Codes",
+          "children": [
+            {
+              "name": "Postal Codes",
+              "attribute_value": [
+                "60306–60599, 65929–65936",
+                "60306"
+              ],
+              "value": 12464
+            }
+          ]
+        },
+        {
+          "name": "Area Code",
+          "children": [
+            {
+              "name": "Area Code",
+              "attribute_value": [
+                "069,06101,06109",
+                "690610106109"
+              ],
+              "value": 13883
+            }
+          ]
+        },
+        {
+          "name": "Vehicle License Number",
+          "children": [
+            {
+              "name": "Vehicle License Number",
+              "attribute_value": [
+                "F"
+              ],
+              "value": 1937
+            }
+          ]
+        },
+        {
+          "name": "City Name",
+          "children": [
+            {
+              "name": "City Name",
+              "attribute_value": [
+                "Frankfurt am Main",
+                "Frankfurt am Main"
+              ],
+              "value": 3532
+            }
+          ]
+        },
+        {
+          "name": "Image name of Flag",
+          "children": [
+            {
+              "name": "Image name of Flag",
+              "attribute_value": [
+                "Flag of Frankfurt am Main.svg"
+              ],
+              "value": 4804
+            }
+          ]
+        },
+        {
+          "name": "Federal State",
+          "children": [
+            {
+              "name": "Federal State",
+              "attribute_value": [
+                "Hesse"
+              ],
+              "value": 5817
+            }
+          ]
+        },
+        {
+          "name": "Region",
+          "children": [
+            {
+              "name": "Region",
+              "attribute_value": [
+                "Darmstadt"
+              ],
+              "value": 7347
+            }
+          ]
+        },
+        {
+          "name": "No of Divisions",
+          "children": [
+            {
+              "name": "No of Divisions",
+              "attribute_value": [
+                "16",
+                "46"
+              ],
+              "value": 7255
+            }
+          ]
+        },
+        {
+          "name": "Caption of Image",
+          "children": [
+            {
+              "name": "Caption of Image",
+              "attribute_value": [
+                "Clockwise from top: Frankfurt's skyline, European Central Bank, Romans' Hill with Old St Nicholas Church at night, Romans' Hill, Chicken Market in the New Old Town, Old Opera"
+              ],
+              "value": 11679
+            }
+          ]
+        },
+        {
+          "name": "Website",
+          "children": [
+            {
+              "name": "Website",
+              "attribute_value": [
+                "http://www.frankfurt.de/"
+              ],
+              "value": 14561
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Geography",
+      "children": [
+        {
+          "name": "Elevation",
+          "children": [
+            {
+              "name": "Elevation",
+              "attribute_value": [
+                "112.0",
+                "112"
+              ],
+              "value": 11214
+            }
+          ]
+        },
+        {
+          "name": "WGS84 Latitude",
+          "children": [
+            {
+              "name": "WGS84 Latitude",
+              "attribute_value": [
+                "50.11666666666667"
+              ],
+              "value": 6162
+            }
+          ]
+        },
+        {
+          "name": "WGS84 Longitude",
+          "children": [
+            {
+              "name": "WGS84 Longitude",
+              "attribute_value": [
+                "8.683333333333334"
+              ],
+              "value": 12857
+            }
+          ]
+        },
+        {
+          "name": "GPS Coordinates (WGS84)",
+          "children": [
+            {
+              "name": "GPS Coordinates (WGS84)",
+              "attribute_value": [
+                "50.11666666666667 8.683333333333334"
+              ],
+              "value": 1925
+            }
+          ]
+        },
+        {
+          "name": "Bounded by -South",
+          "children": [
+            {
+              "name": "Bounded by -South",
+              "attribute_value": [
+                "Stuttgart",
+                "Darmstadt",
+                "Karlsruhe",
+                "Mannheim"
+              ],
+              "value": 9909
+            }
+          ]
+        },
+        {
+          "name": "Bounded by -South West",
+          "children": [
+            {
+              "name": "Bounded by -South West",
+              "attribute_value": [
+                "Saarbrücken",
+                "Kaiserslautern"
+              ],
+              "value": 12601
+            }
+          ]
+        },
+        {
+          "name": "Bounded by -South East",
+          "children": [
+            {
+              "name": "Bounded by -South East",
+              "attribute_value": [
+                "Nuremberg"
+              ],
+              "value": 14029
+            }
+          ]
+        },
+        {
+          "name": "Bounded by -North",
+          "children": [
+            {
+              "name": "Bounded by -North",
+              "attribute_value": [
+                "Gießen",
+                "Marburg"
+              ],
+              "value": 11153
+            }
+          ]
+        },
+        {
+          "name": "Bounded by -East",
+          "children": [
+            {
+              "name": "Bounded by -East",
+              "attribute_value": [
+                "Würzburg"
+              ],
+              "value": 2003
+            }
+          ]
+        },
+        {
+          "name": "Bounded by -North East",
+          "children": [
+            {
+              "name": "Bounded by -North East",
+              "attribute_value": [
+                "Fulda"
+              ],
+              "value": 7573
+            }
+          ]
+        },
+        {
+          "name": "Bounded by -West",
+          "children": [
+            {
+              "name": "Bounded by -West",
+              "attribute_value": [
+                "Wiesbaden"
+              ],
+              "value": 12190
+            }
+          ]
+        },
+        {
+          "name": "Bounded by -North West",
+          "children": [
+            {
+              "name": "Bounded by -North West",
+              "attribute_value": [
+                "Koblenz",
+                "Bonn",
+                "Cologne"
+              ],
+              "value": 12909
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Political",
+      "children": [
+        {
+          "name": "Ruling Party",
+          "children": [
+            {
+              "name": "Ruling Party",
+              "attribute_value": [
+                "CDU",
+                "SPD",
+                "Green"
+              ],
+              "value": 4284
+            }
+          ]
+        },
+        {
+          "name": "Leader Name",
+          "children": [
+            {
+              "name": "Leader Name",
+              "attribute_value": [
+                "Nargess_Eskandari-Grünberg"
+              ],
+              "value": 3336
+            }
+          ]
+        },
+        {
+          "name": "Title of Leader",
+          "children": [
+            {
+              "name": "Title of Leader",
+              "attribute_value": [
+                "Lord Mayor"
+              ],
+              "value": 11816
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
