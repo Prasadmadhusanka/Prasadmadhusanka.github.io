@@ -15,7 +15,7 @@
                   "attribute_value": [
                     "13.5"
                   ],
-                  "value": 12196
+                  "value": 7528
                 }
               ]
             },
@@ -28,7 +28,7 @@
                     "2.4",
                     "1.9"
                   ],
-                  "value": 13053
+                  "value": 9031
                 }
               ]
             },
@@ -41,7 +41,7 @@
                     "4.5",
                     "3.9"
                   ],
-                  "value": 8400
+                  "value": 9150
                 }
               ]
             },
@@ -54,7 +54,7 @@
                     "0.2",
                     "-0.3"
                   ],
-                  "value": 7175
+                  "value": 3114
                 }
               ]
             },
@@ -66,7 +66,7 @@
                   "attribute_value": [
                     "-17.1"
                   ],
-                  "value": 5150
+                  "value": 11328
                 }
               ]
             },
@@ -79,19 +79,7 @@
                     "84.5",
                     "81"
                   ],
-                  "value": 9161
-                }
-              ]
-            },
-            {
-              "name": "Average sunlight for January",
-              "children": [
-                {
-                  "name": "Average sunlight for January",
-                  "attribute_value": [
-                    "44.5"
-                  ],
-                  "value": 10074
+                  "value": 3581
                 }
               ]
             }
@@ -108,7 +96,7 @@
                   "attribute_value": [
                     "18.7"
                   ],
-                  "value": 11271
+                  "value": 4836
                 }
               ]
             },
@@ -121,7 +109,7 @@
                     "2.9",
                     "2.5"
                   ],
-                  "value": 2063
+                  "value": 2849
                 }
               ]
             },
@@ -134,7 +122,7 @@
                     "5.5",
                     "5.1"
                   ],
-                  "value": 9725
+                  "value": 11834
                 }
               ]
             },
@@ -147,7 +135,7 @@
                     "0.3",
                     "0"
                   ],
-                  "value": 11669
+                  "value": 7745
                 }
               ]
             },
@@ -159,7 +147,7 @@
                   "attribute_value": [
                     "-15.9"
                   ],
-                  "value": 14549
+                  "value": 8364
                 }
               ]
             },
@@ -172,19 +160,7 @@
                     "58.1",
                     "57"
                   ],
-                  "value": 6823
-                }
-              ]
-            },
-            {
-              "name": "Average sunlight for February",
-              "children": [
-                {
-                  "name": "Average sunlight for February",
-                  "attribute_value": [
-                    "76.2"
-                  ],
-                  "value": 13983
+                  "value": 8718
                 }
               ]
             }
@@ -201,7 +177,7 @@
                   "attribute_value": [
                     "23.2"
                   ],
-                  "value": 3336
+                  "value": 7950
                 }
               ]
             },
@@ -214,7 +190,7 @@
                     "6",
                     "5.1"
                   ],
-                  "value": 7948
+                  "value": 9116
                 }
               ]
             },
@@ -227,7 +203,7 @@
                     "9.1",
                     "8.3"
                   ],
-                  "value": 7902
+                  "value": 6658
                 }
               ]
             },
@@ -240,7 +216,7 @@
                     "2.9",
                     "2.2"
                   ],
-                  "value": 12724
+                  "value": 13025
                 }
               ]
             },
@@ -252,7 +228,7 @@
                   "attribute_value": [
                     "-11.1"
                   ],
-                  "value": 11164
+                  "value": 574
                 }
               ]
             },
@@ -265,19 +241,7 @@
                     "78.2",
                     "75"
                   ],
-                  "value": 12238
-                }
-              ]
-            },
-            {
-              "name": "Average sunlight for March",
-              "children": [
-                {
-                  "name": "Average sunlight for March",
-                  "attribute_value": [
-                    "102.6"
-                  ],
-                  "value": 9892
+                  "value": 6615
                 }
               ]
             }
@@ -294,7 +258,7 @@
                   "attribute_value": [
                     "28.9"
                   ],
-                  "value": 7489
+                  "value": 9374
                 }
               ]
             },
@@ -307,7 +271,7 @@
                     "8.9",
                     "8.5"
                   ],
-                  "value": 5652
+                  "value": 12505
                 }
               ]
             },
@@ -320,7 +284,7 @@
                     "12.7",
                     "12.4"
                   ],
-                  "value": 11224
+                  "value": 8503
                 }
               ]
             },
@@ -333,7 +297,7 @@
                     "5",
                     "4.8"
                   ],
-                  "value": 7443
+                  "value": 9856
                 }
               ]
             },
@@ -345,7 +309,7 @@
                   "attribute_value": [
                     "-4.6"
                   ],
-                  "value": 9817
+                  "value": 4056
                 }
               ]
             },
@@ -358,19 +322,7 @@
                     "61",
                     "68"
                   ],
-                  "value": 7709
-                }
-              ]
-            },
-            {
-              "name": "Average sunlight for April",
-              "children": [
-                {
-                  "name": "Average sunlight for April",
-                  "attribute_value": [
-                    "147"
-                  ],
-                  "value": 11441
+                  "value": 8728
                 }
               ]
             }
@@ -387,7 +339,7 @@
                   "attribute_value": [
                     "29.8"
                   ],
-                  "value": 7714
+                  "value": 1735
                 }
               ]
             },
@@ -400,7 +352,7 @@
                     "13.4",
                     "12.9"
                   ],
-                  "value": 13231
+                  "value": 11272
                 }
               ]
             },
@@ -413,7 +365,7 @@
                     "17.6",
                     "17.1"
                   ],
-                  "value": 7721
+                  "value": 1855
                 }
               ]
             },
@@ -426,7 +378,7 @@
                     "9.1",
                     "8.7"
                   ],
-                  "value": 9402
+                  "value": 4501
                 }
               ]
             },
@@ -438,7 +390,7 @@
                   "attribute_value": [
                     "-0.6"
                   ],
-                  "value": 12516
+                  "value": 11198
                 }
               ]
             },
@@ -451,19 +403,7 @@
                     "72.2",
                     "73"
                   ],
-                  "value": 3290
-                }
-              ]
-            },
-            {
-              "name": "Average sunlight for May",
-              "children": [
-                {
-                  "name": "Average sunlight for May",
-                  "attribute_value": [
-                    "192.6"
-                  ],
-                  "value": 10502
+                  "value": 9903
                 }
               ]
             }
@@ -480,7 +420,7 @@
                   "attribute_value": [
                     "32.3"
                   ],
-                  "value": 6994
+                  "value": 2440
                 }
               ]
             },
@@ -493,7 +433,7 @@
                     "15.8",
                     "15.7"
                   ],
-                  "value": 3852
+                  "value": 10094
                 }
               ]
             },
@@ -506,7 +446,7 @@
                     "19.9",
                     "20"
                   ],
-                  "value": 12028
+                  "value": 2720
                 }
               ]
             },
@@ -519,7 +459,7 @@
                     "11.6",
                     "11.5"
                   ],
-                  "value": 7788
+                  "value": 12315
                 }
               ]
             },
@@ -531,7 +471,7 @@
                   "attribute_value": [
                     "1"
                   ],
-                  "value": 12997
+                  "value": 3991
                 }
               ]
             },
@@ -544,19 +484,7 @@
                     "92.8",
                     "97"
                   ],
-                  "value": 5315
-                }
-              ]
-            },
-            {
-              "name": "Average sunlight for June",
-              "children": [
-                {
-                  "name": "Average sunlight for June",
-                  "attribute_value": [
-                    "181.6"
-                  ],
-                  "value": 11094
+                  "value": 9013
                 }
               ]
             }
@@ -573,7 +501,7 @@
                   "attribute_value": [
                     "33.5"
                   ],
-                  "value": 4493
+                  "value": 5829
                 }
               ]
             },
@@ -586,7 +514,7 @@
                     "18",
                     "17.4"
                   ],
-                  "value": 8746
+                  "value": 4076
                 }
               ]
             },
@@ -599,7 +527,7 @@
                     "22.2",
                     "21.6"
                   ],
-                  "value": 6449
+                  "value": 6592
                 }
               ]
             },
@@ -612,7 +540,7 @@
                     "13.7",
                     "13.2"
                   ],
-                  "value": 4839
+                  "value": 844
                 }
               ]
             },
@@ -624,7 +552,7 @@
                   "attribute_value": [
                     "4.4"
                   ],
-                  "value": 7822
+                  "value": 14739
                 }
               ]
             },
@@ -637,19 +565,7 @@
                     "81.2",
                     "89"
                   ],
-                  "value": 4091
-                }
-              ]
-            },
-            {
-              "name": "Average sunlight for July",
-              "children": [
-                {
-                  "name": "Average sunlight for July",
-                  "attribute_value": [
-                    "186"
-                  ],
-                  "value": 9477
+                  "value": 3557
                 }
               ]
             }
@@ -666,7 +582,7 @@
                   "attribute_value": [
                     "34.3"
                   ],
-                  "value": 12815
+                  "value": 3011
                 }
               ]
             },
@@ -679,7 +595,7 @@
                     "18",
                     "17.2"
                   ],
-                  "value": 6039
+                  "value": 5333
                 }
               ]
             },
@@ -692,7 +608,7 @@
                     "22.3",
                     "21.6"
                   ],
-                  "value": 4388
+                  "value": 2416
                 }
               ]
             },
@@ -705,7 +621,7 @@
                     "13.7",
                     "13.3"
                   ],
-                  "value": 9672
+                  "value": 10468
                 }
               ]
             },
@@ -717,7 +633,7 @@
                   "attribute_value": [
                     "6"
                   ],
-                  "value": 1094
+                  "value": 14779
                 }
               ]
             },
@@ -730,19 +646,7 @@
                     "78.8",
                     "77"
                   ],
-                  "value": 6651
-                }
-              ]
-            },
-            {
-              "name": "Average sunlight for August",
-              "children": [
-                {
-                  "name": "Average sunlight for August",
-                  "attribute_value": [
-                    "183.1"
-                  ],
-                  "value": 4848
+                  "value": 1774
                 }
               ]
             }
@@ -759,7 +663,7 @@
                   "attribute_value": [
                     "30.6"
                   ],
-                  "value": 9519
+                  "value": 14442
                 }
               ]
             },
@@ -772,7 +676,7 @@
                     "14.7",
                     "14.4"
                   ],
-                  "value": 8788
+                  "value": 10431
                 }
               ]
             },
@@ -785,7 +689,7 @@
                     "18.3",
                     "18.4"
                   ],
-                  "value": 12101
+                  "value": 11775
                 }
               ]
             },
@@ -797,7 +701,7 @@
                   "attribute_value": [
                     "11.1"
                   ],
-                  "value": 4904
+                  "value": 2170
                 }
               ]
             },
@@ -809,7 +713,7 @@
                   "attribute_value": [
                     "3.2"
                   ],
-                  "value": 10772
+                  "value": 9443
                 }
               ]
             },
@@ -822,19 +726,7 @@
                     "78",
                     "73"
                   ],
-                  "value": 7439
-                }
-              ]
-            },
-            {
-              "name": "Average sunlight for September",
-              "children": [
-                {
-                  "name": "Average sunlight for September",
-                  "attribute_value": [
-                    "134.5"
-                  ],
-                  "value": 8143
+                  "value": 14913
                 }
               ]
             }
@@ -851,7 +743,7 @@
                   "attribute_value": [
                     "26.1"
                   ],
-                  "value": 7139
+                  "value": 14108
                 }
               ]
             },
@@ -863,7 +755,7 @@
                   "attribute_value": [
                     "10.7"
                   ],
-                  "value": 5990
+                  "value": 14446
                 }
               ]
             },
@@ -876,7 +768,7 @@
                     "13.7",
                     "14"
                   ],
-                  "value": 7602
+                  "value": 5834
                 }
               ]
             },
@@ -889,7 +781,7 @@
                     "7.6",
                     "7.9"
                   ],
-                  "value": 4258
+                  "value": 12208
                 }
               ]
             },
@@ -901,7 +793,7 @@
                   "attribute_value": [
                     "-2.3"
                   ],
-                  "value": 4409
+                  "value": 4263
                 }
               ]
             },
@@ -914,19 +806,7 @@
                     "75.1",
                     "70"
                   ],
-                  "value": 5045
-                }
-              ]
-            },
-            {
-              "name": "Average sunlight for October",
-              "children": [
-                {
-                  "name": "Average sunlight for October",
-                  "attribute_value": [
-                    "111.1"
-                  ],
-                  "value": 13970
+                  "value": 1097
                 }
               ]
             }
@@ -943,7 +823,7 @@
                   "attribute_value": [
                     "19.8"
                   ],
-                  "value": 10608
+                  "value": 2980
                 }
               ]
             },
@@ -956,7 +836,7 @@
                     "5.9",
                     "5.7"
                   ],
-                  "value": 12805
+                  "value": 5551
                 }
               ]
             },
@@ -969,7 +849,7 @@
                     "8.2",
                     "8.1"
                   ],
-                  "value": 13419
+                  "value": 11389
                 }
               ]
             },
@@ -982,7 +862,7 @@
                     "3.6",
                     "3.5"
                   ],
-                  "value": 12620
+                  "value": 2765
                 }
               ]
             },
@@ -994,7 +874,7 @@
                   "attribute_value": [
                     "-6.7"
                   ],
-                  "value": 7423
+                  "value": 4871
                 }
               ]
             },
@@ -1007,19 +887,7 @@
                     "81.1",
                     "83"
                   ],
-                  "value": 5372
-                }
-              ]
-            },
-            {
-              "name": "Average sunlight for November",
-              "children": [
-                {
-                  "name": "Average sunlight for November",
-                  "attribute_value": [
-                    "55.7"
-                  ],
-                  "value": 4929
+                  "value": 519
                 }
               ]
             }
@@ -1036,7 +904,7 @@
                   "attribute_value": [
                     "15.8"
                   ],
-                  "value": 2615
+                  "value": 11134
                 }
               ]
             },
@@ -1049,7 +917,7 @@
                     "3.6",
                     "2.9"
                   ],
-                  "value": 11072
+                  "value": 6797
                 }
               ]
             },
@@ -1062,7 +930,7 @@
                     "5.6",
                     "4.9"
                   ],
-                  "value": 890
+                  "value": 7693
                 }
               ]
             },
@@ -1075,7 +943,7 @@
                     "1.6",
                     "0.9"
                   ],
-                  "value": 11003
+                  "value": 14610
                 }
               ]
             },
@@ -1087,7 +955,7 @@
                   "attribute_value": [
                     "-16.7"
                   ],
-                  "value": 13592
+                  "value": 11387
                 }
               ]
             },
@@ -1100,19 +968,7 @@
                     "93.1",
                     "90"
                   ],
-                  "value": 10211
-                }
-              ]
-            },
-            {
-              "name": "Average sunlight for December",
-              "children": [
-                {
-                  "name": "Average sunlight for December",
-                  "attribute_value": [
-                    "38.8"
-                  ],
-                  "value": 3248
+                  "value": 2301
                 }
               ]
             }
@@ -1126,7 +982,7 @@
               "attribute_value": [
                 "green"
               ],
-              "value": 4578
+              "value": 5795
             }
           ]
         }
@@ -1144,7 +1000,7 @@
                 "2.1034E8",
                 "210.34"
               ],
-              "value": 8274
+              "value": 5502
             }
           ]
         },
@@ -1157,7 +1013,7 @@
                 "45001–45359",
                 "45001"
               ],
-              "value": 5002
+              "value": 4438
             }
           ]
         },
@@ -1170,7 +1026,7 @@
                 "0201, 02054 (Kettwig)",
                 "20102054"
               ],
-              "value": 12905
+              "value": 6615
             }
           ]
         },
@@ -1182,7 +1038,7 @@
               "attribute_value": [
                 "E"
               ],
-              "value": 3422
+              "value": 1727
             }
           ]
         },
@@ -1194,7 +1050,7 @@
               "attribute_value": [
                 "Essen"
               ],
-              "value": 13382
+              "value": 3969
             }
           ]
         },
@@ -1206,7 +1062,7 @@
               "attribute_value": [
                 "Flagge Essen.svg"
               ],
-              "value": 9123
+              "value": 586
             }
           ]
         },
@@ -1218,7 +1074,7 @@
               "attribute_value": [
                 "North Rhine-Westphalia"
               ],
-              "value": 14704
+              "value": 10670
             }
           ]
         },
@@ -1230,7 +1086,7 @@
               "attribute_value": [
                 "Düsseldorf_(region)"
               ],
-              "value": 6528
+              "value": 8315
             }
           ]
         },
@@ -1242,7 +1098,7 @@
               "attribute_value": [
                 "9"
               ],
-              "value": 14869
+              "value": 2420
             }
           ]
         },
@@ -1254,7 +1110,7 @@
               "attribute_value": [
                 "Clockwise from top: Skyline of the city, Essen Business District, Essen Minster, Villa Hügel, Essen Saalbau, UNESCO world heritage site Zollverein Coal Mine Industrial Complex, Borbeck Castle, ThyssenKrupp Headquarters"
               ],
-              "value": 1077
+              "value": 3598
             }
           ]
         },
@@ -1266,7 +1122,7 @@
               "attribute_value": [
                 "https://www.essen.de/"
               ],
-              "value": 10244
+              "value": 14798
             }
           ]
         }
@@ -1284,7 +1140,7 @@
                 "116.0",
                 "116"
               ],
-              "value": 5741
+              "value": 7286
             }
           ]
         },
@@ -1296,7 +1152,7 @@
               "attribute_value": [
                 "51.450833333333335"
               ],
-              "value": 9498
+              "value": 9238
             }
           ]
         },
@@ -1308,7 +1164,7 @@
               "attribute_value": [
                 "7.013055555555556"
               ],
-              "value": 14206
+              "value": 13248
             }
           ]
         },
@@ -1320,7 +1176,7 @@
               "attribute_value": [
                 "51.450833333333335 7.013055555555556"
               ],
-              "value": 8291
+              "value": 1659
             }
           ]
         }
@@ -1337,7 +1193,7 @@
               "attribute_value": [
                 "Thomas_Kufen"
               ],
-              "value": 3966
+              "value": 2874
             }
           ]
         },
@@ -1349,7 +1205,7 @@
               "attribute_value": [
                 "Oberbürgermeister"
               ],
-              "value": 8326
+              "value": 6240
             }
           ]
         }
