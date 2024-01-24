@@ -1,6 +1,9 @@
 let dataset = "";
 let visualisation_approach = "";
 
+let spiral_lat;
+let spiral_lon;
+
 let jsonNames1 = [
   "./data/d3/berlin_d3_um.json",
   "./data/d3/hamburg_d3_um.json",
@@ -42,17 +45,6 @@ let cities = [
 
 var map = L.map("leaflet-map").setView([51.292243, 9.556749], 6);
 
-var cityLabels = L.tileLayer(
-  "https://tiles.stadiamaps.com/tiles/stamen_toner_labels/{z}/{x}/{y}{r}.{ext}",
-  {
-    minZoom: 0,
-    maxZoom: 20,
-    attribution:
-      '&copy; <a href="https://www.stadiamaps.com/" target="_blank">Stadia Maps</a> &copy; <a href="https://www.stamen.com/" target="_blank">Stamen Design</a> &copy; <a href="https://openmaptiles.org/" target="_blank">OpenMapTiles</a> &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
-    ext: "png",
-  }
-);
-
 var OpenTopoMap = L.tileLayer(
   "https://{s}.tile.opentopomap.org/{z}/{x}/{y}.png",
   {
@@ -70,40 +62,13 @@ var OpenStreetMap_DE = L.tileLayer(
   }
 );
 
-/*var satellite = L.tileLayer(
-  "https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}",
-  {
-    attribution:
-      "Tiles &copy; Esri &mdash; Source: Esri, i-cubed, USDA, USGS, AEX, GeoEye, Getmapping, Aerogrid, IGN, IGP, UPR-EGP, and the GIS User Community",
-  }
-);*/
-
 //leaflet layer control
 var baseMaps = {
   "Open Topo Map": OpenTopoMap,
   "Open Street Map": OpenStreetMap_DE,
-  //Satellite: satellite,
 };
 
 L.control.layers(baseMaps).addTo(map);
-
-/*
-// Create an overlay layers object
-var overlays = {
-  "City Labels": cityLabels,
-};
-
-L.control.layers(baseMaps, overlays).addTo(map);
-
-// Event listener to show/hide city labels based on the selected layer
-map.on("baselayerchange", function (eventLayer) {
-  if (eventLayer.name == "Satellite") {
-    map.addLayer(cityLabels);
-  } else {
-    map.removeLayer(cityLabels);
-  }
-});
-*/
 
 var marker = [];
 var markerLayer = L.layerGroup();
@@ -171,7 +136,7 @@ function getMarkerClickHandler(index) {
   return function () {
     if (
       dataset == "UmweltBundesamt" &&
-      visualisation_approach == "Scrolling Approach"
+      visualisation_approach == "Visualisation Approach 1"
     ) {
       fetch("./data/scrolling/data_for_scrolling_um.json")
         .then((response) => response.json())
@@ -181,7 +146,7 @@ function getMarkerClickHandler(index) {
         .catch((error) => console.error("Error:", error));
     } else if (
       dataset == "DBpedia" &&
-      visualisation_approach == "Scrolling Approach"
+      visualisation_approach == "Visualisation Approach 1"
     ) {
       fetch("./data/scrolling/data_for_scrolling_dbpedia.json")
         .then((response) => response.json())
@@ -191,7 +156,7 @@ function getMarkerClickHandler(index) {
         .catch((error) => console.error("Error:", error));
     } else if (
       dataset == "UmweltBundesamt" &&
-      visualisation_approach == "Spiral Leaflet Markers Approach"
+      visualisation_approach == "Visualisation Approach 2"
     ) {
       fetch("./data/spiral/data_for_spiral_leaflet_um.json")
         .then((response) => response.json())
@@ -202,7 +167,7 @@ function getMarkerClickHandler(index) {
         .catch((error) => console.error("Error:", error));
     } else if (
       dataset == "DBpedia" &&
-      visualisation_approach == "Spiral Leaflet Markers Approach"
+      visualisation_approach == "Visualisation Approach 2"
     ) {
       fetch("./data/spiral/data_for_spiral_leaflet_dbpedia.json")
         .then((response) => response.json())
@@ -213,12 +178,12 @@ function getMarkerClickHandler(index) {
         .catch((error) => console.error("Error:", error));
     } else if (
       dataset == "UmweltBundesamt" &&
-      visualisation_approach == "D3 Zoomable Circle Packing Approach"
+      visualisation_approach == "Visualisation Approach 3"
     ) {
       inject_d3_approach(cities[index], jsonNames1[index]);
     } else if (
       dataset == "DBpedia" &&
-      visualisation_approach == "D3 Zoomable Circle Packing Approach"
+      visualisation_approach == "Visualisation Approach 3"
     ) {
       inject_d3_approach(cities[index], jsonNames2[index]);
     } else if (dataset != "" && visualisation_approach == "") {
@@ -296,6 +261,15 @@ function inject_spiral_approach(data, num) {
     zoom: 15, // Initial zoom level
     attributionControl: false, // Disable attribution control
   });
+
+  var OpenTopoMap1 = L.tileLayer(
+    "https://{s}.tile.opentopomap.org/{z}/{x}/{y}.png",
+    {
+      maxZoom: 20,
+      attribution:
+        'Map data: &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, <a href="http://viewfinderpanoramas.org">SRTM</a> | Map style: &copy; <a href="https://opentopomap.org">OpenTopoMap</a> (<a href="https://creativecommons.org/licenses/by-sa/3.0/">CC-BY-SA</a>)',
+    }
+  ).addTo(map1);
 
   // Define the center point of the spiral
   var center = { lat: 0, lng: 0 };
