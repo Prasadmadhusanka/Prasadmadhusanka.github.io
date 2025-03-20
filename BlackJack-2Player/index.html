@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>BLACK JACK</title>
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/x-icon" href="assets/favicon.ico">
+
+  <!-- Open Graph Meta Tags -->
+  <meta property="og:title" content="Blackjack Game - Two Player">
+  <meta property="og:description" content="Play a classic Blackjack game against the Computer">
+
+  <!-- Bootstrap CSS -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+
+  <!-- Local Styles CSS -->
+  <link rel="stylesheet" href="styles.css">
+</head>
+</head>
+
+<body>
+  <!-- Mobile View Message -->
+  <div id="mobile-message" class="container fluid">
+    ⚠️ This game is optimized for Tablets and Desktops. Please play on a Tablet or Desktop Computer!
+  </div>
+
+  <!-- Intro Page -->
+  <div id="divIntroPage" class="container fluid">
+    <div class="row">
+      <div class="col-12">
+        <img id="imgBlackJackIntro"
+          src="https://raw.githubusercontent.com/Prasadmadhusanka/blackjack-two-player-written-in-javascript/main/assets/Other_images/BlackJack.png"
+          class="img-fluid mb-3" alt="BlackJack Logo">
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-12">
+        <button id="btnBlackJackRules1">GAME RULES</button>
+        <button id="btnPlayGame1">PLAY GAME</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- BlackJack Rules Page -->
+  <div id="divBlackJackRulesPage" class="container fluid">
+    <div class="row">
+      <div class="col-2">
+        <img id="imgBlackJackRulesLogo"
+          src="https://raw.githubusercontent.com/Prasadmadhusanka/blackjack-two-player-written-in-javascript/main/assets/Other_images/GameRulesLogo.png">
+      </div>
+      <div class="col-8" id="divBlackJackRulesPaneButtons1">
+        <button id="btnCardValues">CARD VALUES</button>
+        <button id="btnPlayersTurn">PLAYER'S TURN</button>
+        <button id="btnComputersTurn">COMPUTER'S TURN</button>
+        <button id="btnWinnerSelection">WINNER SELECTION</button>
+      </div>
+      <div class="col-2" id="divBlackJackRulesPaneButtons2">
+        <button id="btnPlayGame2">PLAY GAME</button>
+        <button id="btnResumeGame">RESUME GAME</button>
+        <button id="btnClose">CLOSE</button>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col" id="divBlackJackRules">
+        <img id="imgBlackJackRules">
+      </div>
+    </div>
+  </div>
+
+  <!-- Final Result Popup -->
+  <div id="divFinalResult" class="container">
+    <div class="row">
+      <div class="col">
+        <h2 id="lblFinalResult"></h2>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col">
+        <button id="btnPlayAgain">PLAY AGAIN</button>
+        <button id="btnMainWindow">MAIN WINDOW</button>
+      </div>
+    </div>
+  </div>
+  
+  <h1 id="lblHint">Shuffling</h1>
+
+  <!-- Game Main Window -->
+  <div class="container fluid" id="divGamePage">
+    <div class="row">
+      <div class="col-4" id="divBJWelcome">
+        <h2>BLACKJACK GAME</h2>
+      </div>
+      <div class="col-8" id="divHeaderButtons">
+        <button id="btnBlackJackRules2">GAME RULES</button>
+        <button id="btnNewGame">NEW GAME</button>
+      </div>
+    </div>
+
+    <div class="row" id="divCardSection">
+      <div class="col-3" id="divCurrentCard">
+        <div class="row">
+          <div class="col">
+            <h4>CURRENT CARD</h4>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col">
+            <img id="imgCurrentCard">
+          </div>
+        </div>
+      </div>
+      <div class="col-1" id="divHitStay">
+        <button id="btnHit">HIT</button>
+        <button id="btnStay">STAY</button>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-6" id="divPlayerCards">
+        <h3>PLAYER SCORE : <span id="lblPlayerScore">0</span></h3>
+        <h5 id="lblPlayerCards">CARDS OF THE PLAYER</h5>
+      </div>
+      <div class="col-6" id="divComputerCards">
+        <h3>COMPUTER SCORE : <span id="lblComputerScore">0</span></h3>
+        <h5 id="lblComputerCards">CARDS OF THE COMPUTER</h5>
+      </div>
+    </div>
+  </div>
+
+  <!-- Bootstrap JS -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
+    crossorigin="anonymous"></script>
+
+  <script src="handler.js"></script>
+</body>
+
+</html>
